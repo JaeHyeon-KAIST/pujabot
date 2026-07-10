@@ -1,0 +1,164 @@
+[
+  {
+    "id": "new-business",
+    "label": "New business",
+    "sampleInput": "I'm starting a new business. I want to invoke peace and prosperity for my family.",
+    "keywords": ["new business", "business", "starting", "venture", "startup", "shop opening", "new office", "company"],
+    "city": "bengaluru",
+    "chips": ["New business", "Smartism", "North", "₹3–7K", "Hindi"],
+    "pujaId": "satyanarayan",
+    "matchBadge": "Smartism · North matched",
+    "whyPuja": "You mentioned a new business and prayers for family peace and prosperity. Satyanarayan Puja is the most widely performed gratitude-and-blessing ritual for new beginnings in North Indian Smarta households — a prosperity prayer and a family blessing in one 2-hour home ceremony.",
+    "basisTag": "Based on: your intent + panchang · Pandit-reviewed template",
+    "date": {
+      "day": "Wed, Jul 29",
+      "detail": "Purnima (Guru Purnima) · evening Pradosh 6:50 – 8:05 PM",
+      "window": "Evening Pradosh · 6:50 – 8:05 PM",
+      "why": "Satyanarayan Puja is traditionally performed on Purnima evening — the next Purnima is Jul 29.",
+      "alt": "Earlier: Thu, Jul 16 · Vishnu's day"
+    },
+    "alsoConsider": {
+      "pujaId": "lakshmi-ganesh",
+      "reason": "Lakshmi-Ganesh Puja — if your focus is specifically wealth and removing business obstacles."
+    },
+    "panditIds": ["ramakrishna-sastry", "ramanathan-iyer", "venkatesh-murthy", "suresh-tiwari", "mahesh-bhat", "krishnamurthy-shastri"],
+    "bestPanditId": "ramakrishna-sastry",
+    "budgetRange": [3000, 7000],
+    "sankalpaPrefill": "For peace and prosperity as we begin our new business"
+  },
+  {
+    "id": "new-home",
+    "label": "New home",
+    "sampleInput": "We just moved into a new flat in HSR Layout.",
+    "keywords": ["new flat", "new house", "new home", "moved", "moving in", "housewarming", "griha pravesh", "apartment", "flat"],
+    "city": "bengaluru",
+    "chips": ["New home", "South", "₹7–15K", "Kannada"],
+    "pujaId": "griha-pravesh",
+    "matchBadge": "South · Bengaluru matched",
+    "whyPuja": "A first night in a new home traditionally follows Griha Pravesh. Since your flat is newly occupied, Vastu Shanti is bundled to neutralize construction-related doshas.",
+    "basisTag": "Based on: your intent + panchang · Pandit-reviewed template",
+    "date": {
+      "day": "Thu, Jul 16",
+      "detail": "Shukla Tritiya · Abhijit Muhurat 12:00 – 12:51 PM (Bengaluru)",
+      "window": "Abhijit Muhurat · 12:00 – 12:51 PM",
+      "why": "Tritiya is among the traditionally auspicious Griha Pravesh tithis (suitability pending advisor confirmation).",
+      "alt": "Also good: Mon, Jul 20 · morning"
+    },
+    "alsoConsider": {
+      "pujaId": "satyanarayan",
+      "reason": "Satyanarayan Puja — many families add it the same day as a gratitude ritual."
+    },
+    "panditIds": ["ramakrishna-sastry", "venkatesh-murthy", "ramanathan-iyer", "suresh-tiwari", "mahesh-bhat", "krishnamurthy-shastri"],
+    "bestPanditId": "ramakrishna-sastry",
+    "budgetRange": [7000, 15000],
+    "sankalpaPrefill": "For lasting peace and happiness in our new home"
+  },
+  {
+    "id": "health",
+    "label": "Health & recovery",
+    "sampleInput": "My father is having surgery next month. I want to pray for his health.",
+    "keywords": ["health", "surgery", "hospital", "illness", "recovery", "sick", "operation", "healing", "unwell"],
+    "city": "delhi",
+    "chips": ["Health & recovery", "North", "Under ₹3K", "Hindi"],
+    "pujaId": "maha-mrityunjaya",
+    "matchBadge": "North · Delhi matched",
+    "whyPuja": "For a family member's surgery and recovery, the Maha Mrityunjaya Jaap (108 chants) is the traditional protection ritual. Mondays and early morning (Brahma Muhurta) are most auspicious.",
+    "basisTag": "Based on: your intent + panchang · Pandit-reviewed template",
+    "date": {
+      "day": "Mon, Jul 20",
+      "detail": "Somwar (Shiva's day) · early morning 6:00 – 7:30 AM",
+      "window": "Early morning · 6:00 – 7:30 AM",
+      "why": "Mondays are sacred to Shiva; early morning Brahma Muhurta is ideal for the 108-chant jaap.",
+      "alt": "Festival option: first Shravan Monday (early Aug)"
+    },
+    "alsoConsider": {
+      "pujaId": "satyanarayan",
+      "reason": "Satyanarayan Puja — a gratitude ceremony once recovery is underway."
+    },
+    "panditIds": ["om-prakash-tripathi", "rajesh-shastri", "krishna-kumar-pandey", "girish-joshi", "vishnu-dutt-sharma", "devendra-mishra"],
+    "bestPanditId": "om-prakash-tripathi",
+    "budgetRange": [0, 3000],
+    "sankalpaPrefill": "For my father's healing, protection, and full recovery"
+  },
+  {
+    "id": "new-job",
+    "label": "New beginning",
+    "sampleInput": "New job — I want to start it right.",
+    "keywords": ["new job", "job", "first day", "joining", "promotion", "career", "exam", "interview"],
+    "city": "delhi",
+    "chips": ["New beginning", "North", "Under ₹3K", "English"],
+    "pujaId": "ganesh",
+    "matchBadge": "North · Delhi matched",
+    "whyPuja": "New beginnings traditionally open with Ganesha. A short 45–60 minute home puja on a Wednesday clears the path — simple enough to do before your joining date.",
+    "basisTag": "Based on: your intent + panchang · Pandit-reviewed template",
+    "date": {
+      "day": "Wed, Jul 15",
+      "detail": "Shukla Pratipada · Pushya Nakshatra · morning 9:30 – 11:00 AM",
+      "window": "Morning · 9:30 – 11:00 AM",
+      "why": "Avoids Rahu Kalam (12:27 – 2:10 PM in Delhi). Abhijit Muhurat is not observed on Wednesdays.",
+      "alt": "Also good: Wed, Jul 22 · morning"
+    },
+    "alsoConsider": {
+      "pujaId": "satyanarayan",
+      "reason": "Satyanarayan Puja — if the family wants a fuller gratitude ceremony."
+    },
+    "panditIds": ["girish-joshi", "rajesh-shastri", "om-prakash-tripathi", "krishna-kumar-pandey", "vishnu-dutt-sharma", "devendra-mishra"],
+    "bestPanditId": "girish-joshi",
+    "budgetRange": [0, 3000],
+    "sankalpaPrefill": "For a strong, obstacle-free start in my new role"
+  },
+  {
+    "id": "general",
+    "label": "Blessing & well-being",
+    "sampleInput": "I want blessings for my family.",
+    "keywords": [],
+    "city": "bengaluru",
+    "chips": ["Blessing & well-being", "₹3–7K", "Hindi"],
+    "pujaId": "satyanarayan",
+    "matchBadge": "General blessing · closest reviewed match",
+    "whyPuja": "Your words don't match one of our reviewed scripts exactly, so we're suggesting the most widely performed all-purpose blessing: Satyanarayan Puja — a gratitude-and-blessing ceremony for family well-being. A pandit will read your exact words and confirm or adjust the recommendation on WhatsApp.",
+    "basisTag": "Based on: closest reviewed template · pending pandit review",
+    "date": {
+      "day": "Wed, Jul 29",
+      "detail": "Purnima (Guru Purnima) · evening Pradosh 6:50 – 8:05 PM",
+      "window": "Evening Pradosh · 6:50 – 8:05 PM",
+      "why": "Satyanarayan Puja is traditionally performed on Purnima evening — the next Purnima is Jul 29.",
+      "alt": "Earlier: Thu, Jul 16 · Vishnu's day"
+    },
+    "alsoConsider": {
+      "pujaId": "ganesh",
+      "reason": "Ganesh Puja — a shorter blessing if this is about one specific new beginning."
+    },
+    "panditIds": ["ramakrishna-sastry", "ramanathan-iyer", "venkatesh-murthy", "suresh-tiwari", "mahesh-bhat", "krishnamurthy-shastri"],
+    "bestPanditId": "ramakrishna-sastry",
+    "budgetRange": [3000, 7000],
+    "sankalpaPrefill": "For the well-being and happiness of my family"
+  },
+  {
+    "id": "prosperity",
+    "label": "Prosperity",
+    "sampleInput": "Business has been slow lately, money is stuck.",
+    "keywords": ["slow", "stuck", "money", "cash", "finance", "financial", "debt", "sales", "loss", "wealth"],
+    "city": "bengaluru",
+    "chips": ["Prosperity", "South", "₹3–7K", "Hindi"],
+    "pujaId": "lakshmi-ganesh",
+    "matchBadge": "South · Bengaluru matched",
+    "whyPuja": "Financial stagnation calls for Lakshmi's blessings, but Ganesha is always worshipped first so obstacles don't block them. Friday is Lakshmi's day — sustained weekly practice is common among shop owners.",
+    "basisTag": "Based on: your intent + panchang · Pandit-reviewed template",
+    "date": {
+      "day": "Fri, Jul 17",
+      "detail": "Lakshmi's day · Shukla Tritiya · evening 6:30 – 8:00 PM",
+      "window": "Evening · 6:30 – 8:00 PM",
+      "why": "Friday is sacred to Lakshmi; evening lamps invite her in — Lakshmi never enters a dark house.",
+      "alt": "Also good: Fri, Jul 24 · evening"
+    },
+    "alsoConsider": {
+      "pujaId": "satyanarayan",
+      "reason": "Satyanarayan Puja — a broader gratitude-and-blessing ritual for the whole family."
+    },
+    "panditIds": ["suresh-tiwari", "ramakrishna-sastry", "ramanathan-iyer", "venkatesh-murthy", "mahesh-bhat", "krishnamurthy-shastri"],
+    "bestPanditId": "suresh-tiwari",
+    "budgetRange": [3000, 7000],
+    "sankalpaPrefill": "For the revival of our business and steady prosperity at home"
+  }
+]

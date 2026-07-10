@@ -1,0 +1,231 @@
+[
+  {
+    "id": "ramakrishna-sastry",
+    "name": "Pandit Ramakrishna Sastry",
+    "initials": "RS",
+    "city": "bengaluru",
+    "rating": 4.9,
+    "ratingCount": 127,
+    "years": 15,
+    "distanceKm": 2.3,
+    "tradition": "Smartism",
+    "langLine": "Rituals in Sanskrit · explains in Kannada & Hindi",
+    "credential": "Vedic Pathashala graduate, Sringeri",
+    "specializes": ["Satyanarayan", "Griha Pravesh"],
+    "price": 3500,
+    "verified": true,
+    "reviews": [
+      { "quote": "We had our first Satyanarayan Katha away from home. It felt like family was with us.", "author": "Ankit & Shreya", "area": "Koramangala", "date": "Jun 2026" },
+      { "quote": "Panditji explained every step in simple Hindi so my wife and I could follow along. Very patient.", "author": "Rohit S.", "area": "HSR Layout", "date": "May 2026" }
+    ]
+  },
+  {
+    "id": "ramanathan-iyer",
+    "name": "Acharya Ramanathan Iyer",
+    "initials": "RI",
+    "city": "bengaluru",
+    "rating": 4.8,
+    "ratingCount": 94,
+    "years": 9,
+    "distanceKm": 4.1,
+    "tradition": "Vaishnava",
+    "langLine": "Rituals in Sanskrit · explains in Tamil & English",
+    "credential": "M.A. Sanskrit Literature",
+    "specializes": ["Satyanarayan", "Varalakshmi Vratam"],
+    "price": 4100,
+    "verified": true,
+    "reviews": [
+      { "quote": "Arrived exactly on time with everything arranged. The muhurat guidance was spot on.", "author": "Priya M.", "area": "Indiranagar", "date": "Apr 2026" }
+    ]
+  },
+  {
+    "id": "venkatesh-murthy",
+    "name": "Pandit Venkatesh Murthy",
+    "initials": "VM",
+    "city": "bengaluru",
+    "rating": 4.9,
+    "ratingCount": 203,
+    "years": 25,
+    "distanceKm": 5.8,
+    "tradition": "Smarta & Madhwa",
+    "langLine": "Smarta & Madhwa · explains in Kannada, Tamil, Telugu, Hindi, English",
+    "credential": "Cross-tradition specialist",
+    "specializes": ["Weddings", "Major homams"],
+    "price": 6500,
+    "verified": true,
+    "reviews": [
+      { "quote": "The muhurat guidance was spot on, and he coordinated our whole extended family calmly.", "author": "Priya M.", "area": "Indiranagar", "date": "Apr 2026" }
+    ]
+  },
+  {
+    "id": "suresh-tiwari",
+    "name": "Pandit Suresh Tiwari",
+    "initials": "ST",
+    "city": "bengaluru",
+    "rating": 4.7,
+    "ratingCount": 61,
+    "years": 8,
+    "distanceKm": 3.0,
+    "tradition": "North Indian / Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Hindi",
+    "credential": "Serves Whitefield–HSR–Sarjapur",
+    "specializes": ["Ganesh", "Lakshmi-Ganesh"],
+    "price": 2800,
+    "verified": true,
+    "reviews": [
+      { "quote": "Booked for my parents' anniversary. He guided us on video call when we set up the altar.", "author": "Deepika R.", "area": "Bellandur", "date": "Mar 2026" }
+    ]
+  },
+  {
+    "id": "mahesh-bhat",
+    "name": "Pandit Mahesh Bhat",
+    "initials": "MB",
+    "city": "bengaluru",
+    "rating": 4.8,
+    "ratingCount": 73,
+    "years": 11,
+    "distanceKm": 7.8,
+    "tradition": "Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Kannada & English",
+    "credential": "Udupi pathashala trained",
+    "specializes": ["Satyanarayan", "Navagraha"],
+    "price": 3900,
+    "verified": true,
+    "reviews": [
+      { "quote": "Came all the way to Yelahanka without fuss and explained everything in English for my flatmates.", "author": "Karthik V.", "area": "Yelahanka", "date": "May 2026" }
+    ]
+  },
+  {
+    "id": "krishnamurthy-shastri",
+    "name": "Acharya Krishnamurthy Shastri",
+    "initials": "KS",
+    "city": "bengaluru",
+    "rating": 4.9,
+    "ratingCount": 58,
+    "years": 30,
+    "distanceKm": 4.9,
+    "tradition": "Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Kannada & Tamil",
+    "credential": "Senior acharya · 30 years of grihastha ceremonies",
+    "specializes": ["Satyanarayan", "Griha Pravesh", "Upanayana"],
+    "price": 8500,
+    "verified": true,
+    "reviews": [
+      { "quote": "A senior presence that put the whole family at ease. Worth every rupee.", "author": "Lakshmi & Raghav", "area": "Jayanagar", "date": "Feb 2026" }
+    ]
+  },
+  {
+    "id": "rajesh-shastri",
+    "name": "Pandit Rajesh Shastri",
+    "initials": "RS",
+    "city": "delhi",
+    "rating": 4.8,
+    "ratingCount": 142,
+    "years": 12,
+    "distanceKm": 1.9,
+    "tradition": "North Indian / Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Hindi & English",
+    "credential": "Sanskrit Pathshala, Varanasi",
+    "specializes": ["Griha Pravesh", "Satyanarayan", "Navagraha"],
+    "price": 5500,
+    "verified": true,
+    "reviews": [
+      { "quote": "Booked for my parents' anniversary. He guided us on video call when we set up the altar.", "author": "Deepika R.", "area": "Dwarka", "date": "Mar 2026" }
+    ]
+  },
+  {
+    "id": "om-prakash-tripathi",
+    "name": "Acharya Om Prakash Tripathi",
+    "initials": "OT",
+    "city": "delhi",
+    "rating": 4.9,
+    "ratingCount": 88,
+    "years": 20,
+    "distanceKm": 3.4,
+    "tradition": "Vaishnava",
+    "langLine": "Rituals in Sanskrit · explains in Hindi & Bhojpuri",
+    "credential": "20 years of Rudrabhishek practice",
+    "specializes": ["Maha Mrityunjaya", "Rudrabhishek"],
+    "price": 4000,
+    "verified": true,
+    "reviews": [
+      { "quote": "He performed the jaap for my mother before her operation. His calm presence meant everything.", "author": "Sunita K.", "area": "Lajpat Nagar", "date": "May 2026" }
+    ]
+  },
+  {
+    "id": "girish-joshi",
+    "name": "Pandit Girish Joshi",
+    "initials": "GJ",
+    "city": "delhi",
+    "rating": 4.6,
+    "ratingCount": 57,
+    "years": 7,
+    "distanceKm": 2.7,
+    "tradition": "Smarta (Maharashtrian)",
+    "langLine": "Rituals in Sanskrit · explains in Hindi, Marathi, English",
+    "credential": "Family purohit lineage, Pune",
+    "specializes": ["Ganesh Puja", "Satyanarayan"],
+    "price": 2500,
+    "verified": true,
+    "reviews": [
+      { "quote": "Quick, clear, and kind — perfect for our small flat and first-ever home puja.", "author": "Neha & Arjun", "area": "Saket", "date": "Jun 2026" }
+    ]
+  },
+  {
+    "id": "devendra-mishra",
+    "name": "Pandit Devendra Mishra",
+    "initials": "DM",
+    "city": "delhi",
+    "rating": 4.6,
+    "ratingCount": 38,
+    "years": 6,
+    "distanceKm": 8.2,
+    "tradition": "North Indian / Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Hindi",
+    "credential": "Serves Noida–Mayur Vihar",
+    "specializes": ["Ganesh", "Satyanarayan"],
+    "price": 2200,
+    "verified": true,
+    "reviews": [
+      { "quote": "Simple, sincere, and affordable — ideal for our first puja in the new city.", "author": "Vivek P.", "area": "Mayur Vihar", "date": "Apr 2026" }
+    ]
+  },
+  {
+    "id": "vishnu-dutt-sharma",
+    "name": "Acharya Vishnu Dutt Sharma",
+    "initials": "VS",
+    "city": "delhi",
+    "rating": 4.9,
+    "ratingCount": 96,
+    "years": 22,
+    "distanceKm": 3.9,
+    "tradition": "North Indian / Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Hindi & English",
+    "credential": "Kashi-trained · senior acharya",
+    "specializes": ["Maha Mrityunjaya", "Navagraha", "Satyanarayan"],
+    "price": 7800,
+    "verified": true,
+    "reviews": [
+      { "quote": "His Sanskrit is beautiful, and he took time to explain each mantra's meaning.", "author": "Aditi R.", "area": "Greater Kailash", "date": "Jan 2026" }
+    ]
+  },
+  {
+    "id": "krishna-kumar-pandey",
+    "name": "Pandit Krishna Kumar Pandey",
+    "initials": "KP",
+    "city": "delhi",
+    "rating": 4.7,
+    "ratingCount": 110,
+    "years": 16,
+    "distanceKm": 4.5,
+    "tradition": "North Indian / Smarta",
+    "langLine": "Rituals in Sanskrit · explains in Hindi",
+    "credential": "16 years serving South Delhi households",
+    "specializes": ["Lakshmi-Ganesh", "Diwali ceremonies"],
+    "price": 3200,
+    "verified": true,
+    "reviews": [
+      { "quote": "Our Diwali puja felt properly done for the first time since leaving home.", "author": "Manish T.", "area": "Malviya Nagar", "date": "Nov 2025" }
+    ]
+  }
+]

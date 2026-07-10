@@ -1,26 +1,97 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/*
+ * PujaBot design tokens — see 클로드-디자인-핸드오프/06-DESIGN-DIRECTION.md.
+ * The default Tailwind palette/radii/shadows are REPLACED, not extended
+ * (DESIGN.md §7 enforcement): bg-indigo-600, text-gray-500, rounded-2xl,
+ * shadow-lg simply do not exist in this build.
+ */
+@theme {
+  --color-*: initial;
+  --color-ground: #fff8ec;
+  --color-card: #fffdf7;
+  --color-cardwarm: #fbefd9;
+  --color-ink: #3b2a24;
+  --color-inksoft: #6e584e;
+  --color-maroon: #6b1b1b;
+  --color-maroondeep: #3a0a0a;
+  --color-saffron: #f0a030;
+  --color-turmeric: #e9a447;
+  --color-green: #216b45;
+  --color-gold: #c9a227;
+  --color-goldink: #8a6a1f;
+  --color-brick: #b23a2e;
+  --color-wa: #128c7e;
+  --color-wafill: #25d366;
+  --color-waink: #073d22;
+  --color-wabubble: #eaf7ef;
+  --color-sanctum: #2a0e14;
+  --color-sanctumcard: #3a1620;
+  --color-sanctumtext: #f5ecdd;
+  --color-sanctumgold: #d4af37;
+  --color-sanctumgreen: #4fb07a;
+  --color-hairline: rgb(107 27 27 / 0.14);
+  --color-hairgold: rgb(201 162 39 / 0.55);
+
+  --font-disp: var(--font-baloo), var(--font-mukta), sans-serif;
+  --font-body: var(--font-mukta), sans-serif;
+  --font-scrip: var(--font-tiro), var(--font-baloo), serif;
+
+  --radius-*: initial;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  --shadow-*: initial;
+  --shadow-warm: 0 1px 3px rgb(107 27 27 / 0.1);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  body {
+    @apply bg-ground text-ink font-body antialiased;
+    font-size: 16px;
+    line-height: 1.5;
+    text-wrap: pretty;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .kicker {
+    @apply text-[12px] font-semibold uppercase text-goldink;
+    letter-spacing: 0.14em;
+  }
+  /* Gold torana arch cap — used on exactly two surfaces (DESIGN.md §2) */
+  .torana {
+    position: relative;
+  }
+  .torana::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 18px;
+    right: 18px;
+    height: 12px;
+    border: 1.5px solid rgb(201 162 39 / 0.55);
+    border-bottom: none;
+    border-radius: 12px 12px 0 0;
+  }
+  .torana::after {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    background: #c9a227;
+    transform: translateX(-50%) rotate(45deg);
+  }
+  /* Tactile primary CTA — flat fill + hard offset shadow (no blur, no gradient) */
+  .btn-key {
+    box-shadow: 4px 4px 0 var(--color-maroon);
+    transition: transform 0.05s, box-shadow 0.05s;
+  }
+  .btn-key:active {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 var(--color-maroon);
+  }
 }

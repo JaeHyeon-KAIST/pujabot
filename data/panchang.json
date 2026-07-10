@@ -1,0 +1,12 @@
+{
+  "source": "DrikPanchang (single-source; spot-check before pandit-facing demos)",
+  "cities": { "bengaluru": 1277333, "delhi": 1261481 },
+  "anchors": [
+    { "date": "2026-07-29", "label": "Guru Purnima", "note": "Satyanarayan evening convention (Pradosh ~6:50–8:05 PM)" },
+    { "date": "2026-07-25", "label": "Devshayani Ekadashi", "note": "Vishnu fast day" },
+    { "date": "2026-07-30", "label": "Shravan begins (North, Purnimanta)", "note": "South (Amanta) starts ~Aug 14" },
+    { "date": "2026-08-28", "label": "Varalakshmi Vratam + Raksha Bandhan", "note": "Big Karnataka prosperity puja" },
+    { "date": "2026-09-14", "label": "Ganesh Chaturthi", "note": "Madhyahna 11:02 AM – 1:28 PM (Bengaluru)" },
+    { "date": "2026-11-08", "label": "Diwali / Lakshmi Puja", "note": "Pradosh Kaal ~6:15 – 8:00 PM (Delhi)" }
+  ]
+}

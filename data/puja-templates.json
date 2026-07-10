@@ -1,0 +1,420 @@
+[
+  {
+    "id": "satyanarayan",
+    "name": "Satyanarayan Puja",
+    "dev": "सत्यनारायण पूजा",
+    "benefit": "A devotional ritual to Lord Vishnu invoking truth, prosperity, and well-being. Most performed for new ventures and housewarmings.",
+    "what": "A thanksgiving and wish-fulfillment ritual to Lord Vishnu, centered on the 5-chapter Satyanarayan Katha (sacred story). Performed for new ventures, housewarmings, and milestones.",
+    "when": "Purnima or Ekadashi preferred · Thursdays auspicious · 1.5–2 hrs",
+    "steps": [
+      {
+        "sanskrit": "Sankalpa",
+        "en": "Declaration of intent — your wish, spoken aloud",
+        "detail": "Holding water, rice and a flower in your right palm, you state your name, family, place and the wish itself. The pandit guides the words — you repeat line by line."
+      },
+      {
+        "sanskrit": "Ganesh Puja",
+        "en": "Invoking Ganesha to clear obstacles",
+        "detail": "Every puja opens with Ganesha. The pandit invokes him into a betel nut or small idol so no obstacles interrupt the main ritual."
+      },
+      {
+        "sanskrit": "Kalash Sthapana",
+        "en": "Installing the sacred water pot",
+        "detail": "A copper pot of water, topped with five mango leaves and a coconut, is set on a bed of rice — the deity's seat for the ceremony."
+      },
+      {
+        "sanskrit": "Abhishekam",
+        "en": "Bathing the deity in panchamrit",
+        "detail": "The deity image is bathed with panchamrit — milk, curd, ghee, honey, sugar — then rinsed with clean water and dressed."
+      },
+      {
+        "sanskrit": "Katha Shravanam",
+        "en": "Listening to all 5 chapters of the sacred story",
+        "detail": "The heart of the puja: the family sits and listens to all five chapters of the Satyanarayan story (about 30–40 minutes). Listening itself is the vow."
+      },
+      {
+        "sanskrit": "Aarti",
+        "en": "Lamp offering with devotional song",
+        "detail": "Lamps are waved in slow circles before the deity while everyone stands for the aarti song — bells and claps are welcome."
+      },
+      {
+        "sanskrit": "Prasad",
+        "en": "Distributing blessed sheera (semolina halwa)",
+        "detail": "The sheera (semolina halwa) offered during the katha is shared with everyone present — accepting it completes the vrat."
+      }
+    ],
+    "mantra": {
+      "dev": "ॐ नमो भगवते वासुदेवाय",
+      "iast": "Om Namo Bhagavate Vāsudevāya",
+      "note": "Chanted 12 or 108 times"
+    },
+    "samagri": {
+      "essential": [
+        "Satyanarayan & Ganesha photo or idol",
+        "Copper kalash · कलश",
+        "Mango leaves, 5–7 · आम के पत्ते",
+        "Coconuts ×2 · नारियल",
+        "Panchamrit — milk, curd, ghee, honey, sugar",
+        "Ghee lamp · दीया"
+      ],
+      "offerings": [
+        "Marigold flowers & garland · गेंदा",
+        "Seasonal fruits ×5 — banana essential",
+        "Tulsi leaves · तुलसी",
+        "Paan & supari · पान-सुपारी",
+        "Sheera (prasad) ingredients — semolina, ghee, sugar"
+      ],
+      "optional": [
+        "Sandalwood paste · चंदन",
+        "Incense & camphor · अगरबत्ती-कपूर",
+        "New yellow or red cloth · वस्त्र"
+      ]
+    },
+    "samagriNote": "haldi-kumkum & akshat usually at home already",
+    "priceRange": "₹1,800 – ₹6,500",
+    "demoPrice": 3500,
+    "samagriKitPrice": 800,
+    "review": {
+      "status": "pending advisor review",
+      "label": "Pandit-reviewed · last reviewed Jun 2026"
+    },
+    "art": {
+      "src": "/deities/satyanarayan.jpg",
+      "alt": "Lord Vishnu seated on Shesha with Lakshmi and Saraswati — vintage oleograph",
+      "caption": "Vishnu on Shesha, with Lakshmi & Saraswati",
+      "credit": "Raja Ravi Varma oleograph, c. 1900 · Wellcome Collection · public domain"
+    }
+  },
+  {
+    "id": "griha-pravesh",
+    "name": "Griha Pravesh & Vastu Shanti",
+    "dev": "गृह प्रवेश",
+    "benefit": "A housewarming ceremony performed before the family sleeps in the new home, appeasing Vastu Purusha and inviting lasting peace into the space.",
+    "what": "The housewarming ceremony performed before first sleeping in a new home; Vastu Shanti appeases the deity of the site and directions.",
+    "when": "Uttarayan period favored · avoid Adhik Maas & Shraadh · Abhijit Muhurat common · 2–4 hrs",
+    "steps": [
+      {
+        "sanskrit": "Dwara Puja",
+        "en": "Worship at the threshold",
+        "detail": "Before anyone enters, the main door is decorated with a toran and honored with kumkum, rice and a flower — the threshold is worshipped first."
+      },
+      {
+        "sanskrit": "Ganesh Puja",
+        "en": "Invoking Ganesha to clear obstacles",
+        "detail": "Ganesha is invoked first so the move into the new home begins with obstacles cleared."
+      },
+      {
+        "sanskrit": "Kalash Sthapana",
+        "en": "Installing the sacred water pot",
+        "detail": "The couple carries the kalash into the house — right foot across the threshold first — and sets it at the puja spot."
+      },
+      {
+        "sanskrit": "Vastu Purusha Puja",
+        "en": "Offerings to the spirit of the site",
+        "detail": "Offerings to Vastu Purusha, the spirit of the site, ask acceptance for the new household and lasting harmony in the space."
+      },
+      {
+        "sanskrit": "Navagraha Puja",
+        "en": "Honoring the nine planetary deities",
+        "detail": "The nine planetary deities are honored with nine grains (navadhanya) so no graha casts a shadow over the household."
+      },
+      {
+        "sanskrit": "Milk-boiling ceremony",
+        "en": "Milk boiled till it overflows — abundance",
+        "detail": "Milk is boiled in a new vessel until it spills over — on purpose. An overflowing home is the whole point."
+      },
+      {
+        "sanskrit": "Havan & Purnahuti",
+        "en": "Fire ritual and final offering",
+        "detail": "Ghee, sesame and samidha wood are offered into the sacred fire, closing with the purnahuti — the final, complete offering."
+      },
+      {
+        "sanskrit": "Aarti & Brahman Bhoj",
+        "en": "Closing lamp ritual; feeding the pandit",
+        "detail": "A closing aarti, then the pandit and guests eat first — the family eats only after they are fed."
+      }
+    ],
+    "mantra": {
+      "dev": "ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते",
+      "iast": "Om Pūrṇamadaḥ Pūrṇamidaṁ Pūrṇāt Pūrṇamudacyate",
+      "note": "The completion mantra, at havan close"
+    },
+    "samagri": {
+      "essential": [
+        "Copper or brass kalash — never steel",
+        "Coconut wrapped in red cloth + mouli thread",
+        "Mango leaves · आम के पत्ते",
+        "Haldi & kumkum · हल्दी-कुमकुम",
+        "Navadhanya — nine grains · नवधान्य",
+        "Havan kit — samidha wood, ghee, sesame, bel"
+      ],
+      "offerings": [
+        "Akshat rice · अक्षत",
+        "Red altar cloth",
+        "Flowers & garlands · फूल-माला",
+        "Gangajal (holy water) · गंगाजल"
+      ],
+      "optional": [
+        "Ghee diyas · दीये",
+        "Incense & camphor · अगरबत्ती-कपूर",
+        "Coins · सिक्के",
+        "New broom — symbolic"
+      ]
+    },
+    "samagriNote": "the havan kit is the one item most shops pre-bundle",
+    "priceRange": "₹5,100 – ₹20,000+",
+    "demoPrice": 8000,
+    "samagriKitPrice": 1500,
+    "review": {
+      "status": "pending advisor review",
+      "label": "Pandit-reviewed · last reviewed Jun 2026"
+    },
+    "art": {
+      "src": "/deities/griha-pravesh.jpg",
+      "alt": "Lakshmi-Narayan riding Garuda — vintage chromolithograph",
+      "caption": "Lakshmi-Narayan on Garuda",
+      "credit": "Ravi Varma Press chromolithograph · public domain"
+    }
+  },
+  {
+    "id": "ganesh",
+    "name": "Ganesh Puja",
+    "dev": "गणेश पूजा",
+    "benefit": "Worship of Lord Ganesha, remover of obstacles and lord of beginnings — performed before any new venture.",
+    "what": "Worship of Lord Ganesha, remover of obstacles and lord of beginnings — before any new venture, exam, or journey.",
+    "when": "Wednesdays favored · Ganesh Chaturthi (Sep 14, 2026) festival peak · 45 min–1.5 hrs",
+    "steps": [
+      {
+        "sanskrit": "Avahana & Sthapana",
+        "en": "Invoking Ganesha into the idol",
+        "detail": "The pandit chants the invocation asking Ganesha to be present in the clay idol; you welcome him with a flower at the feet."
+      },
+      {
+        "sanskrit": "Snana",
+        "en": "Symbolic bath with water, milk, chandan",
+        "detail": "The idol is gently bathed — water, then milk, then chandan water — and wiped dry with a fresh cloth."
+      },
+      {
+        "sanskrit": "Chandan & Akshat",
+        "en": "Sandalwood and rice offerings",
+        "detail": "Sandalwood paste goes on the forehead, unbroken rice grains at the feet — the honored-guest treatment."
+      },
+      {
+        "sanskrit": "Pushpanjali",
+        "en": "Red hibiscus and durva grass",
+        "detail": "Handfuls of red hibiscus and 21 blades of durva grass, Ganesha's signature offerings, are placed at the feet."
+      },
+      {
+        "sanskrit": "Naivedya",
+        "en": "Offering modak — 21 pieces",
+        "detail": "Twenty-one modaks are offered; one is touched to the idol's mouth, the rest come back to you as prasad."
+      },
+      {
+        "sanskrit": "Pradakshina & Aarti",
+        "en": "Circumambulation and lamp ritual",
+        "detail": "You circle the deity clockwise — 1, 3 or 21 times — and close with the aarti, lamps circling as everyone sings."
+      }
+    ],
+    "mantra": {
+      "dev": "ॐ गं गणपतये नमः",
+      "iast": "Om Gaṁ Gaṇapataye Namaḥ",
+      "note": "The Ganesh mool mantra, 108 times"
+    },
+    "samagri": {
+      "essential": [
+        "Clay Ganesh idol · गणेश मूर्ति",
+        "Chowki (wooden platform) + red/yellow cloth",
+        "Kalash + coconut · कलश-नारियल",
+        "Diya + ghee · दीया"
+      ],
+      "offerings": [
+        "Red hibiscus & mixed flowers · गुड़हल",
+        "Durva grass · दूर्वा",
+        "Modak ×21 · मोदक",
+        "Fruits & panchamrit"
+      ],
+      "optional": [
+        "Agarbatti & dhoop · अगरबत्ती-धूप",
+        "Camphor · कपूर",
+        "Chandan · चंदन"
+      ]
+    },
+    "samagriNote": "durva grass matters — Ganesha's signature offering",
+    "priceRange": "₹1,500 – ₹3,500",
+    "demoPrice": 2100,
+    "samagriKitPrice": 500,
+    "review": {
+      "status": "pending advisor review",
+      "label": "Pandit-reviewed · last reviewed Jun 2026"
+    },
+    "art": {
+      "src": "/deities/ganesh.jpg",
+      "alt": "Lord Ganesha enthroned with Riddhi and Siddhi — vintage chromolithograph",
+      "caption": "Ganesha with Riddhi & Siddhi",
+      "credit": "Ravi Varma Press chromolithograph · public domain"
+    }
+  },
+  {
+    "id": "lakshmi-ganesh",
+    "name": "Lakshmi-Ganesh Puja",
+    "dev": "लक्ष्मी गणेश पूजा",
+    "benefit": "Joint worship of Goddess Lakshmi (wealth) and Lord Ganesha (obstacle removal) — performed by business owners for cash-flow revival, every Friday or at Diwali.",
+    "what": "Joint worship of Lakshmi (wealth) and Ganesha (obstacles) — Ganesha first, so nothing blocks Lakshmi's blessings. The business owner's ritual. Placement rule: viewer's left = Ganesha, right = Lakshmi.",
+    "when": "Diwali night is the peak (Nov 8, 2026) · any Friday for ongoing prosperity · 1–1.5 hrs",
+    "steps": [
+      {
+        "sanskrit": "Sankalpa",
+        "en": "Declaration of intent — your wish, spoken aloud",
+        "detail": "With water and rice in your palm, you state the family's wish for the business in plain words; the pandit shapes it into the formal vow."
+      },
+      {
+        "sanskrit": "Ganesh Avahana",
+        "en": "Invoking Ganesha first",
+        "detail": "Ganesha first, always — placed to the viewer's left — so the path is clear before Lakshmi is welcomed."
+      },
+      {
+        "sanskrit": "Kalash Sthapana",
+        "en": "Pot on red cloth with rice",
+        "detail": "The kalash sits on red cloth over rice, and a coin is dropped into the water — wealth given a seat in the home."
+      },
+      {
+        "sanskrit": "Lakshmi Avahana",
+        "en": "Invoking the goddess into idol or coin",
+        "detail": "Lakshmi is invoked into the idol (or a silver coin) on the right; lotus or marigold flowers are offered as she arrives."
+      },
+      {
+        "sanskrit": "Panchamrit Abhishek",
+        "en": "Bathing the deities in panchamrit",
+        "detail": "Both deities are bathed in panchamrit, rinsed, dried and dressed in fresh cloth."
+      },
+      {
+        "sanskrit": "Naivedya",
+        "en": "Sweets, fruits, puffed rice",
+        "detail": "Sweets, fruits and puffed rice (lava) are offered — business families also place the account books or shop keys before her."
+      },
+      {
+        "sanskrit": "Diya lighting & Aarti",
+        "en": "Rows of lamps — Lakshmi never enters a dark house",
+        "detail": "Rows of diyas are lit before the final aarti — light in every corner, since Lakshmi never enters a dark house."
+      }
+    ],
+    "mantra": {
+      "dev": "ॐ श्रीं महालक्ष्म्यै नमः",
+      "iast": "Om Śrīṁ Mahālakṣmyai Namaḥ",
+      "note": "The Lakshmi beej mantra"
+    },
+    "samagri": {
+      "essential": [
+        "Lakshmi & Ganesha idols · मूर्तियाँ",
+        "Chowki + red cloth · चौकी",
+        "Kumkum, haldi, roli · कुमकुम-हल्दी-रोली",
+        "Multiple ghee diyas · दीये",
+        "Gangajal · गंगाजल"
+      ],
+      "offerings": [
+        "Sweets (mithai) · मिठाई",
+        "Fruits & sugarcane",
+        "Puffed rice (lava) · लावा",
+        "Coins or silver rupee · सिक्के",
+        "Supari & paan · पान-सुपारी"
+      ],
+      "optional": [
+        "Cotton wicks · बत्ती",
+        "Rangoli colors · रंगोली",
+        "Agarbatti · अगरबत्ती"
+      ]
+    },
+    "samagriNote": "many diyas — rows of lamps are the point",
+    "priceRange": "₹2,500 – ₹3,400",
+    "demoPrice": 2800,
+    "samagriKitPrice": 600,
+    "review": {
+      "status": "pending advisor review",
+      "label": "Pandit-reviewed · last reviewed Jun 2026"
+    },
+    "art": {
+      "src": "/deities/lakshmi-ganesh.jpg",
+      "alt": "Goddess Lakshmi standing on a lotus — Raja Ravi Varma, 1896",
+      "caption": "Goddess Lakshmi",
+      "credit": "Raja Ravi Varma, 1896 · public domain"
+    }
+  },
+  {
+    "id": "maha-mrityunjaya",
+    "name": "Maha Mrityunjaya Puja",
+    "dev": "महामृत्युंजय पूजा",
+    "benefit": "A healing ritual to Lord Shiva, 'conqueror of death,' chanted for recovery, protection, and long life.",
+    "what": "A healing and protection ritual to Lord Shiva as 'conqueror of death' — repeated chanting (jaap) for recovery from illness, before surgery, or for longevity.",
+    "when": "Mondays · Pradosh · Shravan month · early morning (Brahma Muhurta) ideal · 1–2 hrs for 108 chants",
+    "steps": [
+      {
+        "sanskrit": "Sankalpa",
+        "en": "Family states the purpose — healing",
+        "detail": "The family states the purpose — recovery, protection, longevity — and for whom. The person prayed for does not need to be present."
+      },
+      {
+        "sanskrit": "Purification",
+        "en": "Fasting and bathing before the ritual",
+        "detail": "The performers bathe and keep a light fast; the space is cleaned and sprinkled with gangajal before the ritual begins."
+      },
+      {
+        "sanskrit": "Shiva Linga Abhishek",
+        "en": "Bathing the linga in panchamrit",
+        "detail": "The linga is bathed in a continuous stream — water, milk, panchamrit — while bel leaves are laid on top, Shiva's essential offering."
+      },
+      {
+        "sanskrit": "Mantra Jaap",
+        "en": "108 chants counted on a rudraksha mala",
+        "detail": "The core of the ritual: 108 repetitions of the Mahamrityunjaya mantra counted on a rudraksha mala. Family may chant along or sit in silence."
+      },
+      {
+        "sanskrit": "Aarti",
+        "en": "Lamp offering with devotional song",
+        "detail": "A lamp offering to Shiva with the aarti song closes the chanting."
+      },
+      {
+        "sanskrit": "Prasad",
+        "en": "Blessed water and food shared",
+        "detail": "The abhishek water and blessed food are shared — a portion is set aside for the person the puja was performed for."
+      }
+    ],
+    "mantra": {
+      "dev": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॥",
+      "iast": "Om Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭivardhanam, Urvārukamiva Bandhanān Mṛtyor Mukṣīya Māmṛtāt",
+      "note": "Rigveda · protection from illness and untimely death"
+    },
+    "samagri": {
+      "essential": [
+        "Shivling or Shiva photo · शिवलिंग",
+        "Rudraksha mala · रुद्राक्ष माला",
+        "Panchamrit set — milk, curd, ghee, honey, sugar",
+        "Bel (bilva) leaves · बेलपत्र",
+        "Gangajal · गंगाजल"
+      ],
+      "offerings": [
+        "White flowers · सफेद फूल",
+        "Vibhuti (sacred ash) · विभूति",
+        "Ghee diya · दीया"
+      ],
+      "optional": [
+        "Camphor & incense · कपूर-अगरबत्ती",
+        "White cloth · सफेद वस्त्र",
+        "Kalash + coconut (optional)"
+      ]
+    },
+    "samagriNote": "bel leaves are essential for Shiva worship",
+    "priceRange": "₹1,100 – ₹3,000",
+    "demoPrice": 2100,
+    "samagriKitPrice": 500,
+    "review": {
+      "status": "pending advisor review",
+      "label": "Pandit-reviewed · last reviewed Jun 2026"
+    },
+    "art": {
+      "src": "/deities/maha-mrityunjaya.jpg",
+      "alt": "Shankar — Shiva with Parvati, Ganesha and Nandi — vintage chromolithograph",
+      "caption": "Shankar — Shiva with Parvati & Ganesha",
+      "credit": "Ravi Varma Press, Malavli, c. 1910 · public domain"
+    }
+  }
+]

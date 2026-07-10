@@ -1,0 +1,120 @@
+{
+  "bengaluru": {
+    "width": 640,
+    "height": 360,
+    "tileWPct": 40,
+    "tileHPct": 71.111,
+    "tiles": [
+      {
+        "src": "/maps/bengaluru/14-11723-7598.png",
+        "left": -36.382,
+        "top": -5.36
+      },
+      {
+        "src": "/maps/bengaluru/14-11723-7599.png",
+        "left": -36.382,
+        "top": 65.751
+      },
+      {
+        "src": "/maps/bengaluru/14-11724-7598.png",
+        "left": 3.618,
+        "top": -5.36
+      },
+      {
+        "src": "/maps/bengaluru/14-11724-7599.png",
+        "left": 3.618,
+        "top": 65.751
+      },
+      {
+        "src": "/maps/bengaluru/14-11725-7598.png",
+        "left": 43.618,
+        "top": -5.36
+      },
+      {
+        "src": "/maps/bengaluru/14-11725-7599.png",
+        "left": 43.618,
+        "top": 65.751
+      },
+      {
+        "src": "/maps/bengaluru/14-11726-7598.png",
+        "left": 83.618,
+        "top": -5.36
+      },
+      {
+        "src": "/maps/bengaluru/14-11726-7599.png",
+        "left": 83.618,
+        "top": 65.751
+      }
+    ],
+    "pins": [
+      {
+        "name": "Sri Lakshmi Pooja Stores",
+        "xPct": 28.7,
+        "yPct": 11.65
+      },
+      {
+        "name": "Omkar Pooja Samagri",
+        "xPct": 71.3,
+        "yPct": 88.35
+      }
+    ],
+    "home": {
+      "xPct": 39.44,
+      "yPct": 35.89
+    }
+  },
+  "delhi": {
+    "width": 640,
+    "height": 360,
+    "tileWPct": 40,
+    "tileHPct": 71.111,
+    "tiles": [
+      {
+        "src": "/maps/delhi/15-23413-13668.png",
+        "left": -10.073,
+        "top": -30.511
+      },
+      {
+        "src": "/maps/delhi/15-23413-13669.png",
+        "left": -10.073,
+        "top": 40.6
+      },
+      {
+        "src": "/maps/delhi/15-23414-13668.png",
+        "left": 29.927,
+        "top": -30.511
+      },
+      {
+        "src": "/maps/delhi/15-23414-13669.png",
+        "left": 29.927,
+        "top": 40.6
+      },
+      {
+        "src": "/maps/delhi/15-23415-13668.png",
+        "left": 69.927,
+        "top": -30.511
+      },
+      {
+        "src": "/maps/delhi/15-23415-13669.png",
+        "left": 69.927,
+        "top": 40.6
+      }
+    ],
+    "pins": [
+      {
+        "name": "Shri Balaji Pooja Bhandar",
+        "xPct": 64.2,
+        "yPct": 22.36
+      },
+      {
+        "name": "Hari Om Traders",
+        "xPct": 60.19,
+        "yPct": 77.64
+      }
+    ],
+    "home": {
+      "xPct": 35.8,
+      "yPct": 27.52
+    }
+  }
+}
