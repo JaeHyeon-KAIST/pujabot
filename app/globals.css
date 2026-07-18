@@ -137,6 +137,9 @@ body {
   body {
     height: 100%;
     overflow: hidden;
+    /* disable pinch-zoom / double-tap-zoom (Chromium); iOS is handled by
+     * the gesture listeners in components/NoPinchZoom */
+    touch-action: pan-x pan-y;
   }
   #app-scroll {
     position: fixed;
@@ -144,5 +147,6 @@ body {
     overflow-y: auto;
     overscroll-behavior: none;
     -webkit-overflow-scrolling: touch;
+    touch-action: pan-x pan-y;
   }
 }

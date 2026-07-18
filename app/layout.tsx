@@ -3,6 +3,7 @@ import { Baloo_2, Mukta, Tiro_Devanagari_Hindi } from "next/font/google";
 import { SerwistProvider } from "@serwist/turbopack/react";
 import "./globals.css";
 import DemoTools from "@/components/DemoTools";
+import NoPinchZoom from "@/components/NoPinchZoom";
 
 const baloo = Baloo_2({
   subsets: ["latin", "devanagari"],
@@ -54,6 +55,7 @@ export default function RootLayout({
           disable={process.env.NODE_ENV === "development"}
         >
           <DemoTools />
+          <NoPinchZoom />
           <div id="app-scroll">{children}</div>
         </SerwistProvider>
       </body>
