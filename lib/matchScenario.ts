@@ -1,24 +1,10 @@
-import { scenarios } from "./data";
-
 /**
- * Deterministic keyword matcher — NO LLM anywhere in this path.
- * Hard constraint: the matcher's output selects which pandit-reviewed
- * template renders, so the selection must be auditable.
- *
- * Scoring: count of distinct keywords contained in the input (case-insensitive).
- * Highest score wins; ties resolve to the earlier entry in scenarios.json.
- * No match -> null -> UI renders the human-review fallback (never generation).
+ * Demo pin: every query routes to the pandit-reviewed Satyanarayan flow
+ * ("new-business") so live walkthroughs are deterministic. Still NO LLM
+ * anywhere in this path — the output selects a reviewed template only.
+ * The original keyword scorer lives in git history (pre-ec333d4 HEAD);
+ * restore it to bring back per-scenario routing.
  */
-export function matchScenario(input: string): string | null {
-  const norm = input.toLowerCase();
-  let bestId: string | null = null;
-  let bestScore = 0;
-  for (const s of scenarios) {
-    const score = s.keywords.filter((k) => norm.includes(k)).length;
-    if (score > bestScore) {
-      bestScore = score;
-      bestId = s.id;
-    }
-  }
-  return bestId;
+export function matchScenario(_input: string): string | null {
+  return "new-business";
 }
