@@ -1,0 +1,4289 @@
+{
+  "note": "display map only — RECITES links in graph.json unchanged; relocations are title-evidence-based, pending review",
+  "relocations": [
+    {
+      "id": "mantra:satyanarayan:shri-satyanarayana-achamaniya-mantra",
+      "to": "step:satyanarayan:achamana",
+      "reason": "title names Achamaniya; achamana step gloss says 'while chanting following Mantra'"
+    },
+    {
+      "id": "mantra:satyanarayan:shri-satyanarayana-pradakshina-mantra",
+      "to": "step:satyanarayan:namaskara",
+      "reason": "title names Pradakshina; namaskara step gloss = 'offer symbolic Pradakshina ... while chanting following Mantra'"
+    },
+    {
+      "id": "mantra:satyanarayan:shri-satyanarayana-mantra-pushpanjali",
+      "to": "step:satyanarayan:mantra-pushpanjali",
+      "reason": "title names Mantra Pushpanjali; that step exists and its gloss says 'while chanting following Mantra'"
+    }
+  ],
+  "steps": {
+    "step:das-mahavidya:pushpa": [
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-ekakshar-beej-japa-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-tarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-peetha-puja-opening-mant",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-peetha-puja-nine-peetha",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-pratham-avarana-shatkon",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-pratham-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-dwitiya-avaranam-ashtad",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-dwitiya-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-tritiya-avaranam-ashtad",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-tritiya-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-chaturtha-avaranam-bhup",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-chaturtha-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-pancham-avaranam-dikpal",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-pancham-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-closing",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-pratham-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-dwitiya-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-tritiya-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-chaturtha-pushpanjal",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-pancham-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-shashtham-pushpanjal",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-saptam-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-ashtam-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-navam-pushpanjali",
+        "also": []
+      }
+    ],
+    "step:dhanteras:achamana": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-achamana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-achamana-jal-samarpan-mant",
+        "also": []
+      }
+    ],
+    "step:dhanteras:sankalpa": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-sankalpa-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:mantra-pushpanjali": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-atma-shodhan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-swagat-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-deep-samarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:shri-kubera-nav-upchara-pujan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:shri-kubera-puja-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:dhyana": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-dhyana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:shri-kubera-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:avahana": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-avahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:shri-kubera-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:pushpa": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-pushpanjali-asana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-pushpa-samarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-vandana-sahita-pushpanjali-m",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:shri-kubera-pushpanjali-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:padya": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-padya-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:arghya": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-arghya-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:gandha": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-gandha-chandan-samarpan-ma",
+        "also": []
+      }
+    ],
+    "step:dhanteras:dhupa": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-dhoop-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:naivedya": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-naivedya-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:tambula": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-tambula-samarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:namaskara": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:dhanteras:dhanvantari-sashtanga-pranam-mantra",
+        "also": []
+      }
+    ],
+    "step:dhanteras:kshama-prarthana": [
+      {
+        "primary": "mantra:dhanteras:dhanvantari-kshama-prarthana-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:achamana": [
+      {
+        "primary": "mantra:diwali:dhanvantari-puja-achamana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-achamana-jal-samarpan-m",
+        "also": []
+      }
+    ],
+    "step:diwali:sankalpa": [
+      {
+        "primary": "mantra:diwali:dhanvantari-puja-sankalpa-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:mantra-pushpanjali": [
+      {
+        "primary": "mantra:diwali:dhanvantari-puja-atma-shodhan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-swagat-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-deep-samarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-kali-navopachara-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-kali-puja-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:lakshmi-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:dhyana": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-dhyana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-kali-dhyana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:deep-malika-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:avahana": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-avahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-kali-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:pushpa": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-asana-pushpanjali-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-pushpa-samarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-vandana-sahita-pushpanj",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-kali-pushpanjali-asana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:deep-malika-pushpanjali-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:padya": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-padya-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:arghya": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-arghya-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:gandha": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-chandan-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:dhupa": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-dhoop-samarpan-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:naivedya": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-naivedya-samarpan-mantr",
+        "also": []
+      }
+    ],
+    "step:diwali:tambula": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-tambula-samarpan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:namaskara": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-sashtanga-pranam-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:kshama-prarthana": [
+      {
+        "primary": "mantra:diwali:shri-dhanvantari-kshama-prarthana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:deep-malika-prarthana-mantra",
+        "also": []
+      }
+    ],
+    "step:diwali:ganesha-smarana": [
+      {
+        "primary": "mantra:diwali:ganesh-mantra",
+        "also": []
+      }
+    ],
+    "step:durga:avahana": [
+      {
+        "primary": "mantra:durga:shri-durga-dhyana-and-avahana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-dhyana-and-avahana-mantra-tr",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-ganapati-avahana",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-68-sarvavahanavah",
+        "also": []
+      }
+    ],
+    "step:durga:asana": [
+      {
+        "primary": "mantra:durga:shri-durga-asana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-asana-mantra-transliteration",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:padya": [
+      {
+        "primary": "mantra:durga:shri-durga-padya-prakshalana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-padya-prakshalana-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:arghya": [
+      {
+        "primary": "mantra:durga:shri-durga-arghya-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-arghya-samarpana-mantra-tran",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:achamana": [
+      {
+        "primary": "mantra:durga:shri-durga-achamana-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-achamana-samarpana-mantra-tr",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-achamana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-achamana-mantra-transliterat",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-achamana-keshava",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-achamana-narayana",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-achamana-madhava",
+        "also": []
+      }
+    ],
+    "step:durga:snana": [
+      {
+        "primary": "mantra:durga:shri-durga-snana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-snana-mantra-transliteration",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:vastra": [
+      {
+        "primary": "mantra:durga:shri-durga-vastra-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-vastra-samarpana-mantra-tran",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-77-sarvastradhari",
+        "also": []
+      }
+    ],
+    "step:durga:mantra-pushpanjali": [
+      {
+        "primary": "mantra:durga:shri-durga-abhushana-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-abhushana-samarpana-mantra-t",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-kajjala-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-kajjala-samarpana-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-saubhagya-sutra-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-saubhagya-sutra-mantra-trans",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-sugandhita-dravya-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-sugandhita-dravya-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-haridra-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-haridra-samarpana-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-bilvapatra-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-bilvapatra-mantra-transliter",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-rituphala-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-rituphala-mantra-translitera",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-pustaka-puja-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-pustaka-puja-mantra-translit",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-kanya-pujana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-kanya-pujana-mantra-translit",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-nirajana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-nirajana-mantra-transliterat",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-beej-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:maha-ashtami-mantra-ya-devi-sarva-bhute",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:navarna-mantra-chamunda-beej-mantra",
+        "also": []
+      }
+    ],
+    "step:durga:gandha": [
+      {
+        "primary": "mantra:durga:shri-durga-chandana-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-chandana-samarpana-mantra-tr",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-kumkuma-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-kumkuma-samarpana-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-akshata-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-akshata-samarpana-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-prithvi-tattva-chandana-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-dhyanartha-akshata-pushpa-sam",
+        "also": []
+      }
+    ],
+    "step:durga:pushpa": [
+      {
+        "primary": "mantra:durga:shri-durga-pushpanjali-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-pushpanjali-mantra-translite",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-akasha-tattva-pushpa-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-60-vimala",
+        "also": []
+      }
+    ],
+    "step:durga:dhupa": [
+      {
+        "primary": "mantra:durga:shri-durga-dhupa-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-dhupa-samarpana-mantra-trans",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-vayu-tattva-dhupa-mantra",
+        "also": []
+      }
+    ],
+    "step:durga:dipa": [
+      {
+        "primary": "mantra:durga:shri-durga-dipa-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-dipa-samarpana-mantra-transl",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-dipa-pujana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-dipa-pujana-mantra-translite",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-agni-tattva-dipa-mantra",
+        "also": []
+      }
+    ],
+    "step:durga:naivedya": [
+      {
+        "primary": "mantra:durga:shri-durga-naivedya-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-naivedya-samarpana-mantra-tr",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-jala-tattva-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:durga:tambula": [
+      {
+        "primary": "mantra:durga:shri-durga-narikela-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-narikela-samarpana-mantra-tr",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-tambula-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-tambula-samarpana-mantra-tra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:shri-durga-dakshina-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-dakshina-mantra-transliterat",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:namaskara": [
+      {
+        "primary": "mantra:durga:shri-durga-pradakshina-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-pradakshina-mantra-translite",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:kshama-prarthana": [
+      {
+        "primary": "mantra:durga:shri-durga-kshamarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:shri-durga-kshamarpana-mantra-translite",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:durga:havan": [
+      {
+        "primary": "mantra:durga:durga-homa-agni-prajwalana-mantra",
+        "also": [
+          {
+            "id": "mantra:durga:durga-homa-ghrita-ahuti-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-prajapati-ahuti",
+        "also": [
+          {
+            "id": "mantra:durga:durga-homa-agni-ahuti",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-indra-ahuti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-soma-ahuti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-varuna-ahuti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-durga-ahuti-mantra-1",
+        "also": [
+          {
+            "id": "mantra:durga:durga-homa-durga-ahuti-mantra-2",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:durga:durga-homa-purnahuti-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:durga:durga-homa-shri-durga-namah",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-homa-durga-ahuti-mantra-3",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-antim-ahuti-agni",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-antim-ahuti-vayu",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-antim-ahuti-surya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-antim-ahuti-prajapati",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-antim-ahuti-vishnu",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-antim-ahuti-rudra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-parshada-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-saptajihva-agni-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-shanti-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-4-bhavani",
+        "also": []
+      }
+    ],
+    "step:durga:dhyana": [
+      {
+        "primary": "mantra:durga:durga-homa-durga-dhyana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-dhyana-shloka",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-19-durgamadhyanabh",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:avahana": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:asana": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:padya": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:arghya": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-arghya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:chandra-moon-arghya-chant-hindi",
+        "also": [
+          {
+            "id": "mantra:ganesh-chaturthi:chandra-moon-arghya-chant",
+            "source": "smartpuja.com"
+          }
+        ]
+      }
+    ],
+    "step:ganesh-chaturthi:achamana": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-achamana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:snana": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-snana-mantra",
+        "also": [
+          {
+            "id": "mantra:ganesh-chaturthi:ganesha-chaturthi-dadhi-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:ganesh-chaturthi:ganesha-chaturthi-ghrita-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:ganesh-chaturthi:ganesha-chaturthi-sharkara-snana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-panchamrita-snana-mant",
+        "also": [
+          {
+            "id": "mantra:ganesh-chaturthi:ganesha-chaturthi-paya-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:ganesh-chaturthi:ganesha-chaturthi-madhu-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:ganesh-chaturthi:ganesha-chaturthi-shuddhodaka-snana-mant",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-suvasita-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:vastra": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-vastra-samarpana-mantr",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:yajnopavita": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-yajnopavita-samarpana",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:gandha": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-gandha-samarpana-mantr",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-akshata-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-chandana-karodvartana",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:pushpa": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-pushpa-mala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-pushpanjali-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:dhupa": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-dhupa-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:dipa": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-dipa-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:naivedya": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:tambula": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-tambula-samarpana-mant",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-narikela-samarpana-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:visarjana": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-visarjana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:mushikavahana-sloka-visarjan",
+        "also": []
+      }
+    ],
+    "step:ganesh-chaturthi:ganesha-smarana": [
+      {
+        "primary": "mantra:ganesh-chaturthi:ganapati-bappa-moriya-chant",
+        "also": []
+      }
+    ],
+    "step:ganesh:mantra-pushpanjali": [
+      {
+        "primary": "mantra:ganesh:vakratunda-mahakaya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:om-gajaananam-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shuklambharadharam-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganesha-swagat-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganesha-raksha-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:ganesha-smarana": [
+      {
+        "primary": "mantra:ganesh:ganapati-beej-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganapati-avirbhava-mantra-sankship",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganapati-avahana-mantra-sankshipta",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganapati-prana-pratishta-mantra-sa",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganapati-dashopachara-pujan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganapati-prarthana-mantra-sankship",
+        "also": []
+      }
+    ],
+    "step:ganesh:dhyana": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:avahana": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:pushpa": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-pushpanjali-asana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganesha-pushpa-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganesha-vandana-sahita-pushpanjali",
+        "also": []
+      }
+    ],
+    "step:ganesh:padya": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:arghya": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:gandha": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-chandan-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:dhupa": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-dhupa-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:dipa": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-dipa-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:naivedya": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-naivedya-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:achamana": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-achamana-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:tambula": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-tambula-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganesha-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:namaskara": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:shri-ganesha-sashtanga-pranam-mantra",
+        "also": []
+      }
+    ],
+    "step:ganesh:kshama-prarthana": [
+      {
+        "primary": "mantra:ganesh:shri-ganesha-kshama-prarthana-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:mantra-pushpanjali": [
+      {
+        "primary": "mantra:gauri-ganesh:vakratunda-mahakaya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shuklambharadharam-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-pratishthapana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-shami-patra-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-durvankura-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-sindura-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-nirajana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganesha-sashtanga-pranam-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganesha-kshama-prarthana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganesha-raksha-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-yantra-anugya-permission-mantr",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:dhyana": [
+      {
+        "primary": "mantra:gauri-ganesh:om-gajaananam-ganesha-dhyana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganesha-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:avahana": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:asana": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:padya": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:arghya": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:achamana": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-achamana-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:snana": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-snana-mantra",
+        "also": [
+          {
+            "id": "mantra:gauri-ganesh:ganesha-chaturthi-dadhi-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:gauri-ganesh:ganesha-chaturthi-ghrita-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:gauri-ganesh:ganesha-chaturthi-sharkara-snana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-panchamrita-snana-mant",
+        "also": [
+          {
+            "id": "mantra:gauri-ganesh:ganesha-chaturthi-paya-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:gauri-ganesh:ganesha-chaturthi-madhu-snana-mantra",
+            "source": "drikpanchang.com"
+          },
+          {
+            "id": "mantra:gauri-ganesh:ganesha-chaturthi-shuddhodaka-snana-mant",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-suvasita-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:vastra": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-vastra-samarpana-mantr",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:yajnopavita": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-yajnopavita-samarpana",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:gandha": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-gandha-samarpana-mantr",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-akshata-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-chandana-karodvartana",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:pushpa": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-pushpa-mala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-pushpanjali-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-yantra-avarana-pushpanjali-mantr",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:dhupa": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-dhupa-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:dipa": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-dipa-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:naivedya": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:tambula": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-tambula-samarpana-mant",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-narikela-samarpana-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:visarjana": [
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-visarjana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-visarjan-sloka-mushikavahana",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-visarjan-popular-chant",
+        "also": []
+      }
+    ],
+    "step:gauri-ganesh:ganesha-smarana": [
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganapati-avirbhava-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganapati-avahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganapati-prana-pratishta-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganapati-dashopachara-pujan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:shri-ganapati-prarthana-mantra",
+        "also": []
+      }
+    ],
+    "step:govardhan:aarti": [
+      {
+        "primary": "mantra:govardhan:govardhan-aarti",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:sankalpa": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-sankalpa-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:avahana": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:dhyana": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:asana": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:padya": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:arghya": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:achamana": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-achamana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-shuddha-achamaniyam-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:snana": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-panchamrita-snanam-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-shuddhodaka-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:mantra-pushpanjali": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-maunji-mekhala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-katisutra-and-kaupina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-uttariya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-granthi-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-anga-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-paniya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-uttaraposhana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-hasta-prakshalana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-nirajana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-doraka-grahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-purvadoraka-uttarana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-prarthana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-vayana-dana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-vayana-grahana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:yajnopavita": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-yajnopavita-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:gandha": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-gandha-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-akshata-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:pushpa": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-pushpa-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-suvarna-pushpa-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-pushpanjali-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:dhupa": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-dhupam-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:dipa": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-deepa-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:naivedya": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:tambula": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-tambula-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-chalisa:namaskara": [
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-chalisa:hanuman-namaskara-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:sankalpa": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-sankalpa-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:avahana": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:dhyana": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:asana": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:padya": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:arghya": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:achamana": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-achamana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-shuddha-achamaniyam-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:snana": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-panchamrita-snanam-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-shuddhodaka-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:mantra-pushpanjali": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-maunji-mekhala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-katisutra-and-kaupina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-uttariya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-granthi-puja-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-granthi-puja-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-anga-puja-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-anga-puja-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-paniya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-uttaraposhana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-hasta-prakshalana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-nirajana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-doraka-grahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-purvadoraka-uttarana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-prarthana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-vayana-dana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-vayana-grahana-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:yajnopavita": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-yajnopavita-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:gandha": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-gandha-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-akshata-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:pushpa": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-pushpa-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-suvarna-pushpa-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-pushpanjali-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:dhupa": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-dhupam-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:dipa": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-deepa-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:naivedya": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:tambula": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-tambula-mantra",
+        "also": []
+      }
+    ],
+    "step:hanuman-janmotsav:namaskara": [
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:hanuman-janmotsav:hanuman-namaskara-mantra",
+        "also": []
+      }
+    ],
+    "step:holika:shuddhi": [
+      {
+        "primary": "mantra:holika:holi-pavitrikarana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-pavitrikarana-mantra-roman",
+        "also": []
+      }
+    ],
+    "step:holika:sankalpa": [
+      {
+        "primary": "mantra:holika:holi-sankalpa-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-sankalpa-mantra-roman",
+        "also": []
+      }
+    ],
+    "step:holika:ganesha-smarana": [
+      {
+        "primary": "mantra:holika:holi-ganesha-dhyana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-ganesha-dhyana-mantra-roman",
+        "also": []
+      }
+    ],
+    "step:kali:dhyana": [
+      {
+        "primary": "mantra:kali:shri-kali-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:kali:avahana": [
+      {
+        "primary": "mantra:kali:shri-kali-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:kali:pushpa": [
+      {
+        "primary": "mantra:kali:shri-kali-pushpanjali-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:kali:mantra-pushpanjali": [
+      {
+        "primary": "mantra:kali:shri-kali-navopachara-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:kali:shri-kali-puja-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:karwa-chauth:sankalpa": [
+      {
+        "primary": "mantra:karwa-chauth:sankalp-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:dhyana": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:avahana": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:asana": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:padya": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:arghya": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:achamana": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-achamaniya-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:snana": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:vastra": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-vastra-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:yajnopavita": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-yajnopavita-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:gandha": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-gandha-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:pushpa": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-nana-parimala-dravya",
+        "also": []
+      },
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-pushpa-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:dhupa": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-dhupa-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:dipa": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-deepa-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:naivedya": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:tambula": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-tambula-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:namaskara": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-namaskara-mantra",
+        "also": []
+      }
+    ],
+    "step:krishna-janmashtami:kshama-prarthana": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-kshamarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:kuber-upasana:mantra-pushpanjali": [
+      {
+        "primary": "mantra:kuber-upasana:kuber-beej-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-nav-upchara-pujan-mantra-de",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-nav-upchara-pujan-mantra-ro",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-puja-samarpan-mantra-devana",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-puja-samarpan-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kuber-navopchara-pujan-mantra-roma",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kuber-puja-samarpan-mantra-roman",
+        "also": []
+      }
+    ],
+    "step:kuber-upasana:dhyana": [
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-dhyana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-dhyana-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kuber-dhyana-mantra-roman",
+        "also": []
+      }
+    ],
+    "step:kuber-upasana:avahana": [
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-avahana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-avahana-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kuber-aavahan-mantra-roman",
+        "also": []
+      }
+    ],
+    "step:kuber-upasana:pushpa": [
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-pushpanjali-asana-mantra-de",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kubera-pushpanjali-asana-mantra-ro",
+        "also": []
+      },
+      {
+        "primary": "mantra:kuber-upasana:shri-kuber-pushpanjali-asana-mantra-rom",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:dhyana": [
+      {
+        "primary": "mantra:lakshmi-ganesh:gajaananam-ganesha-dhyana",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-dhyan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:mantra-pushpanjali": [
+      {
+        "primary": "mantra:lakshmi-ganesh:ganesha-beej-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-swagata-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-abhushana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-sindura-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-abira-gulala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-sugandhita-dravya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-anga-pujana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-ashta-siddhi-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ashta-lakshmi-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-vandana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-swagat-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-raksha-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:lakshmi-beej-mantra-shreem",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:mahalakshmi-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:lakshmi-gayatri-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:dhan-prapti-mantra",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:avahana": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-avahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:pushpa": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-pushpanjali-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-pushpanjali-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-pushpa-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-pushpa-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-vandana-sahita-pushpanjali",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:padya": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-padya-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-padya-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:arghya": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-arghya-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-arghya-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:snana": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-panchamrita-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-shuddha-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:gandha": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-gandha-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-raktachandana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-kumkuma-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-akshata-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-chandana-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-chandan-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:vastra": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-vastra-mantra",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:dhupa": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-madhuparka-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-dhupa-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-dhupa-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:dipa": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-dipa-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-dipa-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:naivedya": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-naivedya-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-naivedya-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:achamana": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-achamana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-achamana-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:tambula": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-tambul-samarpana-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-tambula-samarpana-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-dakshina-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-dakshina-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      }
+    ],
+    "step:lakshmi-ganesh:namaskara": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-pradakshina-mantra",
+        "also": [
+          {
+            "id": "mantra:lakshmi-ganesh:shri-ganesha-pradakshina-mantra",
+            "source": "drikpanchang.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-sashtanga-pranama-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-sashtanga-pranam-mantra",
+        "also": []
+      }
+    ],
+    "step:lakshmi-ganesh:kshama-prarthana": [
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-lakshmi-kshama-prarthana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shri-ganesha-kshama-prarthana-mantra",
+        "also": []
+      }
+    ],
+    "step:mangal-bhat:katha": [
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-1",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-2",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-3",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-4",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-5",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-6",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-7",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-8",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-9",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-10",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-bhat:mangal-patha-mantra-11",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:dhyana": [
+      {
+        "primary": "mantra:narayan-bali:dhyanam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:avahana": [
+      {
+        "primary": "mantra:narayan-bali:avahanam",
+        "also": []
+      },
+      {
+        "primary": "mantra:narayan-bali:closing-invocation",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:asana": [
+      {
+        "primary": "mantra:narayan-bali:asanam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:padya": [
+      {
+        "primary": "mantra:narayan-bali:padyam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:snana": [
+      {
+        "primary": "mantra:narayan-bali:panchamrita-snanam",
+        "also": []
+      },
+      {
+        "primary": "mantra:narayan-bali:shuddhodaka-snanam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:vastra": [
+      {
+        "primary": "mantra:narayan-bali:vastram",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:naivedya": [
+      {
+        "primary": "mantra:narayan-bali:naivedyam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:aarti": [
+      {
+        "primary": "mantra:narayan-bali:arartikya-aarti",
+        "also": [
+          {
+            "id": "mantra:narayan-bali:aarti-upachara",
+            "source": "99pandit.com"
+          },
+          {
+            "id": "mantra:narayan-bali:aarti",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:narayan-bali:satyanarayana-aarti-opening",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:arghya": [
+      {
+        "primary": "mantra:narayan-bali:arghyam",
+        "also": []
+      },
+      {
+        "primary": "mantra:narayan-bali:padyam-arghyam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:achamana": [
+      {
+        "primary": "mantra:narayan-bali:achamaniyam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:yajnopavita": [
+      {
+        "primary": "mantra:narayan-bali:yajnopavitam",
+        "also": []
+      },
+      {
+        "primary": "mantra:narayan-bali:vastram-yajnopavitam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:gandha": [
+      {
+        "primary": "mantra:narayan-bali:chandanam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:pushpa": [
+      {
+        "primary": "mantra:narayan-bali:pushpani",
+        "also": []
+      },
+      {
+        "primary": "mantra:narayan-bali:mantrapushpanjali",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:dhupa": [
+      {
+        "primary": "mantra:narayan-bali:dhupah",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:dipa": [
+      {
+        "primary": "mantra:narayan-bali:deepah",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:tambula": [
+      {
+        "primary": "mantra:narayan-bali:tambulam",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:namaskara": [
+      {
+        "primary": "mantra:narayan-bali:pradakshina",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:mantra-pushpanjali": [
+      {
+        "primary": "mantra:narayan-bali:main-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:narayan-bali:closing-mantra",
+        "also": []
+      }
+    ],
+    "step:narayan-bali:katha": [
+      {
+        "primary": "mantra:narayan-bali:katha-chant",
+        "also": []
+      }
+    ],
+    "step:navagraha-shanti:avahana": [
+      {
+        "primary": "mantra:navagraha-shanti:navagraha-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:avahana": [
+      {
+        "primary": "mantra:navratri:shri-durga-dhyana-and-avahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:maa-kalaratri-avahan-mantra-navarna",
+        "also": []
+      }
+    ],
+    "step:navratri:asana": [
+      {
+        "primary": "mantra:navratri:shri-durga-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:padya": [
+      {
+        "primary": "mantra:navratri:shri-durga-padya-prakshalana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:arghya": [
+      {
+        "primary": "mantra:navratri:shri-durga-arghya-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:achamana": [
+      {
+        "primary": "mantra:navratri:shri-durga-achamana-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-achamana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:snana": [
+      {
+        "primary": "mantra:navratri:shri-durga-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:vastra": [
+      {
+        "primary": "mantra:navratri:shri-durga-vastra-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:mantra-pushpanjali": [
+      {
+        "primary": "mantra:navratri:shri-durga-abhushana-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-kajjala-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-saubhagya-sutra-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-sugandhita-dravya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-haridra-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-bilvapatra-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-rituphala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-pustaka-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-kanya-pujana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-nirajana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shailputri-mantra",
+        "also": [
+          {
+            "id": "mantra:navratri:siddhidatri-mantra",
+            "source": "pujahome.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:navratri:brahmacharini-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:chandraghanta-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:kushmanda-mantra",
+        "also": [
+          {
+            "id": "mantra:navratri:skandamata-mantra",
+            "source": "pujahome.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:navratri:katyayani-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:kaalratri-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:maa-siddhidatri-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:gandha": [
+      {
+        "primary": "mantra:navratri:shri-durga-chandana-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-kumkuma-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-akshata-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:pushpa": [
+      {
+        "primary": "mantra:navratri:shri-durga-pushpanjali-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:dhupa": [
+      {
+        "primary": "mantra:navratri:shri-durga-dhupa-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:dipa": [
+      {
+        "primary": "mantra:navratri:shri-durga-dipa-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-dipa-pujana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:naivedya": [
+      {
+        "primary": "mantra:navratri:shri-durga-naivedya-samarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:tambula": [
+      {
+        "primary": "mantra:navratri:shri-durga-narikela-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-tambula-samarpana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:shri-durga-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:namaskara": [
+      {
+        "primary": "mantra:navratri:shri-durga-pradakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:kshama-prarthana": [
+      {
+        "primary": "mantra:navratri:shri-durga-kshamarpana-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:navagraha-invocation": [
+      {
+        "primary": "mantra:navratri:mahagauri-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:navratri:maa-mahagauri-mantra",
+        "also": []
+      }
+    ],
+    "step:navratri:dhyana": [
+      {
+        "primary": "mantra:navratri:maa-kalaratri-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:office-opening:ganesha-smarana": [
+      {
+        "primary": "mantra:office-opening:ganapati-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:dhyana": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:avahana": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-avahana-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:asana": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:padya": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:arghya": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:achamana": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-achamaniya-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:dhupa": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-madhuparka-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ram-navami:rama-navami-dhupam-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:snana": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ram-navami:rama-navami-panchamrita-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:vastra": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-vastra-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:yajnopavita": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-yajnopavita-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:gandha": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-gandha-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:pushpa": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-pushpani-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:mantra-pushpanjali": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-anga-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ram-navami:rama-navami-phala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ram-navami:rama-navami-nirajana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ram-navami:rama-navami-mantra-pushpanjali-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:dipa": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-deepam-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:naivedya": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:tambula": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-tambula-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ram-navami:rama-navami-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:namaskara": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-pradakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:ram-navami:kshama-prarthana": [
+      {
+        "primary": "mantra:ram-navami:rama-navami-kshamarpanam-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:mantra-pushpanjali": [
+      {
+        "primary": "mantra:saraswati:saraswati-vidya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-beej-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:the-saraswati-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-puranokta-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-gaaytri-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-saubhagya-dravya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-alankara-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-nav-upchara-pujan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-puja-samarpan-mantra-diw",
+        "also": []
+      }
+    ],
+    "step:saraswati:dhyana": [
+      {
+        "primary": "mantra:saraswati:saraswati-dhyan-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-dhyana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-dhyana-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:avahana": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-avahana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-avahana-mantra-diwali-va",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-avahan-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:asana": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-asana-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:padya": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-padya-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:arghya": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:achamana": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-achamaniya-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-achamaniya-mantra-after",
+        "also": []
+      }
+    ],
+    "step:saraswati:snana": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-panchamrita-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-shuddhodaka-snana-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:gandha": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-gandha-snana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-chandana-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:vastra": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-vastra-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:pushpa": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-pushpa-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-pushpanjali-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-pushpanjali-asana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-pushpanjali-1-asana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-pushpanjali-2-nav-upachara-m",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:saraswati-pushpanjali-3-samarpan-mantr",
+        "also": []
+      }
+    ],
+    "step:saraswati:dhupa": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-dhupa-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:dipa": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-deepa-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:naivedya": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-naivedya-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:tambula": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-tambula-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-dakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:aarti": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-arartikya-mantra",
+        "also": []
+      }
+    ],
+    "step:saraswati:namaskara": [
+      {
+        "primary": "mantra:saraswati:shri-saraswati-pradakshina-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:saraswati:shri-saraswati-sashtanga-pranama-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:dhyana": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-dhyana-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:dhyanam",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "step:satyanarayan:avahana": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-avahana-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:avahanam",
+            "source": "99pandit.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:satyanarayan:opening-invocation",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:asana": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-asana-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:asanam",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "step:satyanarayan:padya": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-padya-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:padyam",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "step:satyanarayan:snana": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-panchamrita-snana-man",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:panchamrita-snanam",
+            "source": "99pandit.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-shuddhodaka-snana-man",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:vastra": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-vastra-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:vastram",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "step:satyanarayan:naivedya": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-naivedya-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:naivedyam",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "step:satyanarayan:aarti": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-arartikya-mantra",
+        "also": [
+          {
+            "id": "mantra:satyanarayan:aarti",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "step:satyanarayan:arghya": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-arghya-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:achamana": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-achamaniya-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:yajnopavita": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-yajnopavita-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:gandha": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-chandana-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:pushpa": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-pushpani-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:dhupa": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-dhupa-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:dipa": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-deepa-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:tambula": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-tambula-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:mantra-pushpanjali": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-phala-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-mantra-pushpanjali",
+        "also": []
+      },
+      {
+        "primary": "mantra:satyanarayan:main-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:satyanarayan:satyanarayana-namah-mantra",
+        "also": []
+      }
+    ],
+    "step:satyanarayan:namaskara": [
+      {
+        "primary": "mantra:satyanarayan:shri-satyanarayana-pradakshina-mantra",
+        "also": []
+      }
+    ],
+    "step:shiv-puran:avahana": [
+      {
+        "primary": "mantra:shiv-puran:shiva-invocation-mantra",
+        "also": []
+      }
+    ],
+    "step:uma-maheshwari:snana": [
+      {
+        "primary": "mantra:uma-maheshwari:recited-during-abhishekam",
+        "also": []
+      }
+    ]
+  },
+  "puja": {
+    "puja:akshaya-tritiya": [
+      {
+        "primary": "mantra:akshaya-tritiya:",
+        "also": []
+      }
+    ],
+    "puja:antim-sanskar": [
+      {
+        "primary": "mantra:antim-sanskar:procession-chant",
+        "also": []
+      }
+    ],
+    "puja:asthi-visarjan": [
+      {
+        "primary": "mantra:asthi-visarjan:diwali-visarjan-mantra",
+        "also": []
+      }
+    ],
+    "puja:das-mahavidya": [
+      {
+        "primary": "mantra:das-mahavidya:kamala-yantra-invocation-of-main-deity",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-peetha-puja-opening",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-peetha-puja-nine-pe",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-pratham-avarana-sha",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-dwitiya-avaranam-as",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-tritiya-avaranam-dw",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-chaturtha-avaranam",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-pancham-avaranam-fi",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-shashtham-avaranam",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-saptam-avaranam-sho",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-ashtam-avaranam-bhu",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-navam-avaranam-loka",
+        "also": []
+      },
+      {
+        "primary": "mantra:das-mahavidya:shri-sukta-yantra-closing",
+        "also": []
+      }
+    ],
+    "puja:diwali": [
+      {
+        "primary": "mantra:diwali:lakshmi-chalisa-opening-verse",
+        "also": []
+      },
+      {
+        "primary": "mantra:diwali:shree-mahalakshmi-suktam-opening-verse",
+        "also": []
+      }
+    ],
+    "puja:durga": [
+      {
+        "primary": "mantra:durga:durga-homa-sankalpa",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-homa-ganapati-ahuti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-1-durga",
+        "also": [
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-12-durgama",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-20-durgamoha",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-21-durgamaga",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-25-durgamangi",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-26-durgamata",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-27-durgamya",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-29-durgabhima",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-30-durgabhama",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-31-durgabha",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-7-durga",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-48-vanadurga",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-2-durgartishamani",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-3-durgapadvinivari",
+        "also": [
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-32-durgadarini",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-4-durgamacchedini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-5-durgasadhini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-6-durganashini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-7-durgatoddharini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-8-durganihantri",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-9-durgamapaha",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-10-durgamajnanada",
+        "also": [
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-18-durgamajnasamst",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-11-durgadaityaloka",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-13-durgamaloka",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-14-durgamatmaswaru",
+        "also": [
+          {
+            "id": "mantra:durga:durga-dwatrinsh-naam-22-durgamarthaswar",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-15-durgamargaprada",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-16-durgamavidya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-17-durgamashrita",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-23-durgamasurasanh",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-24-durgamayudhadha",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-11-shooladharini",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-dwatrinsh-naam-28-durgameshwari",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-104-parameshwari",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-1-sati",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-2-sadhvi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-3-bhavaprita",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-5-bhavamochani",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-6-arya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-8-jaya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-9-aadya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-10-trinetra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-12-pinakadharini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-13-chitra",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-14-chandaghanta",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-15-mahatapa",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-16-manah",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-17-buddhi",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-65-buddhida",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-18-ahankara",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-19-chittarupa",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-20-chita",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-21-chiti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-22-sarvamantramay",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-75-sarvashastrama",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-23-satta",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-24-satyanandaswar",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-25-ananta",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-62-jnana",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-103-ananta",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-26-bhavini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-27-bhavya",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-28-bhavya",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-29-abhavya",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-30-sadagati",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-31-shambhavi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-32-devamata",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-33-chinta",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-34-ratnapriya",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-63-kriya",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-35-sarvavidya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-36-dakshakanya",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-81-ekakanya",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-37-dakshayajnavin",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-38-aparna",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-39-anekavarna",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-40-patala",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-41-patalavati",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-42-pattambarapari",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-43-kalamanjiraran",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-44-ameyavikrama",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-45-krura",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-46-sundari",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-47-surasundari",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-49-matangi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-50-matangamunipuj",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-51-brahmi",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-108-brahmavadini",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-52-maheshwari",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-53-aeindri",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-54-kaumari",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-80-kumari",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-55-vaishnavi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-56-chamunda",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-57-varahi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-58-lakshmi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-59-purushakriti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-61-utkarshini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-64-nitya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-66-bahula",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-67-bahulaprema",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-69-nishumbhashumb",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-70-mahishasuramar",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-71-madhukaitabhah",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-72-chandamundavin",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-73-sarvasuravinas",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-74-sarvadanavagha",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-76-satya",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-105-katyayani",
+            "source": "smartpuja.com"
+          },
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-107-pratyaksha",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-78-anekashastraha",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-79-anekastradhari",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-82-kaishori",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-83-yuvati",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-84-yati",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-85-apraudha",
+        "also": [
+          {
+            "id": "mantra:durga:durga-ashtottara-naam-86-praudha",
+            "source": "smartpuja.com"
+          }
+        ]
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-87-vriddhamata",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-88-balaprada",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-89-mahodari",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-90-muktakeshi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-91-ghorarupa",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-92-mahabala",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-93-agnijwala",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-94-raudramukhi",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-95-kalaratri",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-96-tapasvini",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-97-narayani",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-98-bhadrakali",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-99-vishnumaya",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-100-jalodari",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-101-shivaduti",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-102-karali",
+        "also": []
+      },
+      {
+        "primary": "mantra:durga:durga-ashtottara-naam-106-savitri",
+        "also": []
+      }
+    ],
+    "puja:ekadashi-vrat-udyapan": [
+      {
+        "primary": "mantra:ekadashi-vrat-udyapan:vishnu-moola-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ekadashi-vrat-udyapan:ekadashi-special-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ekadashi-vrat-udyapan:parana-success-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ekadashi-vrat-udyapan:peace-mantra",
+        "also": []
+      }
+    ],
+    "puja:ganesh-chaturthi": [
+      {
+        "primary": "mantra:ganesh-chaturthi:vakratunda-mahakaya",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:gajananam-bhutaganadi-sevitam",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:shuklambaradharam-vishnum",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:om-gam-ganapataye-namah",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-pratishthapana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-uttariya-samarpana-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-shami-patra-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-durvankura-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-sindura-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-nirajana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh-chaturthi:ganesha-chaturthi-pradakshina-mantra",
+        "also": []
+      }
+    ],
+    "puja:ganesh": [
+      {
+        "primary": "mantra:ganesh:ganesha-visarjan-sloka-mushikavahana",
+        "also": []
+      },
+      {
+        "primary": "mantra:ganesh:popular-ganesha-chant",
+        "also": []
+      }
+    ],
+    "puja:gauri-ganesh": [
+      {
+        "primary": "mantra:gauri-ganesh:om-gam-ganapataye-namah",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:ganesha-chaturthi-uttariya-samarpana-man",
+        "also": []
+      },
+      {
+        "primary": "mantra:gauri-ganesh:om-vakratundaya-hum-shadakshar-ganesha",
+        "also": []
+      }
+    ],
+    "puja:gayatri-mantra": [
+      {
+        "primary": "mantra:gayatri-mantra:gayatri-mantra-devanagari",
+        "also": [
+          {
+            "id": "mantra:gayatri-mantra:gayatri-mantra-roman",
+            "source": "99pandit.com"
+          }
+        ]
+      }
+    ],
+    "puja:hanuman-chalisa": [
+      {
+        "primary": "mantra:hanuman-chalisa:ram-naam",
+        "also": []
+      }
+    ],
+    "puja:holika": [
+      {
+        "primary": "mantra:holika:holi-ambika-dhyana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-ambika-dhyana-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-narasimha-dhyana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-narasimha-dhyana-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-prahalada-dhyana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-prahalada-dhyana-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-prarthana-mantra-devanagari",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holi-prarthana-mantra-roman",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:prahlad-mantra-for-protection",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:holika-mantra-for-burning-negativity",
+        "also": []
+      },
+      {
+        "primary": "mantra:holika:narasimha-mantra-for-victory-over-evil",
+        "also": []
+      }
+    ],
+    "puja:kaal-sarp-dosh": [
+      {
+        "primary": "mantra:kaal-sarp-dosh:rahu-ketu-kaal-sarp-shloka",
+        "also": []
+      }
+    ],
+    "puja:karwa-chauth": [
+      {
+        "primary": "mantra:karwa-chauth:parvati-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:karwa-chauth:karwa-donation-mantra",
+        "also": []
+      }
+    ],
+    "puja:krishna-janmashtami": [
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-abharana-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-anga-puja-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:krishna-janmashtami:krishna-janmashtami-mahanirajana-mantra",
+        "also": []
+      }
+    ],
+    "puja:lakshmi-ganesh": [
+      {
+        "primary": "mantra:lakshmi-ganesh:vakratunda-mahakaya",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:shuklambharadharam",
+        "also": []
+      },
+      {
+        "primary": "mantra:lakshmi-ganesh:ganesha-visarjan-sloka-mushikavahana",
+        "also": []
+      }
+    ],
+    "puja:maha-mrityunjaya": [
+      {
+        "primary": "mantra:maha-mrityunjaya:maha-mrityunjaya-mantra-devanagari",
+        "also": [
+          {
+            "id": "mantra:maha-mrityunjaya:mahamrityunjaya-mantra",
+            "source": "99pandit.com"
+          },
+          {
+            "id": "mantra:maha-mrityunjaya:maha-mrityunjaya-mantra-roman",
+            "source": "smartpuja.com"
+          }
+        ]
+      }
+    ],
+    "puja:maha-shivaratri": [
+      {
+        "primary": "mantra:maha-shivaratri:shiva-mula-mantra-om-namah-shivaya",
+        "also": []
+      },
+      {
+        "primary": "mantra:maha-shivaratri:lord-shiva-chalisa-opening-excerpt",
+        "also": []
+      },
+      {
+        "primary": "mantra:maha-shivaratri:lord-shiva-aarti-opening-excerpt",
+        "also": []
+      },
+      {
+        "primary": "mantra:maha-shivaratri:lord-mahadev-aarti-opening-excerpt",
+        "also": []
+      },
+      {
+        "primary": "mantra:maha-shivaratri:shiva-ramashtakam-opening-excerpt",
+        "also": []
+      },
+      {
+        "primary": "mantra:maha-shivaratri:shri-shiva-ashtottarashatanama-stotram",
+        "also": []
+      }
+    ],
+    "puja:mangal-dosh-nivaran": [
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-1",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-2",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-3",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-4",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-5",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-6",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-7",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-8",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-9",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-10",
+        "also": []
+      },
+      {
+        "primary": "mantra:mangal-dosh-nivaran:mangal-patha-mantra-11",
+        "also": []
+      }
+    ],
+    "puja:marriage": [
+      {
+        "primary": "mantra:marriage:mangal-dosh-mars-remedy-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:marriage:saturn-shani-affliction-remedy-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:marriage:weak-venus-shukra-remedy-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:marriage:weak-jupiter-guru-brihaspati-remedy-ma",
+        "also": []
+      }
+    ],
+    "puja:narayan-bali": [
+      {
+        "primary": "mantra:narayan-bali:phalam",
+        "also": []
+      }
+    ],
+    "puja:navagraha-shanti": [
+      {
+        "primary": "mantra:navagraha-shanti:navagraha-dashopachara-pujan-mantra-dev",
+        "also": []
+      },
+      {
+        "primary": "mantra:navagraha-shanti:navagraha-dashopachara-pujan-mantra-rom",
+        "also": []
+      },
+      {
+        "primary": "mantra:navagraha-shanti:navagraha-prarthana-mantra",
+        "also": []
+      }
+    ],
+    "puja:ram-navami": [
+      {
+        "primary": "mantra:ram-navami:rama-nama-chanting",
+        "also": []
+      }
+    ],
+    "puja:rudrabhishek": [
+      {
+        "primary": "mantra:rudrabhishek:om-namah-shivaya",
+        "also": []
+      },
+      {
+        "primary": "mantra:rudrabhishek:maha-mrityunjaya-mantra",
+        "also": []
+      }
+    ],
+    "puja:santan-gopal-mantra": [
+      {
+        "primary": "mantra:santan-gopal-mantra:santan-gopal-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:santan-gopal-mantra:santan-prapti-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:santan-gopal-mantra:shri-krishna-mantra-for-santan-prapti",
+        "also": []
+      }
+    ],
+    "puja:saraswati": [
+      {
+        "primary": "mantra:saraswati:saraswati-vandana",
+        "also": []
+      }
+    ],
+    "puja:shani": [
+      {
+        "primary": "mantra:shani:shani-beej-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:shani:shiva-mantra",
+        "also": []
+      },
+      {
+        "primary": "mantra:shani:shani-mantra",
+        "also": []
+      }
+    ],
+    "puja:vishwakarma": [
+      {
+        "primary": "mantra:vishwakarma:vishwakarma-puja-mantra",
+        "also": []
+      }
+    ]
+  }
+}

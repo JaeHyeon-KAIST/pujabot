@@ -1,0 +1,2962 @@
+{
+ "_setup:satyanarayan": {
+  "detail": "Clean and decorate the puja area and set a wooden chowki (low platform) in the north-east corner, cover it with a red or yellow cloth, and place the idols or photo of Lord Satyanarayan and Goddess Lakshmi on it. Decorate the mandap with mango leaves and banana stems, and sit facing east or north.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Prepare a wooden chowki and cover it with a red/yellow cloth, and put idols of Lord Satynaryan and goddess Lakshmi."
+   },
+   {
+    "source": "99pandit",
+    "text": "The Best Direction: Always place your Puja table (Chowki) in the North-East direction. ... Sit facing the East or North while you chant the Satyanarayan Puja Mantra."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Setup: Idol of Lord Satyanarayan, Yellow Cloth, Mango Leaves, Banana Stems."
+   },
+   {
+    "source": "panditjionway",
+    "text": "Mandap & Setup: Satyanarayan Idol or Photo; Mango leaves, banana stems (optional); Clean cloth, flowers, garlands"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:sankalpa": {
+  "detail": "Bathe beforehand, then sit on an asana (mat) at the place of worship and, guided by a pandit, take the resolution to perform the puja with honesty and pure intention.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "After taking a bath sit on an Asana at the place of worship and worship with devotion to all the deities like Shri Ganesha, Varuna, Gauri, Vishnu etc. and take a resolution"
+   },
+   {
+    "source": "99pandit",
+    "text": "Guided by a pandit, a person takes a vow to perform the puja with honesty and pure intention."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:ganesha-smarana": {
+  "detail": "As the puja begins, light the ghee lamp and incense and ring the bell, then worship Lord Ganesha first (to remove obstacles) before invoking Lord Satyanarayan.",
+  "quotes": [
+   {
+    "source": "pujanpujari",
+    "text": "Light the lamp and incense, and chant traditional mantras before invoking Lord Satyanarayana Swamy with full devotion."
+   },
+   {
+    "source": "99pandit",
+    "text": "At the Start: Ring the bell as soon as you begin the puja to say \"Welcome\" to God."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:kalasha-sthapana": {
+  "detail": "Place a copper or brass kalash filled with water near the puja area, drop in a betel nut, a coin and some rice, arrange mango leaves around the rim and set a whole coconut on top — this kalash becomes the spiritual centre of the ritual.",
+  "quotes": [
+   {
+    "source": "pujanpujari",
+    "text": "A copper or brass Kalash is ritually prepared with water, mango leaves, and a coconut placed on top — symbolizing divine presence. This becomes the spiritual center of the ritual"
+   },
+   {
+    "source": "99pandit",
+    "text": "Place a copper kalash filled with water near the puja area."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Kalash: Copper Pot, Coconut, Betel Leaves, Supari (Betel Nuts), Coins."
+   },
+   {
+    "source": "panditjionway",
+    "text": "Kalash Sthapana: Copper Kalash; Coconut with husk; Betel leaves, betel nuts; Coins, rice, sacred water"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:invoke-seat": {
+  "detail": "Meditate facing the idol, then invoke the deity showing the Avahana Mudra (both palms joined with the thumbs folded inward). Take five flowers in your cupped palms (anjali) and lay them before the idol to offer the seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Dhyana should be done in front of Satyanarayana image or idol in front of you."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "chant following Mantra in front of the Murti, by showing Avahan Mudra (Avahan Mudra is formed by joining both palms and folding both thumbs inwards)."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Lord Satyanarayana"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:offer-water": {
+  "detail": "Offer water to the deity before the idol in three stages: to wash the feet (padya), then over the head (arghya), then for sipping (achamana).",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "offer water to Shri Satyanarayana to wash the feet while chanting following Mantra."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "offer water to Shri Satyanarayana for head Abhishekam while chanting following Mantra."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "offer water to Shri Satyanarayana for Achamana while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:bathe-adorn": {
+  "detail": "Bathe the idol first with panchamrit (milk, curd, honey, ghee and sugar) and then with pure water, then dress it in new clothes, offer the sacred thread (yajnopavita) and apply sandalwood paste.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "give a bath with Panchamrita (the mixture of milk, curd, honey, Ghee and sugar) to Shri Satyanarayana"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "After Panchamrita Snana, offer bath to Shri Satyanarayana with pure water"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "now offer new clothes to Shri Satyanarayana ... offer holy thread to Shri Satyanarayana ... offer sandalwood paste or powder to Shri Satyanarayana"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:main-offerings": {
+  "detail": "Offer in order: flowers, then incense (dhupa), then a lit earthen ghee lamp (deepa). Wash your hands and offer naivedya of assorted fruits and sweets with a (mandatory) Tulsi leaf, and finish with betel leaves (tambula).",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "offer enlightened earthen lamp of pure Ghee to Lord Satyanarayana while chanting following Mantra."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "wash your hands and offer Naivedya. It should include different type of fruits and sweets"
+   },
+   {
+    "source": "panditjionway",
+    "text": "Tulsi leaves (mandatory)"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "offer betel leaf (Tambula) to Lord Satyanarayana while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:pradakshina": {
+  "detail": "Circumambulate the deity from left to right (or turn around symbolically in place) with flowers held in your hands.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "offer symbolic Pradakshina (circumambulate from left to right of Shri Satyanarayan) with flowers in hand"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:katha": {
+  "detail": "Sit quietly and read or listen to the Satyanarayan Vrat Katha; hearing all five chapters is considered essential to complete the puja.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Sit in the quite place. Listen or recite the Satyanaryana Katha to learn the power of truth and devotion."
+   },
+   {
+    "source": "panditjionway",
+    "text": "Listening to the full Satyanarayan Katha is compulsory . The Katha is the soul of the Puja ... the benefits are incomplete without hearing all five chapters"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:aarti": {
+  "detail": "Light camphor in the puja thali and circle the flame before the deity while singing the Satyanarayan aarti, ringing the bell loudly.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "offer Aarti with lit camphor in Puja Thali to Lord Satyanarayana while chanting following Mantra."
+   },
+   {
+    "source": "99pandit",
+    "text": "During Aarti: Ring the bell loudly during the final prayer (Aarti)."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:prasad-vitarana": {
+  "detail": "First offer the prasad — the sweet sheera (sapaadbhaksh) made of semolina/wheat flour, sugar, ghee, milk and banana — to the deity, then distribute it to all participants.",
+  "quotes": [
+   {
+    "source": "pujanpujari",
+    "text": "Prasad, especially sheera (a sweet semolina preparation), is offered to the deity and distributed among the attendees."
+   },
+   {
+    "source": "99pandit",
+    "text": "The Ingredients: Mix wheat flour, sugar, ghee, milk, and bananas in equal parts."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:griha-pravesh": {
+  "detail": "Set up the altar facing east or north, spread a red cloth and place the kalash in the centre with small idols of Ganesha, Lakshmi and Vastu Purusha. Hang a mango-leaf toran at the doorway and draw a rangoli at the threshold, and keep a gas stove, rice and drinking water ready for the ceremony.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "choose a direction that aligns with Vastu principles, typically facing east or north ... Prepare the altar with a red cloth and place the kalash in the center."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Decorate: Hang a Mango Leaf Toran and draw a Rangoli. Essentials: Bring the Gas Stove, Rice, and Drinking Water at the time of Puja."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Idols/Images: Small murtis of Lord Ganesha, Goddess Lakshmi, and Vastu Purusha."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:shuddhi": {
+  "detail": "Sweep, mop and dust the whole house, removing clutter and anything left by previous occupants, with special attention to the puja room. Purify it by washing with salt water and sprinkling holy Gangajal, and burn incense/dhoop to cleanse the air.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "The house should be swept, mopped, and dusted ... Special attention should be given to the puja room ... It is customary to use holy water or 'Gangajal' for purification purposes."
+   },
+   {
+    "source": "pujahome",
+    "text": "Remove clutter and any items from previous occupants ... Use incense sticks or 'dhoop' for fragrance and to purify the air"
+   },
+   {
+    "source": "smartpuja",
+    "text": "Cleanse: Clean the entire home with salt water."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:griha-pravesh:main-offerings": {
+  "detail": "Present offerings to the deities while chanting the mantras: fresh flowers, five kinds of fruit, sweets, incense sticks, and betel leaves with betel nuts.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "The offerings typically include: Fresh flowers Fruits Sweets Incense sticks Betel leaves and nuts"
+   },
+   {
+    "source": "pujahome",
+    "text": "It is essential to chant specific mantras while presenting these offerings to invoke the deities"
+   },
+   {
+    "source": "panditjionway",
+    "text": "5 Fruits – A symbol of good health and prosperity."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:dwar-puja": {
+  "detail": "At the threshold the owner/head of the household enters first, stepping in with the right foot, carrying a copper kalash filled with water topped with a coconut and mango leaves (5 or 7). The doorway is decorated with a marigold toran and a rangoli.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The owner of the house enters carrying a Kalash (copper pot) filled with water, a coconut, and mango leaves. The hall is decorated with Rangoli and a Toran of marigolds."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Dwar Puja: Ritual at the threshold; enter with right foot."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Kalash Sthapana: Copper/Brass Pot (Kalash), Whole Coconut, Mango Leaves (5 or 7), Mouli (Sacred Thread), Silver/Copper Coin, Betel Nut (Supari)."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:vastu-shanti": {
+  "detail": "Perform the Vastu Puja to honour Vastu Purusha, the deity of directions and the spirits of the land. A copper Vastu Yantra is commonly placed under the soil or near the altar.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "Vastu Puja: To honor Vastu Purusha, the deity of directions and environment."
+   },
+   {
+    "source": "99pandit",
+    "text": "This is observed by a Vastu Puja to honour the spirits of the land."
+   },
+   {
+    "source": "smartpuja",
+    "text": "A copper Vastu Yantra is also commonly required to be placed under the soil or near the altar."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:milk-boiling": {
+  "detail": "Using a new vessel (stainless steel, brass or silver) on the stove in the southeast corner, traditionally the lady of the house — facing east — boils fresh milk and lets it overflow naturally toward the east or northeast. The pot is often decorated with kumkum, turmeric, mango leaves and a sacred thread; offer the boiled milk to Ganesha and Lakshmi first, then share it as prasad.",
+  "quotes": [
+   {
+    "source": "panditjionway",
+    "text": "Traditionally, the lady of the house performs the ceremony because she is considered the nurturer of the household."
+   },
+   {
+    "source": "panditjionway",
+    "text": "Stove Placement Southeast ... Person Performing Ritual Facing East ... Overflow Direction East or Northeast"
+   },
+   {
+    "source": "panditjionway",
+    "text": "Use a new vessel made of: Stainless steel Silver Brass Avoid using old utensils."
+   },
+   {
+    "source": "panditjionway",
+    "text": "Many families decorate the vessel with: Kumkum Turmeric Mango leaves Sacred thread"
+   },
+   {
+    "source": "panditjionway",
+    "text": "The boiled milk should first be offered to Lord Ganesha and Goddess Lakshmi as Naivedyam. After the offering, it is distributed as Prasad"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:havan": {
+  "detail": "Perform the havan in a havan kund with the family gathered around the fire, offering mango wood, pure cow ghee, havan samagri, navadhanya (nine grains) and black sesame. In an apartment where smoke is a concern, a smaller micro-havan using camphor can be used instead.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "family members gather around the sacred fire, or 'havan kund', joining the priest in reciting mantras and singing bhajans"
+   },
+   {
+    "source": "smartpuja",
+    "text": "Vastu Shanti Havan: Havan Kund, Mango Wood (Aam ki Lakdi), Havan Samagri Mix, Pure Cow Ghee, Navadhanya (9 types of grains), Black Sesame (Kala Til), Barley (Jau)."
+   },
+   {
+    "source": "smartpuja",
+    "text": "Micro-Havan: Using a smaller copper Kund with minimal dry wood and high-quality camphor to generate less smoke but maintain scriptural integrity."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:akhand-ramayan:invoke-seat": {
+  "detail": "Set up the chowki with idols of Ram, Sita, Lakshman, and Hanuman, and keep the Ramcharitmanas on a wooden stand.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Purify the puja space, set up a chowki with idols of Ram, Sita, Lakshman & Hanuman, and keep the Ramcharitmanas on a wooden stand."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:akhand-ramayan:katha": {
+  "detail": "The path runs continuously through all 7 kands without interruption over about 24 hours, with 4-6 pandits changing shifts so the reading never stops.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "4-6 number of pandits change shifts, hence the reading never stops – including all 7 kands without interruption (24-hour)."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:akshaya-tritiya": {
+  "detail": "Clean the puja space and lay a yellow cloth on a wooden chowki, then establish the idol of Lakshmi-Narayan on the yellow cloth.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Clean the puja space and keep a yellow cloth on a wooden chowki."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:akshaya-tritiya:invoke-seat": {
+  "detail": "Offer yellow flowers, sandalwood paste, and tulsi leaves to Lord Vishnu; some sources specify tulsi for Vishnu and lotus or rose for Goddess Lakshmi.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Present yellow flowers, sandalwood paste, and tulsi leaves, which are highly favorite to Lord Vishnu."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:akshaya-tritiya:main-offerings": {
+  "detail": "Place any newly bought gold or silver near or in front of the idols to be sanctified, which some sources accompany with an offering of haldi-kumkum. For prasad, offer barley, milk sweets, or fruits.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "If you brought gold or silver, keep it near the idols to be sanctified."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Make ‘Prasad’ like barley, sweets made of milk, or fruits."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:annaprashan": {
+  "detail": "The child is dressed in new traditional attire, often yellow or red, and seated in the lap of the maternal uncle (Mama) or grandfather for the ceremony.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Dressed up the child in new traditional attire (often yellow or red) and placed in the lap of the maternal uncle (Mama) or grandfather."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:annaprashan:muhurat": {
+  "detail": "Sources place the ceremony in the 6th, 8th, or 10th month for boys and the 5th, 7th, or 9th month for girls, with the exact muhurat set from the birth chart.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "According to Hindu traditions, the best time to host an annaprashan puja at home is during the 6th, 8th, or 10th month for baby boys, and during the 5th, 7th, or 9th month for baby girls."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:antim-sanskar:aarti": {
+  "detail": "The body is bathed, dressed in new clothes, and placed on a wooden pyre, and holy water (Ganga Jal) with a Tulsi leaf is put in the mouth.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Initially, the body is bathed, dressed in new clothes, and placed on a wooden pyre."
+   },
+   {
+    "source": "99pandit",
+    "text": "Holy water (Ganga Jal) and a Tulsi leaf are put in the mouth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:antim-sanskar:visarjana": {
+  "detail": "Around 24 hours after the cremation the family gathers the ashes and bones, which are then immersed in holy rivers like the Ganga.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Around 24 hours after the cremation, the family gathers all the ashes and bones (Asthi)."
+   },
+   {
+    "source": "99pandit",
+    "text": "Now, ashes are immersed in holy rivers like the Ganga, representing the soul’s liberation."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:asthi-visarjan": {
+  "detail": "The ritual site should ideally be near a holy river or another body of water; sources most often name the Ganga or Yamuna as the preferred choice.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The choice of the site for Asthi Visarjan is very important; ideally, it should be near a holy river or other body of water."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "The Ganges River is the most sacred in India. Performing the ritual there is best."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:kalasha-sthapana": {
+  "detail": "The urn is usually made of metal or clay, with a scarlet fabric wrapped around it to conceal the opening; some sources describe a copper or clay pot filled with Ganga jal.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "These remains are placed in a Kalash, or urn, which is usually made of metal or clay."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "A scarlet fabric is put around the urn to conceal the opening."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Get the bones and ashes from the cremation site carefully and keep them in a copper or clay pot filled with Ganga jal."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:asthi-visarjan:main-offerings": {
+  "detail": "Offerings during the puja include rice, fruits, and flowers, while the tarpan is made with water, sesame seeds, and flowers.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "During the puja, the deceased's friends and family recite prayers and provide offerings of rice, fruits, and flowers."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "The family of the deceased honours them by offering water with sesame seeds and flowers, showing gratitude and seeking their blessings."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:asthi-visarjan:pradakshina": {
+  "detail": "Offer the flowers to each deity in order from the youngest to the oldest participant.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "bow down to them while offering flowers to them in the order of the young to old."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:visarjana": {
+  "detail": "For the visarjan, take the akshata (unbroken rice) and a flower in your right hand.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After offering obeisance, the worshiper should take Akshata (Unbroken Rice) and flower in his right hand and chant the following Mantra for Visarjan -"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:bharani-shraddha:havan": {
+  "detail": "The optional Thila Homam is a fire ritual performed using black sesame seeds.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Optionally, perform a Thila Homam (fire ritual using black sesame seeds) to multiply the spiritual benefit of the Shraddha ceremony and resolve Pitru Dosha."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:bhoomi": {
+  "detail": "Perform the puja in the North-East (Ishan) corner of the plot. The priest faces north while the owner (yajaman) faces east.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Traditionally, Bhoomi Puja is conducted in the North-East (Ishan Kona) corner of the plot."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:birthday:aarti": {
+  "detail": "A raksha sutra (protective thread) is tied on the devotee's hand as the puja closes.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Puja completes with the singing of hymns and the pandit tying a raksha sutra on the devotee's hand for protection."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:brahmin-bhoj": {
+  "detail": "Prepare a sattvic meal without onion or garlic, using pure Desi ghee, and welcome the Brahmins by washing their feet; depending on the ritual's scale, 2, 5, 11, or 21 Brahmins are invited.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Purify the place and make a sattvic meal without onion or garlic with pure Desi ghee."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Welcome the brahmins respectfully and do Padaprakshalana (washing the feet) as they come."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Depending on the scale of the ritual, 2,5,11, or 21 Brahmins are invited."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:brahmin-bhoj:sankalpa": {
+  "detail": "Seat the Brahmins on a clean Asan facing east before taking the Sankalp.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Make them sit on a clean Asan facing east and take Sankalp (mention your intention for the ritual)."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:brahmin-bhoj:invoke-seat": {
+  "detail": "The Brahmins are seated on a clean Asan facing east, and food is served traditionally using the right hand.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Make them sit on a clean Asan facing east and take Sankalp (mention your intention for the ritual)."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Serve them food traditionally using your right hand, making sure they are comfortable, and the atmosphere stays calm."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:brahmin-bhoj:main-offerings": {
+  "detail": "Once the bhoj is finished, offer the Brahmins Dakshina, fruits, and betel leaves as a symbol of gratitude.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "When the bhoj finished, offer them Dakshina, fruits, and betel leaves as a symbol of gratitude."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:das-mahavidya": {
+  "detail": "The ten yantras, one for each Mahavidya, are installed in a prepared puja space; a yantra may be kept at the puja altar and home for daily worship.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Shri Sukta Yantra is installed at Puja altar and home."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:muhurat": {
+  "detail": "For the related Shri Sukta Yantra Puja, the days of Lakshmi Puja, Dhanteras, and Pushya Nakshatra are named as auspicious.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "For Shri Sukta Yantra Puja, the days of Lakshmi Puja , Dhanteras and Pushya Nakshatra are considered auspicious."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:das-mahavidya:bathe-adorn": {
+  "detail": "During each Avarana Puja the yantra is worshipped with Akshata, flower, Dhoop, Deep, and Gandha while each mantra is chanted.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "During each Avarana Puja, Yantra should be worshiped with Akshata, flower, Dhoop, Deep and Gandha while chanting each Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:das-mahavidya:main-offerings": {
+  "detail": "Each of the ten Mahavidyas is offered water, flowers, incense, light, and food along with prayers.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Each of the ten Mahavidyas is worshipped through this ritual, offering water, flowers, incense, light, food, and prayers to the goddess."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:havan": {
+  "detail": "In the homam, ghee, sesame, and sacred herbs are offered into the fire while the mantras are recited.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "a homam where ghee, sesame, and sacred herbs are offered into the fire while reciting their mantras"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:dhanteras": {
+  "detail": "Set a wooden chowki covered with red cloth and place an idol or images of Lord Ganesha, Goddess Lakshmi, and Lord Kubera. Sources also describe lighting a four-wicked Yama Deep kept outside the main door facing south.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Keep a wooden chowki, cover it with red cloth, and place an idol or images of Lord Ganesha, Goddess Lakshmi, and Lord Kubera."
+   },
+   {
+    "source": "99pandit",
+    "text": "Light a four-wicked diya (Yama deep) and keep it outside the main door facing south."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:invoke-seat": {
+  "detail": "Perform the meditation before an already ignited ghee lamp flame kept in front of you.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Dhyana should be done in already ignited Ghee lamp flame kept in front of you."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:main-offerings": {
+  "detail": "Take five flowers in Anjali and leave them before you to offer the seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Thus, I offer five flowers for the seat of Lord Shri Dhanvantari."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:diwali:invoke-seat": {
+  "detail": "Place a soft red cloth on the chowki, then set the idol of Maa Lakshmi on it with the Lord Ganesha idol on her left side.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "place a soft red cloth on the chowki. Then carefully place the idol of Maa Lakshmi along with the Lord Ganesha idol on her left side"
+   },
+   {
+    "source": "99pandit",
+    "text": "Install the idol of Goddess Lakshmi and Lord Ganesha over a red cloth. Assure lord ganesha is kept at left side of Lakshmi."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:diwali:kalasha-sthapana": {
+  "detail": "Spread a heap of rice grains in the centre of the chowki as an asana, then fill a silver or brass kalash with water, supari, coins, akshat rice, marigold flower, and a pinch of haldi-kumkum, and cover its mouth with mango leaves and a coconut.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Just before placing a Kalash, spread a heap of rice grains in the center of the chowki, which acts as an Asana."
+   },
+   {
+    "source": "mypoojabox",
+    "text": "Fill the silver or brass Kalash with water, supari, coins, Akshat rice, marigold flower, a pinch of Haldi-Kumkum, and cover the mouth of the same with Mango leaves and a coconut."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:diwali:offer-water": {
+  "detail": "For achamana, take clean water in your right hand using the five-vessel three times.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Take clean water in right hand by five-vessel for three times to offer Achamana."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:diwali:main-offerings": {
+  "detail": "For the Deep-Malika, light a big mustard oil lamp in the middle and place 11, 21, 51 or more small lamps around it in a platter. Offer tambula made of betel leaves with betel nuts, camphor, and cardamom.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "light a big mustard oil lamp in the middle of the revered ancestors and family deity"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "decorate it by placing 11, 21, 51 or more small lamps around it in a platter (big plate)"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "Tambula made of betel leaves, fortified with highly refined betel nuts, camphor and cardamom"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:diwali:mantra-pushpanjali": {
+  "detail": "Take five flowers in anjali (both palms joined) and leave them in front of you to offer the seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the you to offer seat to Shri Dhanvantari"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:durga:kalasha-sthapana": {
+  "detail": "Set up the sacred pot filled with holy water with mango leaves placed over it, serving as the physical vessel for the deity's presence.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Setting up the sacred pot filled with holy water and mango leaves over it, which acts as the physical vessel for the deity’s divine presence."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:durga:invoke-seat": {
+  "detail": "For the Asana, take five flowers in the Anjali (joined palms) and leave them in front of the Murti to offer the Goddess her seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Goddess Durga"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:ekadashi-vrat-udyapan": {
+  "detail": "Collect the special Ekadashi Vrat samagri beforehand, including a wooden chowki for Navgraha, bell, conch, kalash, and Ganga Sagar.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Following items, which are needed during Ekadashi Vrat Puja, should be collected before Ekadashi Vrat ."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "Wooden Chowki for Navgraha , Bell, Conch, Kalash, Ganga Sagar, Bowl, Plate, Bucket"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ekadashi-vrat-udyapan:kalasha-sthapana": {
+  "detail": "After Ganesh puja and Kalash sthapana, a Sarvatobhadra Mandala is set up, where Lord Vishnu is invoked in his four-armed form.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The ritual starts with Ganesh puja and Kalash sthapana, followed by the setup of Sarvotabhadra Mandala, where Lord Vishnu is sought in his four-armed form."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ekadashi-vrat-udyapan:main-offerings": {
+  "detail": "A Shodashopachara (16-step) puja of Lord Vishnu and Goddess Lakshmi is done using tulsi leaves and yellow flowers.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The basics of the ritual include a Shodashopachara puja (16-step worship) of lord Vishnu and Goddess Lakshmi using tulsi leaves and yellow flowers."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:engagement": {
+  "detail": "The setup includes a Kalash with coconut and mango leaves, Ganesh and Gauri idols, and a ring plate or thali for the Mudra Pujan.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Kalash, coconut, and mango leaves"
+   },
+   {
+    "source": "99pandit",
+    "text": "Ganesh and Gauri idols or images"
+   },
+   {
+    "source": "99pandit",
+    "text": "Ring plate or thali for Mudra Pujan"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:engagement:bathe-adorn": {
+  "detail": "The groom receives a sacred mark (Tilak) and the bride is welcomed with a Shubh Chunni.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The groom is praised with a sacred mark (Tilak), and the bride is traditionally welcomed with a Shubh Chunni, indicating her acceptance into the new household."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:shuddhi": {
+  "detail": "After cleaning the altar and placing the Ganesha idol, offer Durva grass, Hibiscus flowers, and Modaks, and light a diya and incense; the Hibiscus blossoms are preferably red.",
+  "quotes": [
+   {
+    "source": "smartpuja.com",
+    "text": "Clean the altar. Place a Ganesha idol. Offer Durva grass, Hibiscus flowers, and Modaks. Light a Diya and Incense."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Preferably, Hibiscus blossoms are red."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:ganesha-smarana": {
+  "detail": "Place the idol of Lord Ganesha on a clean, decorated platform facing the appropriate direction.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The idol of Lord Ganesha is placed on a clean and decorated platform facing the appropriate direction."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:invoke-seat": {
+  "detail": "After Lord Ganesha is invoked and installed, take five flowers in Anjali (joined palms) and leave them in front of the murti to offer Him a seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Shri Ganesha while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:bathe-adorn": {
+  "detail": "The Panchamrita bath uses a mixture of milk, curd, honey, Ghee and sugar, followed by baths with milk, curd, ghee, honey, sugar, scented oil, and pure water or Gangajal.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After Snanam, now give a bath with Panchamrita (the mixture of milk, curd, honey, Ghee and sugar) to Shri Ganesha while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:main-offerings": {
+  "detail": "Offer Durva with three or five leaflets to Lord Ganesha; the food offerings include Modak, laddoo, coconut, and fruits.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Now offer Durva with three or five leaflets to Lord Ganesha while chanting following Mantra."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Ganesh Aarti is performed, followed by the offering of Modak, laddoo, coconut, fruits, and other prasad."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:visarjana": {
+  "detail": "On Visarjana day the idol of Lord Ganesha is immersed in a water body, usually in lakes or ponds, after a large procession.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "On Ganesha Visarjana day the idol of Lord Ganesha is immersed in water body, usually in lakes or ponds after a large procession."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:ganesh": {
+  "detail": "Clean the puja area and set the Ganesha idol on a platform or wooden chowki covered with a red cloth.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Clean the puja area and decorate it with the red cloth or altar cloth."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Keep the lord idol on a wooden chowki covered with a red cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:kalasha-sthapana": {
+  "detail": "Place the water-filled kalash near the altar and decorate it with mango leaves and a coconut tied with a red cloth.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Place the kalash filled with water near the puja altar."
+   },
+   {
+    "source": "pujahome.com",
+    "text": "Decorate the kalash with mango leaves and a coconut tied with a red cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:bathe-adorn": {
+  "detail": "Panchamrit is a mix of honey, curd, ghee, sugar, and milk; offer durva grass in a group of three or twenty-one blades with red flowers, along with sandalwood paste and kumkum tilak.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Sprinkle Panchamrit (a mix of honey, curd, ghee, sugar, and milk) on the idol as a symbol of ritual bath."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Present Durva Grass (group of three or twenty-one blades) and red flowers."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Apply a Sandalwood paste (Chandan) and Kumkum tilak to the lord."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:main-offerings": {
+  "detail": "Offer sweets such as modaks or laddoos with fresh seasonal fruits and betel leaves, and tambula of paan with betel nuts.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Present sweets, especially Modaks or Laddoos, including fresh seasonal fruits and betel leaves."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:pradakshina": {
+  "detail": "Pradakshina is performed by circumambulating Lord Ganesha from left to right, with flowers.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Now offer symbolic Pradakshina (circumambulate from left to right of Shri Ganesha) with flowers while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:garud-puran": {
+  "detail": "A small wooden pedestal is prepared to hold the scripture, and a lamp, incense sticks, and a clean seating space are arranged.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The path starts with preparing a small wooden pedestal where the sacred scripture is kept."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "You are needed to arrange a lamp, incense sticks, and a clean seating space."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:garud-puran:main-offerings": {
+  "detail": "A lamp is lit before the scripture to show the divine presence of Lord Vishnu.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A lamp is lit to show the divine existence of lord vishnu."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:garud-puran:katha": {
+  "detail": "The chapters are chanted daily, often in the afternoon, over the traditional 13 days of mourning, typically beginning on the 4th day and completing on the 12th or 13th day.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A certified pandit chants the chapters daily, often in the afternoon."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Traditionally, this is chanted over the 13-days of mourning following a death."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "The chanting typically begins on the 4th day after the passing and completes on the 12th or 13th day."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:gauri-ganesh": {
+  "detail": "Place the idol of Lord Ganesha on a clean, decorated platform facing the appropriate direction, and decorate the puja area with a red cloth.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The idol of Lord Ganesha is placed on a clean and decorated platform facing the appropriate direction."
+   },
+   {
+    "source": "pujahome",
+    "text": "Clean the puja area and decorate it with the red cloth or altar cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:kalasha-sthapana": {
+  "detail": "Place the kalash filled with water near the puja altar, and decorate it with mango leaves and a coconut tied with a red cloth.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "Place the kalash filled with water near the puja altar."
+   },
+   {
+    "source": "pujahome",
+    "text": "Decorate the kalash with mango leaves and a coconut tied with a red cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:gauri-ganesh:invoke-seat": {
+  "detail": "Take five flowers in Anjali and leave them before the murti to offer the seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Thus, I offer five flowers for the seat of Lord Shri Ganesha."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:gayatri-mantra": {
+  "detail": "Arrange the puja setup facing East, place the idol or image of Goddess Gayatri and Lord Ganesha on the wooden chowki, and sit facing the east direction in a quiet area.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Arrange the puja setup facing East and place the idol or image of Goddess Gayatri and Lord Ganesha on the wooden chowki."
+   },
+   {
+    "source": "99pandit",
+    "text": "Sit comfortably towards the east direction and prefer a quiet area."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:sankalpa": {
+  "detail": "State the count for the jaap, commonly 108 recitations, or an Anushthan of 11,000, 21,000, or 1.25 lakh chants for a deeper observance.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Generally, the mantra is recited 108 times using a jaap mala. For families looking for depper spiritual experience, an Anushthan of 11,000, 21,000, or 1.25 lakhs chant is suggested."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:gayatri-mantra:main-offerings": {
+  "detail": "Use a Tulsi or Rudraksha mala of 108 beads or more, hold it in your right hand, and move the beads with your thumb and middle finger.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Use a Tulsi or Rudraksha mala (108 beads or more) for chanting."
+   },
+   {
+    "source": "99pandit",
+    "text": "Hold a mala in your right hand and use your thumb and middle finger to move the beads while chanting a mantra with correct pronunciation."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:havan": {
+  "detail": "During the fire ceremony, offer ghee and havan samagri as ahuti into the havan kund.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "With the offerings of various items into the havan kund, Gayatri homa is performed by the native and family members."
+   },
+   {
+    "source": "99pandit",
+    "text": "People use havan samagri and ghee to offer ahuti in Gayatri homa."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:godh-bharai-ceremony:shuddhi": {
+  "detail": "The purification uses five sacred substances (panchamrut): milk, honey, ghee, curd, and sugar.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "It is a ceremony of the purification of the mother using five sacred substances-milk, honey, ghee, curd and sugar to ensure positive cosmic energy favouring the baby."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:govardhan:kalasha-sthapana": {
+  "detail": "The image of Mount Govardhan is fabricated from cow dung and adorned with flowers, lamps, and colours.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The fabricated image of Mount Govardhan is made by the use of cow dung and adorned with flowers, lamps, and colours."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:govardhan:bathe-adorn": {
+  "detail": "The Shila is given a ritual bath using milk, curd, and honey while a Vedic mantra is recited.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A religious bath is given to the Shila using such things as milk, curd, and honey by reciting a Vedic mantra to draw the gods."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:govardhan:main-offerings": {
+  "detail": "The cows are washed and decorated with garlands, and special offerings and prayers are made in their honour.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Cows are washed and decorated with garlands."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:govardhan:aarti": {
+  "detail": "Flowers, an incense stick, the Annakut, and a lamp are presented to the Govardhan image, with the Annakut offering often comprising over 56 dishes.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Flowers, incense stick, Annakut, and lamp are presented to the image of Mount Govardhan."
+   },
+   {
+    "source": "99pandit",
+    "text": "A wide variety of dishes, often over 56, is offered to the Lord as a gesture of gratitude."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:sankalpa": {
+  "detail": "Clean the right palm with water taken through a five-vessel (pancha-patra), then hold fresh water, Akshata, and flowers in it for the Sankalpa.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "After that one should take fresh water, Akshata, flowers etc. into cleaned right hand palm and read following Sankalpa Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:invoke-seat": {
+  "detail": "To offer the seat, take five flowers in Anjali and leave them in front of the Murti.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Lord Hanuman"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:bathe-adorn": {
+  "detail": "Bathe the deity with Panchamrita, the mixture of milk, curd, honey, ghee, and sugar.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "now give a bath with Panchamrita (the mixture of milk, curd, honey, Ghee and sugar) to Lord Hanuman"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:main-offerings": {
+  "detail": "Offerings include Akshata (unbroken rice) and Tambula (paan with betel nuts).",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "offer Akshata (unbroken rice) to Lord Hanuman while chanting following Mantra."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "Now offer Tambula (Paan with betel nuts) to Lord Hanuman while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:pradakshina": {
+  "detail": "Perform the symbolic Pradakshina by circumambulating from left to right of the deity, with flowers in hand.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Now offer symbolic Pradakshina (circumambulate from left to right of Lord Hanuman) with flowers while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:katha": {
+  "detail": "A single recitation is beneficial; some prefer to chant it 7, 11, or 100 times for specific purposes.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Reading a single path is beneficial; some prefer to chant it 7, 11, or 100 times to embody specific purposes and gain mental clarity."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-janmotsav:sankalpa": {
+  "detail": "Cleanse your right palm with water taken through the pancha-patra (five-vessel), then hold fresh water, Akshata, and flowers in it. After the mantra, drop the water on the ground.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After that one should take fresh water, Akshata, flowers etc. into cleaned right hand palm and read following Sankalpa Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:invoke-seat": {
+  "detail": "To offer the seat, take five flowers in your anjali (both palms joined) and leave them in front of the murti.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After meditation of Lord Hanuman, take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Lord Hanuman while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:bathe-adorn": {
+  "detail": "Bathe the murti first with Panchamrita (a mixture of milk, curd, honey, ghee, and sugar), then with pure water (Gangajal).",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After Achamana, now give a bath with Panchamrita (the mixture of milk, curd, honey, Ghee and sugar) to Lord Hanuman while chanting following Mantra."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "After Panchamrita Snanam, now give a bath with pure water (Gangajal) to Lord Hanuman while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:main-offerings": {
+  "detail": "Among the offerings, present Tambula (paan with betel nuts) to Lord Hanuman.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Now offer Tambula (Paan with betel nuts) to Lord Hanuman while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:pradakshina": {
+  "detail": "Perform the symbolic pradakshina by circumambulating Lord Hanuman from left to right with flowers.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Now offer symbolic Pradakshina (circumambulate from left to right of Lord Hanuman) with flowers while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:holika": {
+  "detail": "The Holika spot is rinsed with cow dung and Ganges water, with a wooden pole set in the center surrounded by cow-dung beads. Cow-dung idols of Holika and Prahlada are placed on top of the heap.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "The place where Holika is kept is rinsed with cow dung and the holy water of Ganges."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "A wooden pole is kept in the center and surrounded with beads or garlands of toys made of cow dung which are popularly known as Gulari, Bharbholiye or Badkula."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "Idols of Holika and Prahlada usually made of cow dung are placed on the top of the heap."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:holika:shuddhi": {
+  "detail": "Sit facing east or north with the ingredients on a plate and a small water pot, then sprinkle water three times.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "While on the Puja spot, sit down such that either facing the East or the North direction."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "After that sprinkle some water on the Puja Thali and yourself while chanting following Mantra thrice."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:holika:ganesha-smarana": {
+  "detail": "Take a flower and rice in the right hand, and apply roli and rice on the flower before offering it with fragrance.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Now remember Lord Ganesha after taking flower and rice in the right hand."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "While reciting above Mantra, apply Roli and rice on a flower and offer it along with fragrance to Lord Ganesha."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:holika:pradakshina": {
+  "detail": "Tie three, five, or seven rounds of raw yarn around the Holika while circumambulating it, then empty the water pot before the pile. Parikrama is performed clockwise, three or seven times.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Three, five or seven rounds of raw yarn are tied around the Holika while circumambulating it."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "After that empty the water pot in front of Holika pile."
+   },
+   {
+    "source": "smartpuja.com",
+    "text": "Perform Parikrama (3 or 7 times) clockwise."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:kaal-sarp-dosh": {
+  "detail": "Before the puja, participants and performers should take a bath, and on the day of the ritual the individual should wear new clothing.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Before the Kaal Sarp Dosh Pooja, participants and performers should take a bath."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "On this day, the native must don new clothing."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:navagraha-invocation": {
+  "detail": "Place one gold snake, one silver Rahu, one silver Ketu, and one idol of Lord Ganesha together with Matrika Pujan, worship them, and then offer devotion to the Navagrahas.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Place one gold snake, one silver Rahu, one silver Ketu, and one idol of Lord Ganesha alongside Matrika Pujan and begin to worship them."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Then offer the Navagrahas devotion."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:kaal-sarp-dosh:bathe-adorn": {
+  "detail": "The silver idols of Rahu and Ketu, represented as Nagas, receive abhishekam with milk and honey.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Silver idols of Rahu and Ketu (represented as Nagas) are offered with abhishekam in milk and honey."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:havan": {
+  "detail": "The Havan is performed after worshipping the Navagrahas and adoring Lord Shiva on the Kalash, with ghee offered into the fire.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The Navagrahas immediately began to perform Havan after their worship and adoration of Lord Shiva on the Kalash (mixed with Ghee and Kala)."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:visarjana": {
+  "detail": "The energised idols are immersed in a holy river; at Trimbakeshwar the Visarjan is done in the Godavari River.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The ritual concludes by immersing the energised idols in a holy river, symbolising the flowing away of all life's obstructions."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "The ritual here includes Nag Abhishekam and Visarjan in the Godavari River."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:kali": {
+  "detail": "The pen and inkpot (Lekhani-Dawat) are placed at the worship spot, and a Swastika is drawn on them with the ring-finger of the right hand using Rochana, red sandal paste, or Roli paste.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "A Swastika symbol is drawn on them with Anamika i.e. the ring-finger of right hand."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "Swastika should be drawn with Rochana or red Sandal paste or Roli paste."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:kali:invoke-seat": {
+  "detail": "The invocation is done with the hands held in Avahan Mudra.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Avahan Mudra is formed by joining both palms and folding both thumbs inwards"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:kali:bathe-adorn": {
+  "detail": "The Goddess is worshipped with Chandan, Akshata, Pushpa, Dhoop, Deep, and Naivedhya.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After this perform Bhagwati Kali Puja with Chandan, Akshata, Pushpa, Dhoop, Deep and Naivedhya while chanting following Mantras."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:kali:main-offerings": {
+  "detail": "Five flowers are taken in Anjali (joined palms) and left in front of the Lekhani-Dawat to offer the seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of Lekhani-Dawat to offer the seat to Bhagwati Kali"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:kali:mantra-pushpanjali": {
+  "detail": "Gandha, Akshata, and flowers are taken in the left hand and left over or near the Lekhani-Dawat with the right hand.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "take Gandha, Akshata and Pushpa in left hand and leave them over or near Lekhani-Dawat with right hand"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:muhurat": {
+  "detail": "Sources describe this ritual as performed for infants between the ages of 3 months and 1 year.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A sacred ritual performed for infants between the ages of 3 months and 1 year using a gold or silver needle and specialized mantras by a trained priest."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:aarti": {
+  "detail": "Pierce the right ear first for male children and the left ear first for female children, using a gold or silver needle.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "To pierce the right ear of male children first and the left ear of female children, a gold or silver needle is used as per traditional Vedic preference."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:karwa-chauth:ganesha-smarana": {
+  "detail": "The puja is performed during Sandhya time, which begins after sunset. Goddess Parvati is worshipped first, followed by Lord Shiva, Lord Kartikeya, and Lord Ganesha.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "According to Vratraj, the best time to perform Karwa Chauth Puja is during Sandhya time which starts after sunset."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "Goddess Parvati being Akhand Saubhagyavati is worshipped first during the Puja followed by Lord Shiva, Lord Kartikeya and Lord Ganesha."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:invoke-seat": {
+  "detail": "Take five flowers in anjali (both palms joined) and leave them in front of the Murti to offer Lord Krishna his seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Shri Krishna"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:main-offerings": {
+  "detail": "Offer fresh butter, fruits, and Chhappan Bhog placed in front of Lord Krishna.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Offer fresh butter, fruits, and Chhappan Bhog in front of him."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:krishna-janmashtami:aarti": {
+  "detail": "Prepare a bath of honey, milk, and curd for the lord and place him in a small swing, then complete the midnight aarti with joyful conch blowing.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Embrace it with a small swing and prepare a bath of honey, milk, and curd for the lord."
+   },
+   {
+    "source": "99pandit",
+    "text": "Complete with the midnight Aarti and joyful conch blowing."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:kuber-upasana": {
+  "detail": "If a Kuber murti is unavailable, a chest (tijori) or jewellery box can represent Shri Kuber; before worship, mark it with a Swastik in sindur and tie moli (kalava) to it.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Before you start worshipping the chest, you should draw the sign of Swastik with Sindur and tie Moli (Kalaya) to it."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:kuber-upasana:main-offerings": {
+  "detail": "Take five flowers in the Anjali (joined palms) and leave them in front of the chest to offer Shri Kuber his seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the chest to offer the seat to Shri Kuber"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:lakshmi-ganesh": {
+  "detail": "Ghee-filled diyas are placed facing the northeast or north; light the diya in the puja room first, then at the Tulsi Vrindavan, and later at the water containers.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Diyas or earthen lamps filled with Ghee are to be placed facing the northeast or north direction."
+   },
+   {
+    "source": "mypoojabox",
+    "text": "First, light the Diya in the Puja room, then at the Tulsi Vrundavan, and later at the water containers."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:shuddhi": {
+  "detail": "Gangajal is sprinkled to purify the house, and the broom is honoured by offering Haldi-Kumkum.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Also, sprinkle Gangajaal to purify the house."
+   },
+   {
+    "source": "mypoojabox",
+    "text": "Regarded as a feminine and sacred utility in the Hindu culture, the ‘broom’ is honored by offering Haldi-Kumkum."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:kalasha-sthapana": {
+  "detail": "A heap of rice grains is spread in the centre of the chowki as an asana, and the silver or brass kalash is filled with water, supari, coins, akshat rice, a marigold flower, and haldi-kumkum, then topped with mango leaves and a coconut.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Just before placing a Kalash, spread a heap of rice grains in the center of the chowki, which acts as an Asana."
+   },
+   {
+    "source": "mypoojabox",
+    "text": "Fill the silver or brass Kalash with water, supari, coins, Akshat rice, marigold flower, a pinch of Haldi-Kumkum, and cover the mouth of the same with Mango leaves and a coconut."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:invoke-seat": {
+  "detail": "A soft red cloth is spread on the chowki, and the Maa Lakshmi idol is placed with the Lord Ganesha idol on her left side.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Red is the color of purity, love, and Shakti, which is why you have to place a soft red cloth on the chowki."
+   },
+   {
+    "source": "mypoojabox",
+    "text": "Then carefully place the idol of Maa Lakshmi along with the Lord Ganesha idol on her left side as she is his mother."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:offer-water": {
+  "detail": "Padya is a drop or two of water offered to the deity, followed by Arghya (water offering) and Achamana (water sipped from the palm).",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Starting with Padya, where you have to offer a drop or two of water to the Lord."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:bathe-adorn": {
+  "detail": "The metal idols are bathed with water (Snana) and with Panchamrut of ghee, milk, honey, sugar, and curd, then wiped with a clean cloth.",
+  "quotes": [
+   {
+    "source": "mypoojabox",
+    "text": "Once offering Panchamrut (Ghee, Milk, Honey, Sugar, Curd), the idols are then cleansed with water and wiped with a clean cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:main-offerings": {
+  "detail": "Five flowers are offered before the Murti as a symbolic seat for the goddess.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Thus, I offer five flowers for the seat of Bhagawati Shri Lakshmi."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:pradakshina": {
+  "detail": "The symbolic pradakshina is a circumambulation from left to right of Shri Lakshmi, offered with flowers.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Now offer symbolic Pradakshina (circumambulate from left to right of Shri Lakshmi) with flowers while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:kalasha-sthapana": {
+  "detail": "Place a copper pot filled with water and sacred herbs to represent the presence of the deities.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Place a copper pot filled with water and sacred herbs to show the divine presence of deities in the ritual."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:katha": {
+  "detail": "The final offering includes 16 Ahutis with Kheer, along with recitation of the Sri Suktam.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "offering 16-Ahutis with Kheer, along with reciting the Sri suktam path, gives more benefits."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:havan": {
+  "detail": "The fire ritual uses dry wood and ghee, with offerings of medicinal herbs, lotus seeds, and specified woods placed into the fire.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The sacred fire ritual is done using dry wood and ghee. Offerings of medicinal herbs, lotus seeds, and personalized woods are offered into the fire."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:maha-mrityunjaya:bathe-adorn": {
+  "detail": "Give the Shiva Lingam a holy bath by continuously pouring water, milk, and curd over it. Afterward, offer flowers, sweets, chandan, Bilva leaves, and incense sticks.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A holy bath is performed by continuously pouring water, milk, curd, or more over the Shiva Lingam while chanting certain mantras."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "After which, offerings of flowers, sweets, chandan, Bilva leaves, and incense sticks are made."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:maha-mrityunjaya:main-offerings": {
+  "detail": "Chant the Maha Mrityunjaya Mantra rhythmically using a Rudraksha mala, usually 108 times, 11,000 times, or the complete 1.25 lakh (Sava Lakh) times.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "It is usually done 108 times, 11,000 times, or the complete 1.25 Lakh (Sava Lakh ) times using Rudraksha mala."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:maha-shivaratri": {
+  "detail": "If a temple cannot be visited, a makeshift Shiva Linga can be made at home, even by shaping mud into a Linga form and applying ghee.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "One can even shape the mud in Linga form and apply Ghee to perform Abhishek Puja at home."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:maha-shivaratri:bathe-adorn": {
+  "detail": "Black sesame seeds are added to the bath water, and Abhishek commonly uses milk, rose water, sandalwood paste, yogurt, honey, ghee, sugar and water, after which the Linga is adorned with a garland of Bilva leaves. Chandan or kumkum is applied, with Madar (Aak) flowers and vibhuti (sacred ash from dried cow dung).",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "It is suggested to add black sesame seeds into the water."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "The milk, rose water, sandalwood paste, yogurt, honey, Ghee, sugar and the water are commonly used for Abhishek."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "After the Abhishek ritual, Shiva Linga is adorned with the garland made of Bilva leaves."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:mahalakshmi:shuddhi": {
+  "detail": "After purifying the space, keep a red cloth on a wooden platform and install the idol of Goddess Lakshmi on it.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Purify the puja place and yourself too. Keep a red cloth on a wooden platform and install the idol of Goddess Lakshmi."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:mahalakshmi:kalasha-sthapana": {
+  "detail": "The Kalash is a copper or brass pot filled with mango leaves, water, and a coconut.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Place a copper or brass pot filled with mango leaves, water, and coconut, showing the existence of the divine universe."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:mahalakshmi:bathe-adorn": {
+  "detail": "Bathe the deity symbolically with Panchamrit or water, then present fresh lotus flowers, sweets, and fruits.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Perform a bath of the deity symbolically with Panchamrit or water. Present fresh lotus flowers, sweets, and fruits while reciting a mantra to please Goddess Lakshmi."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:mahalakshmi:main-offerings": {
+  "detail": "Light a ghee diya and incense sticks to welcome the deity into your home.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Light a ghee diya and incense sticks to represent the victory of light over darkness and to welcome the deity into your home."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:mangal-bhat": {
+  "detail": "The pandit brings the core materials, including boiled rice, red flowers, sandalwood, incense, and sacred red cloth.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The pandit brings high-quality boiled rice, red flowers, sandalwood, incense, and sacred red cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:mangal-bhat:bathe-adorn": {
+  "detail": "A thick layer of boiled rice is laid over the deity, after which it is bathed with curd or milk.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "carefully laying a thick layer of boiled rice over the lord"
+   },
+   {
+    "source": "99pandit.com",
+    "text": "the deity is bathed with curd or milk"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:mangal-dosh-nivaran:bathe-adorn": {
+  "detail": "Bathe the Shivalinga or Mangal yantra with red sandalwood paste, water, and honey; sources note this step is sometimes included.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A vital step sometimes included in the Abhishekam, where the Shivalinga or Mangal yantra is bathed with red sandalwood paste, water, and honey."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:mangal-dosh-nivaran:havan": {
+  "detail": "Perform the Havan with red flowers and particular herbs, then donate Masoor dal and red cloth for the needy.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The puja then completes with a Havan using red flowers and particular herbs, followed by Masoor dal donation and red cloth for the needy, indicating the successful balancing of the planetary fire."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:marriage-anniversary": {
+  "detail": "Prepare a clean floor area, a small wooden platform, and two lamps. Keep fresh flowers, fruits, and sweets ready.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "We advise preparing a basic setup: a clean floor area, a small wooden platform, and two lamps."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "the pandit will provide you with a simple checklist of fresh items, including flowers, fruits, and sweets, to keep ready."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:marriage-anniversary:shuddhi": {
+  "detail": "Place a wooden chowki on the puja altar and cover it with fresh red or yellow cloth.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Purify the puja space and place a wooden chowki on the puja altar with fresh red or yellow cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:marriage-anniversary:sankalpa": {
+  "detail": "The couple holds water and red flowers while making the vow before the deity.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A couple sits together, holding water and red flowers, making a formal vow in front of the deity to stay committed to each other and their spiritual way."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:marriage-anniversary:invoke-seat": {
+  "detail": "Perform the abhishekam of the selected deities with milk, honey, and curd.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Perform this with abhishekam of the select deities through milk, honey, and curd."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:mundan-sanskar:muhurat": {
+  "detail": "Hold the ritual at a temple, on the bank of a holy river, or at home in a sanctified place, and seat the child facing East.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The ritual is best undertaken at a temple, at the bank of a holy river, or at home in a sanctified place. During the ritual, the child must face East."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:mundan-sanskar:visarjana": {
+  "detail": "Wash the head with Gangajal and apply a cooling paste of sandalwood and turmeric, then gather the shaved hair, mix it with flour or cow dung, and place it in a running river.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The child is made to wash his head in Gangajal and apply a cooling paste of Sandalwood and Turmeric to heal the head and soothe the senses."
+   },
+   {
+    "source": "99pandit",
+    "text": "The shaved hair is then gathered, combined with flour or cow dung, and then reverently placed in a running river (Visarjan)."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:shuddhi": {
+  "detail": "The pandit sprinkles holy water (Gangajal) over the house, the baby, and the mother to purify them.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "While chanting a certain mantra, the pandit sprinkles holy water (Gangajal) to purify the house, the baby, and the mother."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:namkaran:main-offerings": {
+  "detail": "The chosen name is whispered into the baby's right ear, generally using a betel leaf or a golden ring.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A father or paternal aunt (Bua) whispers the chosen name into the right ear of the baby, generally using a betel leaf or a golden ring."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:aarti": {
+  "detail": "The ceremony is generally held on the 11th or 12th day, when the pandit fixes the auspicious Muhurat and the name's starting letter from the baby's birth star.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Generally done on the 11th or 12 th day, a pandit determines the most auspicious Muhurat and starting letter of the name based on the baby’s birth star."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:havan": {
+  "detail": "A fire is lit in the havan kund, after which an elder touches the baby with grains or gold for abundance.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A fire is lit up in the havan kund to purify the atmosphere, which is followed by the elder touching the baby with grains or gold for abundance."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:narayan-bali": {
+  "detail": "One source describes the altar setup as an idol of Lord Satyanarayan with a yellow cloth, mango leaves, and banana stems.",
+  "quotes": [
+   {
+    "source": "smartpuja",
+    "text": "Idol of Lord Satyanarayan, Yellow Cloth, Mango Leaves, Banana Stems."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:kalasha-sthapana": {
+  "detail": "Place a copper kalash filled with water near the puja area.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Place a copper kalash filled with water near the puja area."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:invoke-seat": {
+  "detail": "To offer the seat, take five flowers in Anjali and leave them in front of the Murti.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Lord Satyanarayana"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:bathe-adorn": {
+  "detail": "Bathe the deity with Panchamrita, the mixture of milk, curd, honey, ghee, and sugar, then offer sandalwood paste or powder.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "give a bath with Panchamrita (the mixture of milk, curd, honey, Ghee and sugar) to Shri Satyanarayana"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "offer sandalwood paste or powder to Shri Satyanarayana while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:main-offerings": {
+  "detail": "Offer an earthen lamp of pure ghee, and a Naivedya that includes different types of fruits and sweets, followed by betel leaf.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "offer enlightened earthen lamp of pure Ghee to Lord Satyanarayana while chanting following Mantra."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "It should include different type of fruits and sweets and offer this to Lord Satyanarayana"
+   },
+   {
+    "source": "drikpanchang",
+    "text": "offer betel leaf (Tambula) to Lord Satyanarayana while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:pradakshina": {
+  "detail": "Perform the symbolic Pradakshina by circumambulating from left to right of the deity, with flowers in hand.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "now offer symbolic Pradakshina (circumambulate from left to right of Shri Satyanarayan) with flowers in hand while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:kalasha-sthapana": {
+  "detail": "Set up a sacred water pot (Kalash) for this step, as the ritual begins alongside the invocation of Lord Ganesha.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "All ritual starts with invoking Lord Ganesha to dismiss obstacles, observed by setting up a sacred water pot (Kalash) to seek divine energies."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:navagraha-invocation": {
+  "detail": "Establish the nine planets using particular symbols or colored grains (Navadhanya), welcoming each with its unique Beej Mantra.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The Pandit establishes the nine planets using particular symbols or colored grains (Navadhanya). All deity is welcomed into the sacred space with unique Beej Mantras."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:navagraha-shanti:invoke-seat": {
+  "detail": "Place a vessel or earthen cup in front of the Kalasha, then invoke all nine planets collectively.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "For the Sankshipt Navagraha Puja of the nine planets, place a vessel or earthen cup in front of the Kalasha."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:navagraha-shanti:offer-water": {
+  "detail": "Worship the nine planets in sequence, starting from Surya, adding Om at the beginning of each mantra as you offer Padya and the other water rites.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "With the following Mantras, by adding Om at the beginning of each Mantra, worship the nine planets starting from the Surya in sequence with Padya, etc. rituals -"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:kalasha-sthapana": {
+  "detail": "Nine sacred pots are placed on the puja altar, one for each planetary lord.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "During this step, nine sacred pots are placed on the puja altar."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:navagraha-invocation": {
+  "detail": "The Navagraha mandala is a geometric arrangement of nine grains and colored cloths, one for every planet.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The homam starts with the creation of a Navagraha mandala, a geometric arrangement of nine multiple grains and colored clothes showing every planet."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:havan": {
+  "detail": "Specific woods (samidha) are offered for each planet, for example Ark wood for the Sun and Palash for the Moon.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Particular woods (Samidha) are presented into the fire for every planet, for example, Ark wood for the Sun and Palash for the Moon."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:navratri": {
+  "detail": "Clean the home and set aside a quiet corner for the altar, keeping the Kalash, Durga idol, barley seeds, and a red cloth ready the night before.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Clean your home and set aside a quiet corner for the altar."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Keep the Kalash, Durga idol, barley seeds, and a red cloth ready the night before."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navratri:kalasha-sthapana": {
+  "detail": "Sow the grains in the clay pot in layers of soil, spreading the second layer's grains near the pot's periphery. Fill the Kalash with holy water, place 5 Ashoka or mango leaves at its edge, wrap the coconut in red cloth, set it on top of the Kalash, and place the Kalash in the center of the grain pot.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Spread the first layer of the soil into the pot and then spread the grain seeds. Now add the second layer of the soil and grains."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "In second layer grains should be spread near the periphery of the pot. Now spread the third and final layer of the soil into the pot."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "Keep 5 leaves of Ashoka at the edge of the Kalash before covering it with a lid."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "Now take the un-peeled coconut and wrap it inside the red cloth. Fasten the coconut and red cloth with the sacred thread."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "Now keep the coconut on top of the Kalash prepared in step 2. At last put the Kalash in the center on the grain pot prepared in step 1."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Mango leaves (7) and a coconut"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:navratri:invoke-seat": {
+  "detail": "Invoke Goddess Durga while showing the Avahan Mudra, formed by joining both palms and folding both thumbs inward, then take five flowers in Anjali (joined palms) and leave them before the murti as Her seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "one should chant following Mantra in front of Devi Durga Murti, by showing Avahan Mudra (Avahana Mudra is formed by joining both palms and folding both thumbs inwards)."
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Goddess Durga while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:navratri:bathe-adorn": {
+  "detail": "After the bath, offer Moli as new clothes to Goddess Durga and then apply Chandan (sandalwood paste).",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "After Abhushana offering, offer Chandan to Goddess Durga while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:navratri:main-offerings": {
+  "detail": "Prasad offerings to please the Goddess include Desi Ghee, sugar, Kheer, Malpua, bananas, honey, jaggery, coconut, and sesame.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Desi Ghee, sugar, Kheer, Malpua, Bananas, Honey, jaggery, coconut and sesame are some of Prasad offerings to please Mata Rani."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:navratri:visarjana": {
+  "detail": "Perform Kanya Pujan on Ashtami or Navami, then close with the final aarti and Kalash visarjan.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Perform Kanya Pujan on Ashtami or Navami. Close with the final Aarti and Kalash visarjan."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:nishkraman-sanskar": {
+  "detail": "A square area in the courtyard is adorned with Rangoli and sanctified with mantras for the child's first outing.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A square area in the courtyard is usually adorned with Rangoli and sanctified with Vedic mantras."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:muhurat": {
+  "detail": "The ceremony is typically conducted in the 4th month after the child's birth.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "It's typically conducted in the 4th month after birth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:shuddhi": {
+  "detail": "A tilak is applied to the child's forehead after the bath and dressing.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A tilak is applied to the forehead."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:aarti": {
+  "detail": "The child's feet are gently touched to the ground, and elders sprinkle purified water (Ganga Jal) on the child.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The child's feet are briefly and gently touched to the ground"
+   },
+   {
+    "source": "99pandit.com",
+    "text": "the elders sprinkling purified water (Ganga Jal) on the child"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:office-opening": {
+  "detail": "Set up a small platform or table covered with a clean cloth, preferably red or white. Place the Kalash — filled with water, mango leaves, and a coconut on top — in the center, surrounding it with flowers, fruits, sweets, and materials.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "It should be covered with a clean cloth, preferably red or white, which is considered auspicious for rituals."
+   },
+   {
+    "source": "pujahome",
+    "text": "Kalash (sacred pot) filled with water, mango leaves, and a coconut on top."
+   },
+   {
+    "source": "pujahome",
+    "text": "Place the Kalash in the center, surrounding it with flowers, fruits, sweets, and the puja materials in a systematic manner."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:kalasha-sthapana": {
+  "detail": "Fill the Kalash with water, adorn it with mango leaves, and top it with a coconut.",
+  "quotes": [
+   {
+    "source": "pujahome",
+    "text": "The Kalash should be filled with water, adorned with mango leaves (representing nature), and topped with a coconut."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:pind-daan:main-offerings": {
+  "detail": "The libation is made of water blended with sesame seeds and flowers, poured through the fingers.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A cooling presentation of water blended with sesame seeds and flowers, flowed through the fingers to satisfy the spiritual thirst of the departed souls."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:kalasha-sthapana": {
+  "detail": "The ritual begins with Ganesh Gauri puja followed by the installation of the Kalash.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The ritual starts with Ganesh Gauri puja and the installation of the Kalash, showing the lunar nectar."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:purnima-vrat-udyapan:offer-water": {
+  "detail": "Water is offered to Chandra Dev (the Moon) as Chandra Arghya, timed with moonrise.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The practice of offering water to the Chandra dev to achieve mental peace."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:havan": {
+  "detail": "Offerings of white flowers, ghee, and rice are made into the sacred fire during the Chandra shanti homa.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A significant part of the ritual is Chandra shanti homa, where offerings of White flowers, Ghee, and rice are made to the sacred fire while reciting the Soma mantras."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:putrakameshti": {
+  "detail": "Samagri includes measured quantities such as 5 kg rice and 2 kg pure ghee, 1 kg of loose flowers with two garlands, two coconuts, and five varieties of seasonal fruits. Exact quantities vary slightly by pandit and regional tradition.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "5 kg rice and 2 kg pure ghee"
+   },
+   {
+    "source": "99pandit",
+    "text": "1 kg of loose flowers and two garlands"
+   },
+   {
+    "source": "99pandit",
+    "text": "Two coconuts and two towels"
+   },
+   {
+    "source": "99pandit",
+    "text": "Sandalwood and two banyan tree branches"
+   },
+   {
+    "source": "99pandit",
+    "text": "Five varieties of seasonal fruits (apple, pomegranate, grapes, orange, banana)"
+   },
+   {
+    "source": "99pandit",
+    "text": "(Note: Exact quantities vary slightly by pandit and regional tradition; final list is shared before booking confirmation.)"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:putrakameshti:kalasha-sthapana": {
+  "detail": "A sacred pot is consecrated to invoke Lord Vishnu's presence.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "This is followed by Kalash Sthapana, where a sacred pot is consecrated to invoke Lord Vishnu’s presence."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:putrakameshti:main-offerings": {
+  "detail": "At the centre of the ceremony (Agni Mukham), ghee and sacred wood are offered into the fire kund.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The centre of the ceremony is Agni Mukham , where ghee and sacred wood are offered into the fire kund."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:putrakameshti:pradakshina": {
+  "detail": "During Agni Pradakshina, the couple circles the fire to affirm their unity.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "followed by Agni Pradakshina , where the couple circles the fire to affirm their unity."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:rahu-ketu-shanti:main-offerings": {
+  "detail": "As offerings of charity, give items such as lead, black blankets, seven kinds of grains (Sapta-Dhanya), or blue flowers to the needy.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "To end the ritual, lead, black blankets, seven kinds of grains (Sapta -Dhanya), or blue flowers are given to the needy since Rahu and Ketu are appeased by means of selfless service."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:aarti": {
+  "detail": "The Rahu Beej mantra is chanted 18,000 times and the Ketu mantra 17,000 times; shorter ceremonies use symbolic, shorter forms of these mantras.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Rahu mantras are pronounced 18,000 times, Ketu mantras 17,000 times, but in ceremonies of shorter duration, there are symbolic, shorter forms of these mantras."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:havan": {
+  "detail": "Offer black sesame, mustard seed, and special herbs into the sacred fire.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Sacrifices of black sesame, mustard seed and special herbs are offered to the holy fire."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:shuddhi": {
+  "detail": "Abhishek of the Lord Rama idol (or the Ram Darbar) is done with water, milk, and honey.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Start by cleansing the puja altar, then abhishek the idol of Lord Rama (or the Ram Darbar) with water, milk, and honey."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:kalasha-sthapana": {
+  "detail": "Light a traditional ghee lamp (diya) and incense sticks on the decorated altar.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Light a traditional ghee lamp (Diya) and incense sticks to create a sacred atmosphere."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:invoke-seat": {
+  "detail": "The Aavahan Mudra is formed by joining both palms and folding both thumbs inwards; take five flowers in Anjali and leave them before the murti to offer a seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Aavahan Mudra is formed by joining both palms and folding both thumbs inwards"
+   },
+   {
+    "source": "drikpanchang.com",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front of the Murti to offer seat to Shri Rama"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:bathe-adorn": {
+  "detail": "New clothes are offered as Moli, and a Panchamrita bath uses a mixture of milk, curd, honey, ghee and sugar.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "now give a bath with Panchamrita (the mixture of milk, curd, honey, Ghee and sugar) to Shri Rama"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:main-offerings": {
+  "detail": "Sixteen items are offered, including yellow flowers, Tulsi leaves, sandalwood paste and fresh fruits; the naivedya typically includes Panakam (jaggery water), Kosambari, and sweets.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Present 16 items of puja, including yellow flowers, Tulsi leaves (highly dear to Lord Vishnu), sandalwood paste, and fresh fruits."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Present a special Naivedya, typically consisting of Panakam (jaggery water), Kosambari, and sweets."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:pradakshina": {
+  "detail": "Pradakshina is performed by circumambulating Lord Rama from left to right, with flowers.",
+  "quotes": [
+   {
+    "source": "drikpanchang.com",
+    "text": "Now offer symbolic Pradakshina (circumambulate from left to right of Shri Rama) with flowers while chanting following Mantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rin-mukti:havan": {
+  "detail": "During the fire ceremony, offerings of sacred herbs and ghee are made into the holy fire.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A small fire ceremony is conducted while devotees make offerings of sacred herbs and ghee into the holy fire."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:rudrabhishek": {
+  "detail": "Materials include a Panchamrit mix, Bel Patra with white flowers, and a copper or brass kalash for the Abhishek.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Panchamrit (mix of milk, curd, ghee, honey, and sugar)"
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Bel Patra (Bilva leaves) and white flowers"
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Copper or brass kalash for the Abhishek"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:shuddhi": {
+  "detail": "Clean clothes are worn, preferably white or yellow.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Take a bath and wear clean, preferably white or yellow clothes."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:achamana-self": {
+  "detail": "Water is sipped three times, and the body is purified by touching its various parts while chanting.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Sip water three times while reciting specific mantras and purify the body by touching various parts while chanting."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:kalasha-sthapana": {
+  "detail": "A kalash filled with water is decorated with mango leaves and a coconut on top.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Set up a kalash (pot) filled with water, decorated with mango leaves and a coconut on top, symbolizing the presence of divinity."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:rudrabhishek:invoke-seat": {
+  "detail": "The devotee sits facing the east to meditate upon Lord Shiva.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Sit facing the east and meditate upon Lord Shiva."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:rudrabhishek:bathe-adorn": {
+  "detail": "The Shiva Linga is bathed sequentially with milk, curd, honey, ghee, and sugar, then finally with Gangajal; sandalwood paste is afterwards applied to it.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Sequentially pour milk, curd, honey, ghee, and sugar while chanting specific mantras."
+   },
+   {
+    "source": "pujahome.com",
+    "text": "Finally, bathe the Shiva Linga with Gangajal."
+   },
+   {
+    "source": "pujahome.com",
+    "text": "Apply sandalwood paste on the Shiva Linga."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:rudrabhishek:main-offerings": {
+  "detail": "Bel Patra is offered in odd numbers with the smooth side facing up and the stem toward you; fruits, sweets, betel leaves, and nuts are placed in front of the Linga.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Bel Patra is typically offered in odd numbers (3, 5, 7, etc.) for auspiciousness."
+   },
+   {
+    "source": "pujahome.com",
+    "text": "Place the Bel Patra on the Shiva Lingam with the smooth side facing upward and the stem pointing towards you."
+   },
+   {
+    "source": "pujahome.com",
+    "text": "Place fruits, sweets, betel leaves, and nuts in front of the Shiva Linga."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:aarti": {
+  "detail": "The aarti is performed with a ghee lamp, waved in a circular motion in front of the Shiva Linga.",
+  "quotes": [
+   {
+    "source": "pujahome.com",
+    "text": "Perform aarti with a ghee lamp, waving it in a circular motion in front of the Shiva Linga."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:santan-gopal-mantra:invoke-seat": {
+  "detail": "Keep the idol of Laddu Gopal on a yellow cloth, facing the east direction. One source places it on a wooden pillar at the northeast corner of the home.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "To start the procedure, set up a clean, calm space and keep an idol of Laddu Gopal facing in the east direction."
+   },
+   {
+    "source": "99pandit",
+    "text": "you should place an image of Lord Krishna’s kid or Laddu Gopal by placing a yellow cloth on a wooden pillar at the northeast corner of your home."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:santan-gopal-mantra:main-offerings": {
+  "detail": "Chant on a tulsi mala, completing at least 108 chants, and offer Bal Bhog made of fresh butter, sugar candy, and milk.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "It’s traditionally advised to complete at least 108 chants, perfect at the same time every morning."
+   },
+   {
+    "source": "99pandit",
+    "text": "Offer ‘Bal Bhog’ made of fresh butter, sugar candy, and milk."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:saraswati": {
+  "detail": "Keep the account books (Bahi-Khate) at the place of worship and draw a swastika on them with Rochana or red sandal paste before beginning.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "To begin Saraswati Puja, Bahi-Khate i.e. account books or any other books are kept at the place of worship."
+   },
+   {
+    "source": "drikpanchang",
+    "text": "A Swastika symbol should be drawn on account books with Rochana or red Sandal paste."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:shuddhi": {
+  "detail": "Place pens, books, and musical instruments in front of the Goddess's feet.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Pens, books, and musical instruments are put in front of the Goddess’s feet."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:kalasha-sthapana": {
+  "detail": "Tie a moli around a copper or brass kalash and place mango leaves around its neck; fill it with water, add betel nuts, durva grass, and akshat, and cover it with a coconut wrapped in red cloth.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Tie a moli around a copper or brass kalash. Place mango leaves around its neck."
+   },
+   {
+    "source": "99pandit",
+    "text": "Fill it with water and add betel nuts, durva grass, and akshat inside. Cover with a coconut wrapped in red cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:invoke-seat": {
+  "detail": "Take five flowers in anjali (both palms joined) and leave them in front of or near the books to offer Mata Saraswati her seat.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "take five flowers in Anjali (by joining palm of both hands) and leave them in front or near Bahi-Khate or books to offer the seat to Bhagwati Saraswati"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:main-offerings": {
+  "detail": "Offer yellow flowers, such as a garland of marigolds or chrysanthemums, to Mata Saraswati.",
+  "quotes": [
+   {
+    "source": "drikpanchang",
+    "text": "Yellow flowers are offered to Maa Saraswati on this day."
+   },
+   {
+    "source": "99pandit",
+    "text": "Offer a garland of fresh yellow flowers like marigolds or chrysanthemums."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:shani:bathe-adorn": {
+  "detail": "Keep the idol or Shani yantra in a clean place; some sources specify holding the mustard oil in an iron bowl for the Chhaya Daan reflection.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Keep the lord idol or a Shani yantra in a clean place."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:shani:main-offerings": {
+  "detail": "Offer a lamp lit with mustard oil, along with black sesame seeds, whole black gram, and blue flowers.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Light a lamp using mustard oil. Present black sesame seeds, whole black gram, and blue flowers."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:shiv-puran": {
+  "detail": "After a sacred bath and wearing clean white or saffron-coloured clothes, set up a clean altar with an image of Lord Shiva and, if possible, a Shivlinga. Keep the puja items ready, including flowers, incense sticks, a diya, fruits, sandalwood paste, and a copy of the Shiv Puran.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Start with a sacred bath and clean, white or saffron-colored clothes."
+   },
+   {
+    "source": "99pandit",
+    "text": "Set up a clean altar with an image of Lord Shiva, along with a Shivlinga if possible."
+   },
+   {
+    "source": "99pandit",
+    "text": "Prepare puja items including flowers, incense sticks, diya, fruits, milk, honey, water, sandalwood paste, and a copy of the Shiv Puran."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:shiv-puran:bathe-adorn": {
+  "detail": "The Shivlinga is bathed (abhishekam) with water, milk, honey, curd, and ghee while Shiva mantras are recited.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Bathe the Shivlinga with water, milk, honey, curd, and ghee while reciting Shiva mantras."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:shiv-puran:main-offerings": {
+  "detail": "Bel leaves, flowers, and fruits are presented to Lord Shiva while incense sticks are lit.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Present bel leaves, flowers, and fruits while lighting incense sticks with devotion and focus."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:shuddhikaran": {
+  "detail": "A sacred blend of five elements from the cow (Panchagavya) is used to purify the physical place.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "A sacred blend of five elements from the cow is used to purify the physical place."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:shuddhikaran:kalasha-sthapana": {
+  "detail": "Spray the energized Kalash water (Teertha) throughout the complete area to fill it with positive energy.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The spray of energized Kalash water (Teertha) throughout the complete area to fill positive energy."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:shuddhikaran:havan": {
+  "detail": "Herbs and ghee are presented into a consecrated fire, and the resulting smoke acts as an environment cleanser.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Herbs and ghee are presented into a consecrated fire, emitting smoke that serves as a powerful environment cleanser."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:teharavi:shuddhi": {
+  "detail": "Purification may involve a havan and sprinkling of holy water (Ganga jal) to remove the sutak.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "This may involve a Havan (sacred fire ceremony) and sprinkling of holy water to eliminate the Sutak (period of impurity) with death."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "a Ghar Shuddhikaran homa and sprinkling of Ganga jal to cleanse the atmosphere"
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:teharavi:bathe-adorn": {
+  "detail": "Gifts for the deceased include clothes, umbrellas, lamps, or grain, known as Sajja Daan.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Families express their gratitude by giving the deceased important things like clothes, umbrellas, lamps, or even grain (Sajja Daan) to make his or her life in the afterlife more comfortable."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:tripindi-shradh:kalasha-sthapana": {
+  "detail": "A sacred pot is placed to invoke the three presiding deities: Lord Brahma, Lord Vishnu, and Lord Shiva.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A sacred pot is placed to invoke Lord Brahma, Lord Vishnu, and Lord Shiva, as they are presiding deities."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:tripindi-shradh:offer-water": {
+  "detail": "Water with black sesame is presented to quench the thirst of the forefathers while the pandit chants the mantra.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Water with black sesame is presented while the pandit chants a clear mantra to quench the thirst of the forefathers."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:tripindi-shradh:main-offerings": {
+  "detail": "The ritual concludes by offering food, clothes, or dakshina to Brahmins, believed to reach the ancestors directly.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The ritual concludes with offering food, clothes, or dakshina to Brahmins, which is believed to reach directly to ancestors."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:tripindi-shradh:havan": {
+  "detail": "A fire is lit in the havan khund, and items like ghee and holy herbs are offered while chanting a mantra.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A fire is lit up in the havan khund, and items like ghee and holy herbs are offered while chanting a mantra to seek peace for the departed soul."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:udaka-shanti": {
+  "detail": "Materials to arrange include a Kalasha, sacred water, mango leaves, a coconut, turmeric, kumkum, flowers, incense, an oil lamp, sandalwood paste, banana leaves, darbha grass, and panchamrit.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "You would be asked to arrange Kalasha, sacred water, mango leaves, a coconut, turmeric, kumkum, flowers, incense, an oil lamp, sandalwood paste, banana leaves, darbha grass, and panchamrit."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:ganesha-smarana": {
+  "detail": "Flowers, incense, and sweets are offered to Lord Ganesha.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Offer flowers, incense, and sweets to receive his blessings and assure the puja is complete without any disturbance."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:kalasha-sthapana": {
+  "detail": "A copper or clay pot is filled with sacred water, with mango leaves and a coconut kept on top.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Fill a copper or clay pot with sacred water. Keep mango leaves on top of it and coconut."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:aarti": {
+  "detail": "The cleansed water is sprinkled on all participants using a bundle of mango leaves or darbha grass.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "The pandit then sprinkles the cleansed water on all participants using a bundle of mango leaves or darbha grass."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:uma-maheshwari": {
+  "detail": "Clean the puja altar and keep an image of Shiva and Parvati together on a yellow cloth.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Keep an image of Shiv and Parvati together on a yellow cloth."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:uma-maheshwari:bathe-adorn": {
+  "detail": "Bathe the idols with water, milk, and honey, then adorn them with sandalwood paste, fresh bilva leaves, and vermilion.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Bathe the idols with water, milk, and honey gently"
+   },
+   {
+    "source": "99pandit",
+    "text": "Embellish them with sandalwood paste, fresh bilva leaves, and vermilion."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vastu-shanti:kalasha-sthapana": {
+  "detail": "A kalash filled with water anchors the ritual, with mango leaves and a coconut placed on top of it.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "A Kalash filled with water set up as the ritual’s key anchor. Mango leaves and coconut are placed on top of it."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:vastu-shanti:main-offerings": {
+  "detail": "For the Vastu Purusha worship, offer flowers and rice along with a small copper idol.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Pray to the spirit of the house. Use flowers, rice, and a small copper idol."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:vehicle": {
+  "detail": "Place a tiny idol or picture of Lord Ganesha by the vehicle and prepare the puja materials, including kumkum, turmeric, rice grains (akshat), flowers, coconut, incense sticks, camphor, a diya, and betel leaves.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Put a tiny idol or picture of Lord Ganesha by the car."
+   },
+   {
+    "source": "99pandit",
+    "text": "Prepare necessary puja material: kumkum (vermilion), turmeric, rice grains (akshat), flowers, coconut, incense sticks, camphor, a diya, and betel leaves."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:muhurat": {
+  "detail": "Saturdays and Tuesdays are avoided, while Wednesday and Thursday mornings are favourable; tithis such as Panchami, Dashami, and Ekadashi are considered highly favourable.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Saturdays and Tuesdays are not preferred, and Wednesday and Thursday mornings are favourable."
+   },
+   {
+    "source": "pujahome",
+    "text": "Some tithis, like Panchami , Dashami , and Ekadashi , are deemed highly favorable for starting new ventures or making big purchases."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:sankalpa": {
+  "detail": "A kumkum and turmeric tilak is applied to the vehicle's front or bonnet, and a coconut is smashed in front of it to represent removing obstacles.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The vehicle will have a kumkum and turmeric tilak on its front or bonnet."
+   },
+   {
+    "source": "99pandit",
+    "text": "The coconut is smashed in front of the car as a representation of eliminating barriers and bad vibes."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:vehicle:main-offerings": {
+  "detail": "The washed vehicle is adorned with new marigold garlands, mango leaves, and colourful ribbons.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Wash the car well and adorn it with new marigold garlands, mango leaves, and colourful ribbons."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:prasad-vitarana": {
+  "detail": "The puja concludes with a lamp aarti circled around the vehicle, after which prasad is distributed to everyone present.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The puja is completed with a lamp aarti that goes around the vehicle, and then prasad is distributed to everyone present."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vishwakarma:aarti": {
+  "detail": "Clean the equipment and take a seat facing east, then start the aarti and light an akhanda diya.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "Clean up all the equipment and take a seat facing east."
+   },
+   {
+    "source": "99pandit",
+    "text": "Start an aarti and light an akhanda diya."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vishwakarma:visarjana": {
+  "detail": "The next morning of the puja, the idol of Lord Vishwakarma is immersed in the water.",
+  "quotes": [
+   {
+    "source": "99pandit",
+    "text": "The next morning of the puja, the idol of Lord Vishwakarma is immersed in the water."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "_setup:vyapar-vriddhi": {
+  "detail": "Clean the office or shop and place a wooden platform (Chowki) in the North-East corner. Cover it with a fresh red cloth and set the idols of Lord Ganesha and Goddess Lakshmi, along with a consecrated Vyapar Vriddhi Yantra, on it.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Clean your office or shop. In the North-East corner, place a wooden platform (Chowki)."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Lay a fresh red cloth over it and put the idols of Lord Ganesha and Goddess Lakshmi, and a consecrated Vyapar Vriddhi Yantra."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "group:vyapar-vriddhi:bathe-adorn": {
+  "detail": "Give the Panchamrit Abhishek (holy bath) to the Yantra and idols, then apply sandalwood paste and vermilion. Offer fresh flowers, sweets (Bhoga), and seasonal fruits.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "Take the Panchamrit Abhishek (holy bath) of Panchamrit, Yantra, and idols. Apply sandalwood paste and vermilion."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Bring fresh flowers, sweets (Bhoga), and fruits of the season."
+   }
+  ],
+  "status": "draft-pending-review"
+ },
+ "step:vyapar-vriddhi:aarti": {
+  "detail": "Perform the Aarti by waving the lamp in a clockwise direction, then share the prasad. Finally, sprinkle Gangajal (holy water) around the premises.",
+  "quotes": [
+   {
+    "source": "99pandit.com",
+    "text": "At the end of the ceremony, perform an Aarti, waving the lamp in a clockwise direction."
+   },
+   {
+    "source": "99pandit.com",
+    "text": "Lastly, sprinkle the holy water (Gangajal) around the premises to lock in the positive vibrations and to keep out the negative influences."
+   }
+  ],
+  "status": "draft-pending-review"
+ }
+}

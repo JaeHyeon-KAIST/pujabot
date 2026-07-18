@@ -1,0 +1,83 @@
+{
+ "sanskritdocuments.org": {
+  "tier": "T1",
+  "label": "정본·학술 (원문 진리 원천 — 만트라 verbatim 대조 기준)"
+ },
+ "gretil.sub.uni-goettingen.de": {
+  "tier": "T1",
+  "label": "정본·학술 (원문 진리 원천 — 만트라 verbatim 대조 기준)"
+ },
+ "vedicheritage.gov.in": {
+  "tier": "T1",
+  "label": "정본·학술 (원문 진리 원천 — 만트라 verbatim 대조 기준)"
+ },
+ "archive.org": {
+  "tier": "T1",
+  "label": "정본·학술 (원문 진리 원천 — 만트라 verbatim 대조 기준)"
+ },
+ "drikpanchang.com": {
+  "tier": "T2",
+  "label": "준정본 (구조화된 vidhi 기준 프레임)"
+ },
+ "vedicastrologer.org": {
+  "tier": "T2",
+  "label": "준정본 (구조화된 vidhi 기준 프레임)"
+ },
+ "99pandit.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "smartpuja.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "templepurohit.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "pujahome.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "panditjionway.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "poojalu.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "pujanpujari.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "grihapraveshpuja.org": {
+  "tier": "EXCLUDED",
+  "label": "도메인 탈취 검출(도박 사이트) — 파이프라인이 자동 제외",
+  "excluded": true
+ },
+ "rudraksha-ratna.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "mypoojabox.in": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "mahamrityunjayjaap.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "myomnamo.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "samskarahome.com": {
+  "tier": "T3",
+  "label": "상업 vidhi 플랫폼 (관행 교차 대조용 — 단독으로 진리 원천 불가)"
+ },
+ "curated-template": {
+  "tier": "SEED",
+  "label": "팀 큐레이션 시드 템플릿 — 교차대조 대기"
+ }
+}

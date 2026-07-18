@@ -1,0 +1,1834 @@
+{
+ "step:satyanarayan:muhurat": {
+  "instruction": "Begin the puja at a shubh muhurat, an auspicious time. Have the pandit calculate it for you using the Hindu Panchang.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:sankalpa": {
+  "instruction": "Take a resolution to worship Lord Satyanarayana faithfully and to listen to the Katha.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:ganesha-smarana": {
+  "instruction": "Worship Lord Ganesha first, so that the puja proceeds free of any hurdles.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:kalasha-sthapana": {
+  "instruction": "Place a copper kalash filled with water near the puja area. Guided by the pandit, take a vow to perform the puja with honesty and pure intention.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:navagraha-invocation": {
+  "instruction": "Worship the nine planets (Navgraha) to balance the cosmic energies.",
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:invoke-seat": {
+  "instruction": "Take your seat on an Asana at the place of worship and meditate on Lord Satyanarayana with flowers in your hand. Then invoke him before the murti, forming the Avahan Mudra by joining your palms and folding both thumbs inward, and recite the mantra shown below.",
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:offer-water": {
+  "instruction": "Offer water to Shri Satyanarayana to wash the feet (Padya), then for the head (Arghya), and then for Achamana. Recite the mantra shown below as you make each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:bathe-adorn": {
+  "instruction": "Offer Shri Satyanarayana new clothes, the holy thread, and sandalwood paste, reciting the mantra shown below with each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:main-offerings": {
+  "instruction": "Offer Lord Satyanarayana flowers, then incense (Dhupa), then an earthen lamp of pure ghee. Wash your hands and offer the Naivedya of fruits and sweets, followed by a betel leaf (Tambula), reciting the mantra shown below with each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:satyanarayan:pradakshina": {
+  "instruction": "Offer a symbolic Pradakshina, circling from the left to the right of Shri Satyanarayana with flowers in your hand. Recite the mantra shown below as you go.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:katha": {
+  "instruction": "Read or listen to the story of the Lord Satyanarayana Vrat Katha.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:aarti": {
+  "instruction": "Offer the Aarti to Lord Satyanarayana with lit camphor in the puja thali, reciting the mantra shown below. Then sing the Shri Satyanarayana Aarti in his praise.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:mantra-pushpanjali": {
+  "instruction": "Offer flowers to Lord Satyanarayana as your Mantra Pushpanjali, reciting the mantra shown below.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:prasad-vitarana": {
+  "instruction": "Light a diya and perform the final aarti of Lord Satyanarayana, seeking his blessings. Then distribute the prasad among all the participants.",
+  "status": "draft-pending-review"
+ },
+ "step:satyanarayan:havan": {
+  "instruction": "Perform a small Havan, concluding with the Maha Aarti and the distribution of prasad.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:muhurat": {
+  "instruction": "Complete the puja on a Shubh Muhurat, an auspicious time. Work it out from the Hindu Lunar Calendar (Panchang).",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:shuddhi": {
+  "instruction": "Thoroughly clean the new home before the puja begins — sweep, mop, and dust it, giving special attention to the puja room. Purify it with holy water or Gangajal.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:ganesha-smarana": {
+  "instruction": "Please Lord Ganesha, the remover of hindrances, first, honouring him through a Vastu Puja for the spirits of the land.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:navagraha-invocation": {
+  "instruction": "Invoke and appease the nine planets to remove any astrological obstacles.",
+  "status": "draft-pending-review"
+ },
+ "group:griha-pravesh:invoke-seat": {
+  "instruction": "Invoke the divine presence through the recitation of mantras, amid the ringing of bells and the aroma of incense. Repeat the mantras after the priest together with your family.",
+  "status": "draft-pending-review"
+ },
+ "group:griha-pravesh:bathe-adorn": {
+  "instruction": "Decorate the vessel — many families use kumkum, turmeric, mango leaves, and the sacred thread.",
+  "status": "draft-pending-review"
+ },
+ "group:griha-pravesh:main-offerings": {
+  "instruction": "Present the deities with fresh flowers, fruits, sweets, incense sticks, and betel leaves and nuts, and offer the prepared milk to the deity before anyone else is served. Repeat the mantras after the priest, who leads and guides you through the rituals, amid the ringing of bells and the aroma of incense.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:aarti": {
+  "instruction": "Perform the Aarti for the deity.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:dwar-puja": {
+  "instruction": "Enter the house carrying a Kalash (copper pot) filled with water, a coconut, and mango leaves. Decorate the hall with Rangoli and a Toran of marigolds.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:vastu-shanti": {
+  "instruction": "Perform a Vastu Puja to honour the spirits of the land, having first pleased Lord Ganesha, the remover of hindrances.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:milk-boiling": {
+  "instruction": "Boil milk until it overflows. This overflow symbolises an abundance of wealth and food in your new household.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:havan": {
+  "instruction": "Conduct a Havan, a fire sacrifice, to cleanse the atmosphere. Its smoke is meant to drive away evil spirits and negative energies.",
+  "status": "draft-pending-review"
+ },
+ "step:griha-pravesh:gau-puja": {
+  "instruction": "Worship the cow, revered as Kamadhenu.",
+  "status": "draft-pending-review"
+ },
+ "step:akhand-ramayan:sankalpa": {
+  "instruction": "Formally announce the purpose of the Akhand Ramayan path and seek Lord Ram's blessings before beginning. The performer or pandit leads this sankalpa.",
+  "status": "draft-pending-review"
+ },
+ "group:akhand-ramayan:invoke-seat": {
+  "instruction": "Purify the puja space and set up a chowki with idols of Ram, Sita, Lakshman, and Hanuman. Keep the Ramcharitmanas on a wooden stand.",
+  "status": "draft-pending-review"
+ },
+ "group:akhand-ramayan:main-offerings": {
+  "instruction": "Light all the diyas and offer incense, sweets, and flowers to the deities. Sing bhajans between sections to sustain the devotional energy.",
+  "status": "draft-pending-review"
+ },
+ "step:akhand-ramayan:katha": {
+  "instruction": "Carry out the continuous recitation of the Ramcharitmanas through to completion. Once the path is complete, give prasad to all attendees and offer final prayers for prosperity, success, and well-being.",
+  "status": "draft-pending-review"
+ },
+ "group:akshaya-tritiya:invoke-seat": {
+  "instruction": "Bathe early in the morning, clean your puja space, and lay a yellow cloth on a wooden chowki. Place the idol of Lakshmi-Narayan and offer yellow flowers, sandalwood paste, and tulsi leaves, which are favored by Lord Vishnu.",
+  "status": "draft-pending-review"
+ },
+ "group:akshaya-tritiya:main-offerings": {
+  "instruction": "Light a ghee lamp and recite the Vishnu Sahasranama or the Kanakdhara Stotram. If you have brought gold or silver, keep it near the idols so it is sanctified.",
+  "status": "draft-pending-review"
+ },
+ "step:annaprashan:muhurat": {
+  "instruction": "Consult a pandit to fix an auspicious muhurat based on the child's birth star (nakshatra). This ensures the planetary energies are favourable for the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "group:annaprashan:invoke-seat": {
+  "instruction": "Begin with Ganesh Puja and Navagraha Shanti to remove obstacles. A small homa (fire ritual) is usually performed to purify the surrounding atmosphere.",
+  "status": "draft-pending-review"
+ },
+ "step:antim-sanskar:aarti": {
+  "instruction": "Bathe the body, dress it in new clothes, and place it on a wooden pyre. Put holy Ganga water (Ganga Jal) and a Tulsi leaf in the mouth.",
+  "status": "draft-pending-review"
+ },
+ "step:antim-sanskar:visarjana": {
+  "instruction": "Immerse the ashes in a holy river such as the Ganga, representing the soul's liberation.",
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:sankalpa": {
+  "instruction": "Have the pandit open the ritual with the sankalpa, stating the name and gotra of the departed soul and seeking divine blessings for the puja.",
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:kalasha-sthapana": {
+  "instruction": "Carefully collect the bones and ashes after the cremation and place them in a Kalash (urn), usually made of metal or clay. Wrap a scarlet cloth around the urn to conceal its opening.",
+  "status": "draft-pending-review"
+ },
+ "group:asthi-visarjan:main-offerings": {
+  "instruction": "Honour the departed by offering water with sesame seeds and flowers, expressing gratitude and seeking their blessings. Then bow to the deities by placing akshata and flowers before them, bow to the pandit, give dakshina, and receive the prasad.",
+  "status": "draft-pending-review"
+ },
+ "group:asthi-visarjan:pradakshina": {
+  "instruction": "Hold flowers in your hands and chant the praises of Lord Ganesha, Maha Lakshmi, Maha Kali, Maha Saraswati, and Kubera. Bow and offer the flowers to them, going in order from the youngest to the oldest.",
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:katha": {
+  "instruction": "Have the pandit recite the sacred shanti mantra to cleanse the surroundings and seek the blessings of Lord Vishnu and the pitrus (ancestors).",
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:aarti": {
+  "instruction": "Complete the ritual with the Ganga aarti and flower offerings, offering the final farewell and praying for the soul's moksha.",
+  "status": "draft-pending-review"
+ },
+ "step:asthi-visarjan:visarjana": {
+  "instruction": "After offering obeisance, take akshata (unbroken rice) and a flower in your right hand and chant the visarjan mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:bharani-shraddha:sankalpa": {
+  "instruction": "Begin by performing Sankalp, formally declaring your intention to honor your ancestors. Announce the names and gotra of the departed souls you wish to remember.",
+  "status": "draft-pending-review"
+ },
+ "group:bharani-shraddha:invoke-seat": {
+  "instruction": "Invoke the ancestral deities (Pitru Devatas) with the prescribed mantras. Offer special prayers to Lord Yama, who rules Bharani Nakshatra, for the smooth passage of the departed soul.",
+  "status": "draft-pending-review"
+ },
+ "group:bharani-shraddha:main-offerings": {
+  "instruction": "Offer food (Brahmin Bhojan) to a qualified Pandit along with Dakshina. This offering completes the ritual and helps the blessings reach the departed soul.",
+  "status": "draft-pending-review"
+ },
+ "step:bharani-shraddha:aarti": {
+  "instruction": "Offer the final prayers (Pitru Shanti Prarthana), seeking peace and liberation for your ancestors and well-being for your family. Close the puja with the Aarti.",
+  "status": "draft-pending-review"
+ },
+ "step:bharani-shraddha:havan": {
+  "instruction": "Optionally, perform a Thila Homam, a fire ritual using black sesame seeds, to deepen the benefit of the Shraddha and help resolve Pitru Dosha.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:muhurat": {
+  "instruction": "With a pandit's guidance, choose an auspicious date and time for the ceremony. The timing is set according to the owner's birth chart and the Vedic Panchang.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:shuddhi": {
+  "instruction": "Purify the land with holy water while mantras are chanted. Then make offerings to invoke the deity of directions and architecture and to bless the foundation.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:sankalpa": {
+  "instruction": "Begin the rituals by taking a formal vow. Offer prayers to Lord Ganesha so that the project proceeds smoothly.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:ganesha-smarana": {
+  "instruction": "Offer prayers to Lord Ganesha as the rituals begin. Invoke his blessings to help the project proceed smoothly.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:aarti": {
+  "instruction": "Light a lamp and offer a final prayer to conclude the ritual. Then serve prasad to everyone present.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:vastu-shanti": {
+  "instruction": "Perform Vastu Shanti by purifying the land with holy water and mantras. Make offerings to invoke the deity of directions and architecture and to bless the foundation.",
+  "status": "draft-pending-review"
+ },
+ "step:bhoomi:havan": {
+  "instruction": "Perform the fire ceremony by offering sacred herbs and ghee into the fire. Chant mantras as you make the offerings.",
+  "status": "draft-pending-review"
+ },
+ "step:birthday:sankalpa": {
+  "instruction": "Begin with a formal vow, stating your name, your gotra, and your specific goal for the coming year.",
+  "status": "draft-pending-review"
+ },
+ "step:birthday:ganesha-smarana": {
+  "instruction": "Honour Lord Ganesha before continuing, seeking his blessings so that every obstacle is cleared from your path.",
+  "status": "draft-pending-review"
+ },
+ "group:birthday:bathe-adorn": {
+  "instruction": "Bathe the deity with the sacred items appropriate to the puja while the accompanying mantras are recited.",
+  "status": "draft-pending-review"
+ },
+ "step:birthday:havan": {
+  "instruction": "Offer the small offerings into the sacred fire, letting the rising smoke cleanse the home and carry your prayers upward.",
+  "status": "draft-pending-review"
+ },
+ "step:birthday:aarti": {
+  "instruction": "Complete the puja by singing the hymns; the pandit then ties a raksha sutra on your hand for protection.",
+  "status": "draft-pending-review"
+ },
+ "step:brahmin-bhoj:sankalpa": {
+  "instruction": "Seat the invited Brahmins on a clean asan facing east. Take the sankalpa, stating your intention for the ritual.",
+  "status": "draft-pending-review"
+ },
+ "group:brahmin-bhoj:invoke-seat": {
+  "instruction": "Make the Brahmins sit on a clean asan facing east so they are settled for the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "group:brahmin-bhoj:main-offerings": {
+  "instruction": "Once the bhoj is finished, offer the Brahmins dakshina, fruits, and betel leaves as a symbol of gratitude.",
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:muhurat": {
+  "instruction": "Perform this Yantra puja only at an auspicious muhurat, on an auspicious day and time. The days of Lakshmi Puja, Dhanteras, and Pushya Nakshatra are considered suitable.",
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:shuddhi": {
+  "instruction": "Cleanse your body and mind by performing Achamana, the ritual sipping of water, followed by Pranayama.",
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:sankalpa": {
+  "instruction": "Make your sankalpa by solemnly declaring your name, gotra, and the particular intention for which the ten Mahavidyas are being worshipped.",
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:kalasha-sthapana": {
+  "instruction": "Install the ten yantras, one for each Mahavidya, in the prepared puja space. Energize each yantra with its specific beej mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:das-mahavidya:bathe-adorn": {
+  "instruction": "During each Avarana Puja, worship the yantra with Akshata, flowers, incense (Dhoop), lamp (Deep), and sandalwood (Gandha) while chanting each mantra and performing Tarpan. Also worship a young girl, seen as the living form of the Goddess, with flowers, clothes, and sweets.",
+  "status": "draft-pending-review"
+ },
+ "group:das-mahavidya:main-offerings": {
+  "instruction": "Worship each of the ten Mahavidyas by offering water, flowers, incense, light, and food along with your prayers.",
+  "status": "draft-pending-review"
+ },
+ "step:das-mahavidya:havan": {
+  "instruction": "Chant each Mahavidya's mantra a set number of times, then perform the homam by offering ghee, sesame, and sacred herbs into the fire while reciting the mantras.",
+  "status": "draft-pending-review"
+ },
+ "step:dhanteras:sankalpa": {
+  "instruction": "After performing Achamana, cleanse your right palm with water taken through the five-vessel. Hold fresh water, Akshata, and flowers in your cleaned right palm and recite the Sankalpa mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:invoke-seat": {
+  "instruction": "Meditate on Lord Dhanvantari before the already ignited ghee lamp flame kept in front of you. Then invoke Him by chanting the mantra while showing the Avahan Mudra, formed by joining both palms and folding both thumbs inwards.",
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:offer-water": {
+  "instruction": "Offer water to wash Shri Dhanvantari's feet (Padya), then offer water for the head Abhishekam (Arghya), chanting the mantra for each. Then offer Achamana by taking clean water in your right hand through the five-vessel three times.",
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:bathe-adorn": {
+  "instruction": "Set a wooden chowki, cover it with red cloth, and place an idol or images of Lord Ganesha, Goddess Lakshmi, and Lord Kubera, adding your newly purchased jewellery to be blessed. Offer Chandan to Shri Dhanvantari while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:main-offerings": {
+  "instruction": "Take five flowers in Anjali by joining the palms of both hands and leave them in front of you to offer a seat, then offer incense (Dhoop) and food (Naivedya). Finally offer Tambula of paan with betel nuts, chanting the mantra for each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:dhanteras:pradakshina": {
+  "instruction": "Offer a symbolic Pradakshina by circumambulating from left to right of Shri Dhanvantari with flowers while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:dhanteras:aarti": {
+  "instruction": "Purify the puja space thoroughly and decorate the entrance with flowers and rangoli or the footprints of Goddess Lakshmi to greet her.",
+  "status": "draft-pending-review"
+ },
+ "step:dhanteras:mantra-pushpanjali": {
+  "instruction": "Take five flowers in Anjali by joining the palms of both hands and offer them before Shri Dhanvantari while chanting the Mantra Pushpanjali.",
+  "status": "draft-pending-review"
+ },
+ "step:dhanteras:kshama-prarthana": {
+  "instruction": "Seek pardon from Shri Dhanvantari for any known or unknown mistakes made during the puja while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:shuddhi": {
+  "instruction": "Purify yourself before beginning the Diwali puja.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:sankalpa": {
+  "instruction": "Take a solemn vow (sankalpa) to perform the Diwali puja rituals.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:ganesha-smarana": {
+  "instruction": "Perform a concise five-step Ganesha pujan to invoke Lord Ganesha before the main worship.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:kalasha-sthapana": {
+  "instruction": "Install the kalash (sacred pot) at the place of worship.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:navagraha-invocation": {
+  "instruction": "Perform a concise Navagraha pujan to honour the nine planetary deities.",
+  "status": "draft-pending-review"
+ },
+ "group:diwali:invoke-seat": {
+  "instruction": "Meditate on Lord Dhanvantari in the flame of the already-lit ghee lamp in front of you, then invoke him before the flame while showing the Avahan Mudra. Place a soft red cloth on the chowki and set the idol of Maa Lakshmi with Lord Ganesha on her left side.",
+  "status": "draft-pending-review"
+ },
+ "group:diwali:offer-water": {
+  "instruction": "Offer water to wash the feet of Shri Dhanvantari, then offer water mixed with sandal, flowers, and rice for the head abhishekam. Take clean water in your right hand three times to offer achamana.",
+  "status": "draft-pending-review"
+ },
+ "group:diwali:bathe-adorn": {
+  "instruction": "Wear clean, preferably new, traditional clothes to show respect and devotion. Offer sandal paste to Shri Dhanvantari.",
+  "status": "draft-pending-review"
+ },
+ "group:diwali:main-offerings": {
+  "instruction": "Offer flowers and incense (dhoop), then worship the row of lamps (Deep-Malika). Offer naivedya of sweets, curd, milk, and ghee, followed by tambula of paan with betel nuts.",
+  "status": "draft-pending-review"
+ },
+ "group:diwali:pradakshina": {
+  "instruction": "Offer a symbolic circumambulation (pradakshina) with flowers and bow in namaskara.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:katha": {
+  "instruction": "Recite the Shanti Patha mantra shown to bring peace, happiness, and prosperity.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:aarti": {
+  "instruction": "Keep the Lekhani-Dawat (pen and inkpot, personified as Goddess Kali) at the place of worship. Draw a swastika on them with your ring finger using Rochana, red sandal, or Roli paste.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:mantra-pushpanjali": {
+  "instruction": "Offer flowers held in anjali (both palms joined) as the mantra pushpanjali while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:kshama-prarthana": {
+  "instruction": "Seek pardon for any known or unknown mistakes made during the puja.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:visarjana": {
+  "instruction": "Formally conclude the Diwali puja with a closing prayer.",
+  "status": "draft-pending-review"
+ },
+ "step:diwali:prasad-vitarana": {
+  "instruction": "Distribute the prasad of sweets and fruits among family members and guests.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:muhurat": {
+  "instruction": "Perform the chanting during the Brahma Muhurat (4:00 AM to 5:30 AM) or at sunset (Sandhya Kaal).",
+  "status": "draft-pending-review"
+ },
+ "step:durga:kalasha-sthapana": {
+  "instruction": "Set up the sacred kalasha filled with holy water and place mango leaves over it. This pot acts as the physical vessel for the Goddess's divine presence.",
+  "status": "draft-pending-review"
+ },
+ "group:durga:invoke-seat": {
+  "instruction": "Begin with meditation and invoke Goddess Durga before Her murti, showing the Avahana Mudra (both palms joined with the thumbs folded inwards) while chanting the mantra. Then take five flowers in Anjali (joined palms) and place them before the murti to offer Her a seat.",
+  "status": "draft-pending-review"
+ },
+ "group:durga:offer-water": {
+  "instruction": "Offer water to wash the Goddess's feet (Padya), then offer scented water (Arghya). Finally offer water for Achamana, chanting the mantra with each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:durga:bathe-adorn": {
+  "instruction": "Offer water for the Goddess's bath (Snana), then offer Moli as new clothes, a red hibiscus flower, Roli (kumkum), Akshat (unbroken rice), and Kalawa (sacred thread). Finish by applying Chandan while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:durga:main-offerings": {
+  "instruction": "Offer Pushpanjali (flowers), Dhoop (incense), and Deep (lamp) to the Goddess in turn. Then offer Naivedya (food) and Tambula (paan with betel nuts), chanting the mantra with each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:durga:pradakshina": {
+  "instruction": "Offer a symbolic Pradakshina by circumambulating from the left to the right of the Goddess with flowers while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:katha": {
+  "instruction": "Chant the sacred verses of the Chandi Path to awaken the Goddess. You may also perform Tarpan, an offering to the ancestors.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:aarti": {
+  "instruction": "Perform the Durga Aarti after chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:mantra-pushpanjali": {
+  "instruction": "Offer Mantra Pushpanjali to the Goddess while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:kshama-prarthana": {
+  "instruction": "Seek forgiveness from the Goddess for any mistakes, known or unknown, made during the puja while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:visarjana": {
+  "instruction": "To complete the ritual, married women offer vermilion to the Goddess on the last day, followed by the immersion of the idol. This depicts the return of the Divine to the formless eternal.",
+  "status": "draft-pending-review"
+ },
+ "step:durga:havan": {
+  "instruction": "Sit facing east with the havan kund before you, meditate on Mother Earth, and perform Achamana by taking water into your palm three times. Light a lamp to invoke Agni, kindle the fire with dry coconut pieces, wood, or cow-dung cakes using camphor, then offer ghee into the fire eight times while chanting the mantras.",
+  "status": "draft-pending-review"
+ },
+ "step:ekadashi-vrat-udyapan:ganesha-smarana": {
+  "instruction": "Begin the ritual with Ganesh puja to remove obstacles before the main worship.",
+  "status": "draft-pending-review"
+ },
+ "step:ekadashi-vrat-udyapan:kalasha-sthapana": {
+  "instruction": "Perform Kalash sthapana after the Ganesh puja, then set up the Sarvotabhadra Mandala where Lord Vishnu is invoked in his four-armed form.",
+  "status": "draft-pending-review"
+ },
+ "group:ekadashi-vrat-udyapan:main-offerings": {
+  "instruction": "Perform the Shodashopachara (16-step) worship of Lord Vishnu and Goddess Lakshmi, offering tulsi leaves and yellow flowers. Invite brahmins for a brahmin bhoj, and offer them Vastra daan (cloth) and Dakshina.",
+  "status": "draft-pending-review"
+ },
+ "step:ekadashi-vrat-udyapan:havan": {
+  "instruction": "Perform the Ekadashi homam by offering sacred items into the fire while reciting the Vishnu Sahasranama or Purusha Suktam.",
+  "status": "draft-pending-review"
+ },
+ "step:engagement:sankalpa": {
+  "instruction": "With the Pandit's guidance, have the couple and their parents state their lineage (Gotra) and formally resolve to unite the two families.",
+  "status": "draft-pending-review"
+ },
+ "step:engagement:ganesha-smarana": {
+  "instruction": "Begin by honouring Lord Ganesha, the remover of obstacles, so the wedding journey starts without any hindrance.",
+  "status": "draft-pending-review"
+ },
+ "group:engagement:bathe-adorn": {
+  "instruction": "Honour the groom with a sacred mark (Tilak), and welcome the bride with a Shubh Chunni to mark her acceptance into the new household.",
+  "status": "draft-pending-review"
+ },
+ "step:gand-mool-nakshatra:sankalpa": {
+  "instruction": "Begin the puja by taking the Sankalpa (formal vow); the parents of the native make this resolve on the child's behalf.",
+  "status": "draft-pending-review"
+ },
+ "step:gand-mool-nakshatra:ganesha-smarana": {
+  "instruction": "Perform the Ganesha puja first to clear away obstacles before the main rituals proceed.",
+  "status": "draft-pending-review"
+ },
+ "group:gand-mool-nakshatra:invoke-seat": {
+  "instruction": "Have the pandit invoke the Nakshatra devta and carry out the mantra jaap and Graha Shanti rituals.",
+  "status": "draft-pending-review"
+ },
+ "step:gand-mool-nakshatra:aarti": {
+  "instruction": "Conclude with the Purnahuti and Aarti, seeking blessings for the child's healthy, peaceful, and prosperous life.",
+  "status": "draft-pending-review"
+ },
+ "step:gand-mool-nakshatra:havan": {
+  "instruction": "Perform the havan, making sacred offerings into the fire while the mantra is recited.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:muhurat": {
+  "instruction": "Select an auspicious muhurat for installing the idol. Base the timing on the Hindu Panchang.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:shuddhi": {
+  "instruction": "Clean the altar and place a Ganesha idol on it. Offer Durva grass, hibiscus flowers, and modaks, then light a diya and incense.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:achamana-self": {
+  "instruction": "Perform achamana to purify yourself before beginning the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:sankalpa": {
+  "instruction": "Take a sacred vow by stating your name, gotra, and the purpose of performing the puja.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:ganesha-smarana": {
+  "instruction": "Place the idol of Lord Ganesha on a clean, decorated platform. Position it facing the appropriate direction.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:invoke-seat": {
+  "instruction": "Invoke Lord Ganesha before the murti by showing the Avahana Mudra, formed by joining both palms and folding the thumbs inward, then install him in the statue. Take five flowers in your joined palms and place them before the murti to offer him a seat.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:offer-water": {
+  "instruction": "After offering the seat, offer water to wash the deity's feet, followed by scented water. Then offer water for achamana.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:bathe-adorn": {
+  "instruction": "Bathe the deity with Panchamrita, a mixture of milk, curd, honey, ghee, and sugar, followed by scented oil and pure water, then offer new clothes and an upper garment. Offer the sacred thread and then scent.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh-chaturthi:main-offerings": {
+  "instruction": "Offer a flower garland, Shami leaves, Durva with three or five leaflets, and vermilion for tilak, then offer incense, a lamp, and food. Finish with paan and betel nuts, a coconut, and a gift.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:aarti": {
+  "instruction": "Perform the Ganesh Aarti. Then offer modak, laddoo, coconut, fruits, and other prasad.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh-chaturthi:visarjana": {
+  "instruction": "Offer Pushpanjali and perform a symbolic pradakshina, circumambulating from the left to the right of Lord Ganesha with flowers. Conclude the puja with the visarjana.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:achamana-self": {
+  "instruction": "Purify yourself with achamana by sipping water before you begin the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:ganesha-smarana": {
+  "instruction": "Seek Lord Ganesha's pardon and request his protection, chanting the accompanying mantra after the Shodashopachara puja.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:kalasha-sthapana": {
+  "instruction": "Place the water-filled kalash near the puja altar. Decorate it with mango leaves and a coconut tied with a red cloth.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:invoke-seat": {
+  "instruction": "Begin by meditating on Lord Ganesha before his installed statue, then invoke him into the idol with the accompanying mantra and offer him a seat.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:offer-water": {
+  "instruction": "Offer Lord Ganesha water to wash his feet (padya), then water for his head (arghya) and for sipping (achamana), chanting the accompanying mantras.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:bathe-adorn": {
+  "instruction": "Bathe the idol by sprinkling panchamrit, then offer cloth and apply sandalwood paste and kumkum tilak. Present durva grass and red flowers, and place a sacred thread or red cloth on the deity.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:main-offerings": {
+  "instruction": "Offer flowers, incense, and a lit ghee lamp, then present sweets such as modaks or laddoos with fruits and betel leaves, and offer tambula.",
+  "status": "draft-pending-review"
+ },
+ "group:ganesh:pradakshina": {
+  "instruction": "Circumambulate Lord Ganesha from left to right with flowers as symbolic pradakshina, chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:aarti": {
+  "instruction": "Perform the aarti to Lord Ganesha to conclude the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:mantra-pushpanjali": {
+  "instruction": "Offer a handful of flowers as pushpanjali to Lord Ganesha, chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:kshama-prarthana": {
+  "instruction": "Seek Lord Ganesha's pardon for any known or unknown mistakes made during the puja, chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:ganesh:prasad-vitarana": {
+  "instruction": "Distribute the prasad among family members and devotees as a token of Lord Ganesha's blessings.",
+  "status": "draft-pending-review"
+ },
+ "step:garud-puran:sankalpa": {
+  "instruction": "As a family, take a formal vow, dedicating the merit of this reading to your ancestors to assure their smooth journey into the ancestral realm.",
+  "status": "draft-pending-review"
+ },
+ "group:garud-puran:main-offerings": {
+  "instruction": "Prepare a small wooden pedestal to hold the sacred scripture, and light a lamp before it to represent the divine presence of Lord Vishnu.",
+  "status": "draft-pending-review"
+ },
+ "step:garud-puran:katha": {
+  "instruction": "Have a certified pandit chant the chapters daily, often in the afternoon, while the family sits together to hear the path.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:shuddhi": {
+  "instruction": "Clean the space and sprinkle Gangajal to purify the house, and honour the broom with Haldi-Kumkum. Bathe to complete your self-purification, then make the Sankalpa by taking water in your fist.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:achamana-self": {
+  "instruction": "Perform Achamana to purify yourself before beginning the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:ganesha-smarana": {
+  "instruction": "Before the main puja, worship Lord Ganesha the remover of obstacles, Lord Kubera, and the three forms of Goddess Lakshmi — Mahasaraswati, Mahalakshmi, and Mahakali.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:kalasha-sthapana": {
+  "instruction": "Spread rice grains in the centre of the chowki as a seat and apply Haldi-Kumkum to the Kalash and idols. Fill the silver or brass Kalash with water, supari, coins, Akshat rice, marigold flower, and a pinch of Haldi-Kumkum, then cover its mouth with mango leaves and a coconut.",
+  "status": "draft-pending-review"
+ },
+ "group:gauri-ganesh:invoke-seat": {
+  "instruction": "Meditate on Lord Ganesha and recite the mantras and stotras to invoke his presence, then invoke him with the Avahan Mudra and install him in the statue (skip the installation for a daily-worshipped, pre-installed statue). Take five flowers in Anjali and leave them before the murti to offer a seat.",
+  "status": "draft-pending-review"
+ },
+ "group:gauri-ganesh:offer-water": {
+  "instruction": "Offer water to Lord Ganesha to wash his feet (Padya) and offer scented water (Arghya). Then offer water for Achamana.",
+  "status": "draft-pending-review"
+ },
+ "group:gauri-ganesh:bathe-adorn": {
+  "instruction": "Bathe the deity with water, then with Panchamrita and separately with milk, curd, ghee, honey, sugar, scented oil, and pure Gangajal. Offer Moli as new clothes with an upper cloth, the sacred thread (Yajnopavita), and sandalwood scent.",
+  "status": "draft-pending-review"
+ },
+ "group:gauri-ganesh:main-offerings": {
+  "instruction": "Offer a flower garland, Shami leaves, Durva with three or five leaflets, and vermilion for Tilak, followed by incense (Dhoop) and a lamp (Dipa). Offer Naivedya of Modak and fruits, then Tambula of paan with betel nuts, a coconut, and Dakshina.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:aarti": {
+  "instruction": "Purify the puja place and yourself, and keep the idol on a wooden chowki covered with a red cloth for the Aarti.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:mantra-pushpanjali": {
+  "instruction": "Complete the worship by circling a camphor flame before the deity while singing the Ganesh Aarti, then offer a handful of flowers as a gesture of total surrender.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:visarjana": {
+  "instruction": "Perform the Aarti, offer Pushpanjali, and do a symbolic Pradakshina, then conclude with Visarjana while chanting the closing mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:gauri-ganesh:prasad-vitarana": {
+  "instruction": "Distribute the prasad among family members and devotees as a token of blessings from Lord Ganesh.",
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:shuddhi": {
+  "instruction": "Take water in your right hand and sip it in small amounts three times while reciting the purification mantra shown. This cleanses the mind, body, and soul.",
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:sankalpa": {
+  "instruction": "Close your eyes and state the purpose and intended duration of the jaap.",
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:ganesha-smarana": {
+  "instruction": "Before the jaap, offer prayers to Lord Ganesha so the ritual is completed without any obstacles.",
+  "status": "draft-pending-review"
+ },
+ "group:gayatri-mantra:main-offerings": {
+  "instruction": "Use a Tulsi or Rudraksha mala of 108 beads or more for the chanting. Hold the mala in your right hand and move the beads with your thumb and middle finger as you recite the mantra shown with correct pronunciation.",
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:aarti": {
+  "instruction": "Take a holy bath and wear traditional yet comfortable clothes. Arrange the puja setup facing East and place the idol or image of Goddess Gayatri and Lord Ganesha on the wooden chowki.",
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:kshama-prarthana": {
+  "instruction": "Make a final prayer to seek forgiveness for any unintentional mistakes made during the jaap.",
+  "status": "draft-pending-review"
+ },
+ "step:gayatri-mantra:havan": {
+  "instruction": "Conclude the ritual with a sacred fire ceremony, offering ghee and sacred herbs to Agni Dev to seal the positivity.",
+  "status": "draft-pending-review"
+ },
+ "step:godh-bharai-ceremony:shuddhi": {
+  "instruction": "Purify the expectant mother using the five sacred substances: milk, honey, ghee, curd, and sugar. This is done to invite positive cosmic energy favouring the baby.",
+  "status": "draft-pending-review"
+ },
+ "step:godh-bharai-ceremony:ganesha-smarana": {
+  "instruction": "Begin by invoking Lord Ganesha to remove all obstacles, and Goddess Gauri to bless the mother with the power of the Universal Mother.",
+  "status": "draft-pending-review"
+ },
+ "step:govardhan:kalasha-sthapana": {
+  "instruction": "Form an image of Mount Govardhan from cow dung, then adorn it with flowers, lamps, and colours.",
+  "status": "draft-pending-review"
+ },
+ "group:govardhan:bathe-adorn": {
+  "instruction": "Give the shila a ritual bath using milk, curd, and honey while a Vedic mantra is recited.",
+  "status": "draft-pending-review"
+ },
+ "group:govardhan:main-offerings": {
+  "instruction": "Wash the cows and decorate them with garlands, then make special offerings and prayers in their honour.",
+  "status": "draft-pending-review"
+ },
+ "group:govardhan:pradakshina": {
+  "instruction": "Circumambulate the Govardhan image while singing bhajans and hymns as a sign of devotion.",
+  "status": "draft-pending-review"
+ },
+ "step:govardhan:aarti": {
+  "instruction": "Present flowers, an incense stick, Annakut, and a lamp to the image of Mount Govardhan, then perform the maha aarti while singing devotional songs.",
+  "status": "draft-pending-review"
+ },
+ "step:govardhan:prasad-vitarana": {
+  "instruction": "To conclude the puja, distribute the Annakut prasad among family members, friends, neighbours, and those in need.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:sankalpa": {
+  "instruction": "Begin the puja with the Sankalpa: clean your right palm with water from the pancha-patra (five-vessel), then hold fresh water, akshata, and flowers in it. Recite the Sankalpa and release the water onto the ground.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:ganesha-smarana": {
+  "instruction": "Begin with a short prayer to Lord Ganesh, followed by a prayer to Lord Rama. Then read the Chalisa with full dedication and focus.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:invoke-seat": {
+  "instruction": "Meditate on Lord Hanuman before his installed statue, then invoke him by showing the Avahan Mudra (palms joined with both thumbs folded inward). Offer him a seat by placing five flowers, held in Anjali, before the Murti.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:offer-water": {
+  "instruction": "Offer Lord Hanuman water to wash his feet (Padya), then water for his head (Arghya), and finally water for sipping (Achamana).",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:bathe-adorn": {
+  "instruction": "Bathe Lord Hanuman with Panchamrita, a mixture of milk, curd, honey, ghee, and sugar. Then dress him in clothes, offer the Yajnopavita (sacred thread), and apply scent.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:main-offerings": {
+  "instruction": "Offer Lord Hanuman flowers, then incense (Dhupa) and a lamp (Dipa). Present Naivedya (food) and Tambula (paan with betel nuts).",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-chalisa:pradakshina": {
+  "instruction": "Offer a symbolic Pradakshina by circumambulating Lord Hanuman from left to right with flowers in hand.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:katha": {
+  "instruction": "Recite the Hanuman Chalisa; a single recitation is beneficial, though some chant it 7, 11, or 100 times for specific purposes and mental clarity.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:aarti": {
+  "instruction": "After offering Tambula, perform the Aarti of Lord Hanuman.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-chalisa:mantra-pushpanjali": {
+  "instruction": "Offer Pushpanjali (a handful of flowers) to Lord Hanuman.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-janmotsav:sankalpa": {
+  "instruction": "Begin with the Sankalpa: cleanse your right palm with water from the pancha-patra (five-vessel), then hold fresh water, Akshata, and flowers in it. Recite the Sankalpa mantra and let the water fall to the ground.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:invoke-seat": {
+  "instruction": "Meditate before the installed Hanuman murti, then invoke him using the Avahana mudra (both palms joined with the thumbs folded inward). Offer him a seat by placing five flowers held in your anjali before the murti, chanting the mantra at each step.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:offer-water": {
+  "instruction": "Offer water to wash his feet (Padya), then water for his head (Arghya), and water for sipping (Achamana), reciting the mantra with each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:bathe-adorn": {
+  "instruction": "Bathe the murti first with Panchamrita (a mixture of milk, curd, honey, ghee, and sugar), then with pure water. Adorn him with clothes, the Yajnopavita (sacred thread), and scent, chanting the mantra at each step.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:main-offerings": {
+  "instruction": "Offer flowers, incense (dhupa), and a lamp (dipa) to Lord Hanuman. Then offer the naivedya (food) and tambula (paan with betel nuts), reciting the mantra with each offering.",
+  "status": "draft-pending-review"
+ },
+ "group:hanuman-janmotsav:pradakshina": {
+  "instruction": "Offer a symbolic pradakshina by circumambulating Lord Hanuman from left to right with flowers, then bow in namaskara while reciting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-janmotsav:katha": {
+  "instruction": "Recite the Hanuman Chalisa and the Sunderkand path to invoke Lord Hanuman's sacred grace.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-janmotsav:aarti": {
+  "instruction": "After the Tambula offering, perform Lord Hanuman's Aarti, chanting the mantra beforehand.",
+  "status": "draft-pending-review"
+ },
+ "step:hanuman-janmotsav:mantra-pushpanjali": {
+  "instruction": "Offer the Mantra Pushpanjali (a handful of flowers) to Lord Hanuman while reciting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:holika:shuddhi": {
+  "instruction": "Keep the puja ingredients on a plate with a small water pot, and sit at the puja spot facing east or north. Sprinkle water on the thali and yourself, chanting the accompanying mantra three times.",
+  "status": "draft-pending-review"
+ },
+ "step:holika:sankalpa": {
+  "instruction": "Take a solemn vow (sankalpa) to perform the ritual with a pure heart.",
+  "status": "draft-pending-review"
+ },
+ "step:holika:ganesha-smarana": {
+  "instruction": "Take a flower and rice in your right hand to remember Lord Ganesha, then apply roli and rice to the flower and offer it with fragrance while chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:holika:kalasha-sthapana": {
+  "instruction": "At the place of puja, create a sacred material or symbolic model representing Holika.",
+  "status": "draft-pending-review"
+ },
+ "group:holika:bathe-adorn": {
+  "instruction": "Remember Lord Narasimha, applying roli and rice to a flower and offering it with fragrance while chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:holika:pradakshina": {
+  "instruction": "Light the fire at the auspicious muhurat, then circle it (parikrama) and offer prayers.",
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:sankalpa": {
+  "instruction": "Begin the ritual by taking a formal vow to complete it with devotion, stating your name and birth details.",
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:navagraha-invocation": {
+  "instruction": "Before the main rituals, offer prayers to Lord Ganesha to remove obstacles and to the nine planets for overall harmony.",
+  "status": "draft-pending-review"
+ },
+ "group:kaal-sarp-dosh:bathe-adorn": {
+  "instruction": "Bathe the silver idols of Rahu and Ketu, represented as Nagas, by performing abhishekam with milk and honey.",
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:aarti": {
+  "instruction": "Perform the aarti to honour the deities as part of the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:visarjana": {
+  "instruction": "Conclude the ritual by immersing the energised idols in a holy river, symbolising the flowing away of life's obstructions.",
+  "status": "draft-pending-review"
+ },
+ "step:kaal-sarp-dosh:havan": {
+  "instruction": "Perform the Havan after worshipping the Navagraha and Lord Shiva on the Kalash, offering ghee into the sacred fire.",
+  "status": "draft-pending-review"
+ },
+ "group:kali:invoke-seat": {
+  "instruction": "Begin by meditating on Bhagawati Kali in front of the Lekhani-Dawat (pen and inkpot) that symbolically represents Her. Then invoke Her with your hands held in Avahan Mudra, formed by joining both palms and folding both thumbs inwards.",
+  "status": "draft-pending-review"
+ },
+ "group:kali:bathe-adorn": {
+  "instruction": "Worship Bhagawati Kali with Chandan (sandalwood), Akshata, flowers, incense (Dhoop), lamp (Deep), and Naivedhya (food offering) while chanting the mantras.",
+  "status": "draft-pending-review"
+ },
+ "group:kali:main-offerings": {
+  "instruction": "Once the Goddess has been invoked, take five flowers in Anjali by joining the palms of both hands and leave them in front of the Lekhani-Dawat to offer Her seat.",
+  "status": "draft-pending-review"
+ },
+ "step:kali:mantra-pushpanjali": {
+  "instruction": "Offer Her seat by releasing the five flowers held in Anjali in front of the Lekhani-Dawat while reciting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:muhurat": {
+  "instruction": "Book a pandit to fix the ritual date according to the child's birth nakshatra, favouring odd months such as the 3rd, 5th, and 7th and the bright fortnight. Avoid the Ashtami, Navami, and Amavasya tithis.",
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:sankalpa": {
+  "instruction": "After invoking Lord Ganesha, make the Sankalpa in the presence of the priest. Have the father formally state the child's name, the gotra, and the purpose of the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:ganesha-smarana": {
+  "instruction": "Begin by invoking Lord Ganesha to eliminate obstacles before the main rite, which is followed by the Sankalpa.",
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:aarti": {
+  "instruction": "Pierce the right ear first for a male child and the left ear first for a female child, using a gold or silver needle. Recite the protective mantras continuously throughout to assure the child's comfort and protection.",
+  "status": "draft-pending-review"
+ },
+ "step:karnavedha-sanskar:havan": {
+  "instruction": "Conduct a short Ayush Homam, offering ghee and samagri into the sacred fire while the longevity mantras are recited for the child. Complete the ritual with Aarti, family blessings, and the sharing of prasad to all.",
+  "status": "draft-pending-review"
+ },
+ "step:karwa-chauth:sankalpa": {
+  "instruction": "After your morning bath, take the Sankalp (pledge) to keep the fast for the wellbeing of your husband and family. Resolve to observe it without food or water, breaking it only after you have sighted the moon.",
+  "status": "draft-pending-review"
+ },
+ "step:karwa-chauth:ganesha-smarana": {
+  "instruction": "Perform the puja after sunset to seek the blessings of Goddess Parvati, worshipping Gaura and Chauth Mata as drawn on the wall or shown on the puja calendar. After the Goddess, worship Lord Shiva, Lord Kartikeya, and Lord Ganesha, and narrate the story of Karwa Chauth together as a group.",
+  "status": "draft-pending-review"
+ },
+ "step:krishna-janmashtami:shuddhi": {
+  "instruction": "Purify the puja space and altar, then perform the abhishek of the deity.",
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:invoke-seat": {
+  "instruction": "Meditate on Lord Krishna in front of his installed statue, then invoke him before the murti by showing the Aavahan Mudra (both palms joined with the thumbs folded inward). Take five flowers in anjali and leave them in front of the murti to offer him a seat while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:offer-water": {
+  "instruction": "Offer water to wash Lord Krishna's feet, then offer water for his head abhishekam. Finally offer water for achamana (sipping) while reciting the mantras shown.",
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:bathe-adorn": {
+  "instruction": "Offer water to bathe Lord Krishna, then dress him in bright silk clothes and adorn him with jewellery. Offer the yajnopavita (sacred thread) and scent while reciting the mantras shown.",
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:main-offerings": {
+  "instruction": "Offer fragrances, incense (dhupa), and a lamp (deep) to Lord Krishna. Then offer naivedya of fresh butter, fruits, and Chhappan Bhog, followed by tambula of paan with betel nuts.",
+  "status": "draft-pending-review"
+ },
+ "group:krishna-janmashtami:pradakshina": {
+  "instruction": "Offer a symbolic pradakshina, circumambulating from left to right of Lord Krishna, with flowers while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "step:krishna-janmashtami:aarti": {
+  "instruction": "Fast until the stroke of midnight, then place Lord Krishna in a small swing. Prepare a bath of honey, milk, and curd for the lord.",
+  "status": "draft-pending-review"
+ },
+ "step:krishna-janmashtami:kshama-prarthana": {
+  "instruction": "Seek pardon from Lord Krishna for any known or unknown mistakes made during the puja while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "group:kuber-upasana:invoke-seat": {
+  "instruction": "First meditate on and remember Shri Kuber while chanting the mantra. Then invoke Him, holding your hands in the Avahana Mudra (both palms joined with the thumbs folded inwards) in front of your chest.",
+  "status": "draft-pending-review"
+ },
+ "group:kuber-upasana:bathe-adorn": {
+  "instruction": "Perform Shri Kuber Puja by offering Chandan, Akshata, Pushpa, Doop, Deep, and Naivedya while chanting the mantras.",
+  "status": "draft-pending-review"
+ },
+ "group:kuber-upasana:main-offerings": {
+  "instruction": "Take five flowers in Anjali (both palms joined) and place them before you to offer a seat to Shri Kuber while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:kuber-upasana:mantra-pushpanjali": {
+  "instruction": "Offer Mantra Pushpanjali by taking five flowers in Anjali (joined palms) and placing them before Shri Kuber while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:shuddhi": {
+  "instruction": "Wake early, clean the space where the puja will be performed, and sprinkle Gangajal to purify the house. Then bathe for self-purification and make the Sankalpa by taking water in your fist.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:achamana-self": {
+  "instruction": "Perform Achamana to purify yourself before beginning the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:ganesha-smarana": {
+  "instruction": "Just before starting the puja, worship Lord Ganesha, the remover of obstacles, so the worship proceeds smoothly.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:kalasha-sthapana": {
+  "instruction": "Spread a heap of rice grains in the centre of the chowki as a seat and apply haldi-kumkum to the kalash and the idols. Fill the kalash with water, supari, coins, akshat rice, a marigold flower, and a pinch of haldi-kumkum, then cover its mouth with mango leaves and a coconut.",
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:invoke-seat": {
+  "instruction": "Meditate on Goddess Lakshmi and invoke her before the murti using the Avahana mudra. Place a soft red cloth on the chowki and set the Lakshmi idol on it with Ganesha on her left side.",
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:offer-water": {
+  "instruction": "Offer water to wash the goddess's feet (padya), then water for the head (arghya), and water for achamana, each with its accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:bathe-adorn": {
+  "instruction": "Offer water for the bath, then present moli as new clothes, and offer a scented (gandha) bath to the goddess.",
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:main-offerings": {
+  "instruction": "Offer five flowers, then a lamp, honey and milk, the food offering (naivedya), and tambula of paan with betel nuts to the goddess.",
+  "status": "draft-pending-review"
+ },
+ "group:lakshmi-ganesh:pradakshina": {
+  "instruction": "Offer a symbolic pradakshina by circumambulating from left to right around the goddess with flowers.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:aarti": {
+  "instruction": "Conclude the main worship by performing the aarti before the deity.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:mantra-pushpanjali": {
+  "instruction": "Take five flowers in your joined palms (anjali) and offer them before the murti while the mantra is chanted.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:kshama-prarthana": {
+  "instruction": "Seek forgiveness from the goddess for any mistakes, known or unknown, made during the puja.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-ganesh:prasad-vitarana": {
+  "instruction": "Distribute the prasad among family members and devotees as a token of blessings.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:sankalpa": {
+  "instruction": "Begin with a formal Sankalpam, stating your name, lineage, and the specific purpose of the ritual, such as financial growth or health restoration.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:ganesha-smarana": {
+  "instruction": "Invoke Lord Ganesha first to clear the path of any obstacles, according to Vedic rites.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:kalasha-sthapana": {
+  "instruction": "Place a copper pot filled with water and sacred herbs to represent the divine presence of the deities.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:katha": {
+  "instruction": "Make the final offering of 16 Ahutis with Kheer while reciting the Sri Suktam, signifying total surrender to the divine intention.",
+  "status": "draft-pending-review"
+ },
+ "step:lakshmi-narasimha:havan": {
+  "instruction": "Perform the sacred fire ritual using dry wood and ghee. Offer medicinal herbs, lotus seeds, and the specified woods into the fire.",
+  "status": "draft-pending-review"
+ },
+ "step:maha-mrityunjaya:sankalpa": {
+  "instruction": "Hold water in your right hand and take the Sankalpa (vow), resolving to perform the puja with faith and stating your purpose.",
+  "status": "draft-pending-review"
+ },
+ "step:maha-mrityunjaya:ganesha-smarana": {
+  "instruction": "Offer a prayer to Lord Ganesha first, seeking the successful completion of the ritual without any hurdles.",
+  "status": "draft-pending-review"
+ },
+ "group:maha-mrityunjaya:bathe-adorn": {
+  "instruction": "Bathe the Shiva Lingam by continuously pouring water, milk, and curd over it while chanting the mantras. Then offer flowers, sweets, chandan, Bilva leaves, and incense sticks.",
+  "status": "draft-pending-review"
+ },
+ "group:maha-mrityunjaya:main-offerings": {
+  "instruction": "Sit facing east or north and light a lamp and incense sticks to purify the space. Then begin the rhythmic recitation of the Maha Mrityunjaya Mantra with a Rudraksha mala, done 108, 11,000, or the full 1.25 lakh times.",
+  "status": "draft-pending-review"
+ },
+ "step:maha-mrityunjaya:aarti": {
+  "instruction": "Light a ghee lamp and perform the final Aarti with a devotional hymn, then apply the holy ash (Bhasma) from the havan on the devotee's forehead.",
+  "status": "draft-pending-review"
+ },
+ "step:maha-mrityunjaya:prasad-vitarana": {
+  "instruction": "Distribute the prasad to everyone present to complete the ritual.",
+  "status": "draft-pending-review"
+ },
+ "step:maha-mrityunjaya:havan": {
+  "instruction": "Conduct the havan (fire ceremony), offering ghee and herbs into the fire to strengthen the mantras and purify the air.",
+  "status": "draft-pending-review"
+ },
+ "step:maha-shivaratri:sankalpa": {
+  "instruction": "After bathing, take the sankalpa to observe a full-day fast and to break it the next day, seeking Lord Shiva's blessings to complete the fast.",
+  "status": "draft-pending-review"
+ },
+ "group:maha-shivaratri:bathe-adorn": {
+  "instruction": "Get up early and bathe, adding black sesame seeds to the water. Apply chandan or kumkum to the Shiva Linga and adorn it with Madar (Aak) flowers and vibhuti (sacred ash).",
+  "status": "draft-pending-review"
+ },
+ "group:maha-shivaratri:main-offerings": {
+  "instruction": "Light a lamp and offer dhupa (incense) to the Shiva Linga.",
+  "status": "draft-pending-review"
+ },
+ "step:mahalakshmi:shuddhi": {
+  "instruction": "Purify both the puja place and yourself. Spread a red cloth on a wooden platform and install the idol of Goddess Lakshmi on it.",
+  "status": "draft-pending-review"
+ },
+ "step:mahalakshmi:kalasha-sthapana": {
+  "instruction": "Place a copper or brass pot filled with water, mango leaves, and a coconut to represent the divine universe.",
+  "status": "draft-pending-review"
+ },
+ "group:mahalakshmi:invoke-seat": {
+  "instruction": "Through Dhyana (meditation), invoke Goddess Lakshmi and welcome Her presence into the puja.",
+  "status": "draft-pending-review"
+ },
+ "group:mahalakshmi:bathe-adorn": {
+  "instruction": "Symbolically bathe the deity with Panchamrit or water, then offer fresh lotus flowers, sweets, and fruits while reciting the mantra to please Goddess Lakshmi.",
+  "status": "draft-pending-review"
+ },
+ "group:mahalakshmi:main-offerings": {
+  "instruction": "Light a ghee diya and incense sticks to welcome the deity, representing the victory of light over darkness.",
+  "status": "draft-pending-review"
+ },
+ "step:mahalakshmi:aarti": {
+  "instruction": "Complete the puja with the aarti, followed by a few moments of silent meditation seeking the wisdom to manage wealth responsibly.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-bhat:sankalpa": {
+  "instruction": "Begin the puja by stating your name, lineage (Gotra), and the precise purpose of the puja to the pandit.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-bhat:ganesha-smarana": {
+  "instruction": "Invoke the blessings of Lord Ganesha and Goddess Gauri at the start so the ceremony completes without any issue.",
+  "status": "draft-pending-review"
+ },
+ "group:mangal-bhat:bathe-adorn": {
+  "instruction": "Once the rice offering has been laid, bathe the deity with curd or milk.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-bhat:katha": {
+  "instruction": "Take Akshata (unbroken rice) or a flower in your hand and recite the praise with a wish for your own well-being (Mangal).",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-bhat:aarti": {
+  "instruction": "Conclude by singing the final Aarti to lock in the divine energy and receive protection.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-dosh-nivaran:ganesha-smarana": {
+  "instruction": "Begin with the worship of Lord Ganesha to assure a problem-free ritual. This is followed by the Navagraha sthapana in which Mars is invoked as the key deity.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-dosh-nivaran:kalasha-sthapana": {
+  "instruction": "After the Ganesha worship, set up the sacred installation for the ritual, proceeding to the Navagraha sthapana where Mars is invoked as the key deity.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-dosh-nivaran:navagraha-invocation": {
+  "instruction": "Perform the Navagraha sthapana, invoking Mars as the key deity of the ritual.",
+  "status": "draft-pending-review"
+ },
+ "group:mangal-dosh-nivaran:bathe-adorn": {
+  "instruction": "As part of the Abhishekam, bathe the Shivalinga or Mangal yantra with red sandalwood paste, water, and honey. Sources describe this as a step that is sometimes included.",
+  "status": "draft-pending-review"
+ },
+ "step:mangal-dosh-nivaran:havan": {
+  "instruction": "Complete the puja with a Havan using red flowers and particular herbs. Then donate Masoor dal and red cloth for the needy.",
+  "status": "draft-pending-review"
+ },
+ "step:marriage-anniversary:shuddhi": {
+  "instruction": "Begin the day with a holy bath and purify the puja space. Place a wooden chowki on the puja altar and cover it with fresh red or yellow cloth.",
+  "status": "draft-pending-review"
+ },
+ "step:marriage-anniversary:sankalpa": {
+  "instruction": "Sit together as a couple, holding water and red flowers, and make a formal vow before the deity. Pledge to stay committed to each other and to your shared spiritual path.",
+  "status": "draft-pending-review"
+ },
+ "group:marriage-anniversary:invoke-seat": {
+  "instruction": "Perform a Ganesh puja first to remove any obstacles from the ceremony. Then perform abhishekam of the chosen deities with milk, honey, and curd.",
+  "status": "draft-pending-review"
+ },
+ "group:marriage-anniversary:main-offerings": {
+  "instruction": "Light a ghee lamp and present flowers, incense, and Naivedya (food offering). Recite the Swayamvara Parvati or Vishnu Sahasranama to strengthen the bond between the couple.",
+  "status": "draft-pending-review"
+ },
+ "step:marriage-anniversary:aarti": {
+  "instruction": "Complete the ritual with the aarti. Receive the blessings of the elders present.",
+  "status": "draft-pending-review"
+ },
+ "step:mundan-sanskar:muhurat": {
+  "instruction": "Consult an expert to select an auspicious time (Shubh Muhurat) for the ceremony. Hold the ritual at a temple, on the bank of a holy river, or at home in a sanctified place, with the child facing East.",
+  "status": "draft-pending-review"
+ },
+ "step:mundan-sanskar:ganesha-smarana": {
+  "instruction": "Begin with Ganesh Puja to remove obstacles before the ceremony. The priest recites the Ayushya mantras, praying that the child will live a long and healthy life.",
+  "status": "draft-pending-review"
+ },
+ "step:mundan-sanskar:visarjana": {
+  "instruction": "Wash the child's head with Gangajal and apply a cooling paste of sandalwood and turmeric to heal the head and soothe the senses. Gather the shaved hair, combine it with flour or cow dung, and reverently release it into a running river.",
+  "status": "draft-pending-review"
+ },
+ "step:mundan-sanskar:havan": {
+  "instruction": "Perform a small havan (fire ceremony) to invoke the deities and the Sun God. The priest recites the Ayushya mantras, praying that the child will live a long and healthy life.",
+  "status": "draft-pending-review"
+ },
+ "step:nakshatra-shanti:muhurat": {
+  "instruction": "Select the right muhurat and have the horoscope analysed carefully. A correct muhurat and horoscope analysis assure the ritual's effectiveness and spiritual significance.",
+  "status": "draft-pending-review"
+ },
+ "step:nakshatra-shanti:sankalpa": {
+  "instruction": "Begin the puja with the Sankalpa, the formal vow taken by the parents of the child.",
+  "status": "draft-pending-review"
+ },
+ "step:nakshatra-shanti:ganesha-smarana": {
+  "instruction": "Perform Ganesh Puja first to eliminate obstacles.",
+  "status": "draft-pending-review"
+ },
+ "step:nakshatra-shanti:aarti": {
+  "instruction": "Complete the ritual with the Purnahuti and Aarti, offering blessings for the child's healthy, peaceful, and prosperous life.",
+  "status": "draft-pending-review"
+ },
+ "step:nakshatra-shanti:havan": {
+  "instruction": "Perform the havan, making the sacred offerings into the fire while reciting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:shuddhi": {
+  "instruction": "Have the pandit chant the mantra and sprinkle holy water (Gangajal) to purify the house, the baby, and the mother.",
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:ganesha-smarana": {
+  "instruction": "Begin the main rituals by offering prayers to Lord Ganesha for the puja's smooth completion, then perform the Navagraha puja to remove any birth-related hurdles.",
+  "status": "draft-pending-review"
+ },
+ "group:namkaran:main-offerings": {
+  "instruction": "Have the father or paternal aunt (bua) whisper the chosen name into the baby's right ear, using a betel leaf or a golden ring.",
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:aarti": {
+  "instruction": "Let the pandit fix the auspicious Muhurat and the starting letter of the name from the baby's birth star, generally on the 11th or 12th day.",
+  "status": "draft-pending-review"
+ },
+ "step:namkaran:havan": {
+  "instruction": "Light a fire in the havan kund to purify the atmosphere, after which an elder touches the baby with grains or gold for abundance.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:muhurat": {
+  "instruction": "Begin the puja during an auspicious muhurat, as the timing is very important. A pandit can help you calculate it using the Hindu Panchang.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:sankalpa": {
+  "instruction": "Guided by a pandit, take a vow (Sankalpa) to perform the puja with honesty and pure intention.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:ganesha-smarana": {
+  "instruction": "Worship Lord Ganesha first to ensure a hurdle-free puja.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:kalasha-sthapana": {
+  "instruction": "Place a copper kalash filled with water near the puja area.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:navagraha-invocation": {
+  "instruction": "Worship the nine planets (Navagraha) to balance the cosmic energies.",
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:invoke-seat": {
+  "instruction": "Meditate on Lord Satyanarayan before his image or idol, then invoke him by showing the Avahan Mudra (palms joined with both thumbs folded inward). Offer him a seat by placing five flowers, held in Anjali, before the Murti.",
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:offer-water": {
+  "instruction": "Offer Lord Satyanarayana water to wash his feet (Padya), then water for his head (Arghya), and water for Achamana (sipping).",
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:bathe-adorn": {
+  "instruction": "Bathe Lord Satyanarayana with Panchamrita (milk, curd, honey, ghee, and sugar), then offer new clothes and the holy thread (Yajnopavita). Apply sandalwood paste or powder.",
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:main-offerings": {
+  "instruction": "Offer Lord Satyanarayana flowers, incense (Dhupa), and a lit earthen ghee lamp (Dipa). Present Naivedya of various fruits and sweets, followed by Tambula (betel leaf).",
+  "status": "draft-pending-review"
+ },
+ "group:narayan-bali:pradakshina": {
+  "instruction": "Offer a symbolic Pradakshina by circumambulating Lord Satyanarayan from left to right with flowers in hand.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:katha": {
+  "instruction": "Sit in a quiet place and listen to or recite the Satyanarayana Katha, which teaches the power of truth and devotion.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:aarti": {
+  "instruction": "Perform the Aarti of Lord Satyanarayana with lit camphor in the puja thali, then sing the Satyanarayana Aarti in his praise.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:mantra-pushpanjali": {
+  "instruction": "Offer Mantra Pushpanjali by presenting flowers to Lord Satyanarayana with incantations.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:prasad-vitarana": {
+  "instruction": "Light a diya for the final aarti to seek blessings, then distribute the prasad among all participants.",
+  "status": "draft-pending-review"
+ },
+ "step:narayan-bali:havan": {
+  "instruction": "Perform a small Havan, concluding with the Maha Aarti and prasad distribution.",
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:sankalpa": {
+  "instruction": "Hold water in your right palm and perform the Maha Sankalpa, asking the Navagrahas for their blessings and to grant your wishes.",
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:ganesha-smarana": {
+  "instruction": "Perform the Ganesha puja and the sthapana (installation) of the Navagraha idols before the main Navagraha puja begins.",
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:kalasha-sthapana": {
+  "instruction": "Establish the Kalasha (Kalash Sthapana) as the first ritual step of the Navagraha puja.",
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:navagraha-invocation": {
+  "instruction": "Call upon the Navagrahas, the nine planets, before beginning the main puja.",
+  "status": "draft-pending-review"
+ },
+ "group:navagraha-shanti:invoke-seat": {
+  "instruction": "Place a vessel or earthen cup in front of the Kalasha and hold Gandhakshata in your left hand. Invoke all nine planets together while reciting the mantra, then leave the Gandhakshata in the vessel.",
+  "status": "draft-pending-review"
+ },
+ "group:navagraha-shanti:offer-water": {
+  "instruction": "Worship the nine planets in sequence, starting from Surya, offering Padya and the other water rites while reciting the mantras.",
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:aarti": {
+  "instruction": "Perform the Aarti and serve the prasad in this final stage.",
+  "status": "draft-pending-review"
+ },
+ "step:navagraha-shanti:havan": {
+  "instruction": "Conduct the havan (homam) to receive the blessings of the Navagrahas.",
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:sankalpa": {
+  "instruction": "State your name, goals, and intentions in the sankalpa, formally invoking the planets to remove a particular problem from your life.",
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:kalasha-sthapana": {
+  "instruction": "Place the nine sacred pots on the puja altar, invoking the energy of the nine planetary lords with Vedic mantras.",
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:navagraha-invocation": {
+  "instruction": "Create the Navagraha mandala, a geometric arrangement of nine grains and colored cloths representing each planet.",
+  "status": "draft-pending-review"
+ },
+ "group:navgraha:invoke-seat": {
+  "instruction": "Invoke each planet by reciting its personalized beej mantra, honouring every planetary energy.",
+  "status": "draft-pending-review"
+ },
+ "group:navgraha:bathe-adorn": {
+  "instruction": "Offer colored cloths for each of the nine planets as part of the mandala arrangement.",
+  "status": "draft-pending-review"
+ },
+ "step:navgraha:havan": {
+  "instruction": "Offer the particular wood (samidha) prescribed for each planet into the sacred fire, such as Ark wood for the Sun and Palash for the Moon.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:shuddhi": {
+  "instruction": "Take a morning bath and wear clean white clothes. Purify the puja place by sprinkling Gangajal.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:kalasha-sthapana": {
+  "instruction": "In a wide clay pot, spread a layer of soil and scatter grain seeds, then add a second layer of soil and grains near the pot's edge, and finish with a third and final layer of soil. Add a little water to set the soil if needed.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:navagraha-invocation": {
+  "instruction": "Offer prayers to the Navagraha (nine planets) and the attendant deities before proceeding.",
+  "status": "draft-pending-review"
+ },
+ "group:navratri:invoke-seat": {
+  "instruction": "Begin by meditating on and invoking Goddess Durga before Her murti, chanting the mantra while showing the Avahan Mudra (both palms joined with the thumbs folded inward). Then take five flowers in your joined palms (Anjali) and leave them before the murti to offer Her a seat.",
+  "status": "draft-pending-review"
+ },
+ "group:navratri:offer-water": {
+  "instruction": "Offer water to wash Goddess Durga's feet (Padya), then offer scented water (Arghya), and finally offer water for Achamana, each while chanting the respective mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:navratri:bathe-adorn": {
+  "instruction": "Bathe Goddess Durga by offering water (Snana), then offer Moli as new clothes (Vastra) and apply Chandan, each while chanting the respective mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:navratri:main-offerings": {
+  "instruction": "Offer flowers (Pushpa), incense (Dhoop), a lamp (Deep), food (Naivedya), and Tambula (paan with betel nuts) to Goddess Durga, each while chanting the respective mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:navratri:pradakshina": {
+  "instruction": "Offer symbolic Pradakshina by circumambulating Goddess Durga from left to right with flowers while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:aarti": {
+  "instruction": "Perform the aarti to Goddess Durga to honour Her during the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:mantra-pushpanjali": {
+  "instruction": "Offer Pushpanjali (a handful of flowers) to Goddess Durga while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:kshama-prarthana": {
+  "instruction": "Seek pardon from Goddess Durga for any known or unknown mistakes made during the puja while chanting the mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:visarjana": {
+  "instruction": "Perform Kanya Pujan on Ashtami or Navami, then close with the final aarti and the Kalash visarjan.",
+  "status": "draft-pending-review"
+ },
+ "step:navratri:havan": {
+  "instruction": "Conclude the festival with a sacred fire ritual (Havan), seeking the Goddess's blessings for a harmonious and prosperous life.",
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:muhurat": {
+  "instruction": "Discuss the Shubh Muhurat with your pandit, choosing the time based on the child's lunar birth star.",
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:shuddhi": {
+  "instruction": "Give the child a traditional bath and dress them in new, comfortable clothes, then apply a tilak to the forehead.",
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:ganesha-smarana": {
+  "instruction": "Begin the puja by honouring Lord Ganesha to remove obstacles and ensure the child's path is clear and successful.",
+  "status": "draft-pending-review"
+ },
+ "step:nishkraman-sanskar:aarti": {
+  "instruction": "Depending on whether it is day or night, have the child look upon the Sun or the Moon while the father chants the prayers for the child's radiance and stability.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:ganesha-smarana": {
+  "instruction": "Begin the puja by worshipping Lord Ganesha to remove obstacles and ensure a smoother business journey.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:kalasha-sthapana": {
+  "instruction": "Set up the Kalash to symbolize the presence of divine energy, filling it with water, adorning it with mango leaves, and topping it with a coconut. Perform the Ganapati Puja first, offering flowers, Durva grass, and Modak and chanting the Ganapati mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:navagraha-invocation": {
+  "instruction": "Conduct a Navagraha puja to balance the nine planets, and honour the Vastu Purush, the major deity of the land, to align directional flaws.",
+  "status": "draft-pending-review"
+ },
+ "group:office-opening:bathe-adorn": {
+  "instruction": "Assemble a well-organized puja thali with all essential materials, such as the water-filled Kalash, fresh flowers, fruits, sweets, Panchamrit, roli, sindoor, akshat, moli, incense sticks, a diya, and coins. Place the Kalash in the center and arrange the flowers, fruits, sweets, and other materials systematically around it.",
+  "status": "draft-pending-review"
+ },
+ "group:office-opening:main-offerings": {
+  "instruction": "Choose a clean, clutter-free spot for the puja, preferably near the entrance, and decorate it with fresh flowers, Rangoli designs, and marigold torans. Set up a small platform covered with a clean red or white cloth, and light incense sticks and diyas to purify the air.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:aarti": {
+  "instruction": "Light a ghee lamp and perform the final Aarti along with devotional hymns. Then distribute prasad among all present.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:prasad-vitarana": {
+  "instruction": "After the final Aarti, distribute prasad among all those present as a blessing.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:vastu-shanti": {
+  "instruction": "Honour the Vastu Purush, the major deity of the land, to align directional flaws, alongside the Navagraha puja that balances the nine planets.",
+  "status": "draft-pending-review"
+ },
+ "step:office-opening:havan": {
+  "instruction": "Conduct the fire ceremony, offering ghee and sacred herbs into the fire to purify the atmosphere and remove negativity.",
+  "status": "draft-pending-review"
+ },
+ "step:pind-daan:sankalpa": {
+  "instruction": "Begin the Pind Daan by taking a solemn vow (Sankalpa). State your purpose to honour your ancestors and to invoke their blessings.",
+  "status": "draft-pending-review"
+ },
+ "group:pind-daan:main-offerings": {
+  "instruction": "Offer water blended with sesame seeds and flowers, letting it flow through your fingers. This libation is made to satisfy the spiritual thirst of the departed souls.",
+  "status": "draft-pending-review"
+ },
+ "step:pitru-dosh:sankalpa": {
+  "instruction": "Begin by offering prayers to Lord Ganesha to remove obstacles, then take a vow (sankalpa) to honour your ancestors.",
+  "status": "draft-pending-review"
+ },
+ "step:pitru-dosh:kalasha-sthapana": {
+  "instruction": "Install a sacred pot filled with water, then recite the Vedic peace mantras shown to purify the space and invite the ancestral soul.",
+  "status": "draft-pending-review"
+ },
+ "group:pitru-dosh:invoke-seat": {
+  "instruction": "Offer prayers to Lord Vishnu, the grantor of moksha, inviting his presence for the rite.",
+  "status": "draft-pending-review"
+ },
+ "step:pitru-dosh:katha": {
+  "instruction": "Recite the Vedic peace mantras shown to purify the space and invite the ancestral soul.",
+  "status": "draft-pending-review"
+ },
+ "step:pitru-paksha-shradh:sankalpa": {
+  "instruction": "Take a formal Sankalpa (vow), stating your purpose for performing the ritual for your ancestors.",
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:ganesha-smarana": {
+  "instruction": "Begin the ritual with the Ganesh-Gauri puja before installing the kalash.",
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:kalasha-sthapana": {
+  "instruction": "Install the kalash after the Ganesh-Gauri puja to begin the worship.",
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:navagraha-invocation": {
+  "instruction": "Invoke the Navagraha and attendant deities as part of the worship.",
+  "status": "draft-pending-review"
+ },
+ "group:purnima-vrat-udyapan:offer-water": {
+  "instruction": "Offer Chandra arghya, a water offering to the moon, as the ritual nears completion.",
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:katha": {
+  "instruction": "Honour Lord Satyanarayan with the detailed sixteen-step (Shodashopachara) puja and the recitation of the Satyanarayan Katha.",
+  "status": "draft-pending-review"
+ },
+ "step:purnima-vrat-udyapan:havan": {
+  "instruction": "Perform the Chandra shanti homa by offering white flowers, ghee, and rice into the sacred fire while the Soma mantras are recited.",
+  "status": "draft-pending-review"
+ },
+ "step:putrakameshti:sankalpa": {
+  "instruction": "Begin with the Maha Sankalp, where the couple takes a solemn vow of devotion and purpose under the pandit's guidance.",
+  "status": "draft-pending-review"
+ },
+ "step:putrakameshti:kalasha-sthapana": {
+  "instruction": "Perform Kalash Sthapana by consecrating a sacred pot to invoke Lord Vishnu's presence.",
+  "status": "draft-pending-review"
+ },
+ "group:putrakameshti:main-offerings": {
+  "instruction": "Recite the Purusha Suktam and Santan Gopal mantras with precise rhythm.",
+  "status": "draft-pending-review"
+ },
+ "group:putrakameshti:pradakshina": {
+  "instruction": "Perform Agni Pradakshina, circling the sacred fire as a couple to affirm your unity.",
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:sankalpa": {
+  "instruction": "Take the Sankalpa (formal vow), declaring your name, your gotra (lineage), and the reason for the puja, whether it is health, career, or family harmony.",
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:ganesha-smarana": {
+  "instruction": "Invoke Lord Ganesha first to remove any hindrances before the shadow planets are addressed.",
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:navagraha-invocation": {
+  "instruction": "Invoke all nine planets to bring a harmonious atmosphere before the main rites begin.",
+  "status": "draft-pending-review"
+ },
+ "group:rahu-ketu-shanti:invoke-seat": {
+  "instruction": "Formally invoke and seat the planetary deities, reciting the mantra as each is called.",
+  "status": "draft-pending-review"
+ },
+ "group:rahu-ketu-shanti:main-offerings": {
+  "instruction": "As part of the offerings, donate items such as lead, black blankets, seven kinds of grains (Sapta-Dhanya), or blue flowers to the needy, since Rahu and Ketu are appeased through selfless service.",
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:aarti": {
+  "instruction": "Perform the concluding Aarti to complete the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "step:rahu-ketu-shanti:havan": {
+  "instruction": "Perform the havan, offering black sesame, mustard seeds, and special herbs into the sacred fire to transform negative planetary energies into positive ones.",
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:shuddhi": {
+  "instruction": "Cleanse the puja altar, then perform abhishek of the Lord Rama idol (or the Ram Darbar) with water, milk, and honey.",
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:kalasha-sthapana": {
+  "instruction": "Place the deity on a decorated puja altar, and light a traditional ghee lamp (diya) and incense sticks to create a sacred atmosphere.",
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:invoke-seat": {
+  "instruction": "Meditate on Lord Rama before his installed statue, invoke him using the Aavahan Mudra, then take five flowers in Anjali and place them before the murti to offer a seat.",
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:offer-water": {
+  "instruction": "Offer Lord Rama water to wash his feet (padya), for his head (arghya), and for sipping (achamana), chanting the accompanying mantras.",
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:bathe-adorn": {
+  "instruction": "Bathe Lord Rama with water, then offer Moli as new clothes, the yajnopavita (sacred thread), and scent, chanting the accompanying mantras.",
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:main-offerings": {
+  "instruction": "Offer flowers, dhupa, and a lamp (deep) to Lord Rama, then present naivedya and tambula, chanting the accompanying mantras.",
+  "status": "draft-pending-review"
+ },
+ "group:ram-navami:pradakshina": {
+  "instruction": "Perform symbolic pradakshina by circumambulating Lord Rama from left to right with flowers, chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:katha": {
+  "instruction": "Recite the Ram Raksha Stotra, the Sundarkand, or a simple Rama mantra to seek divine vibrations.",
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:aarti": {
+  "instruction": "Offer Nirajan (aarti) to Lord Rama, then perform the Shri Rama Aarti.",
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:mantra-pushpanjali": {
+  "instruction": "Offer mantra pushpanjali to Lord Rama, chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:ram-navami:kshama-prarthana": {
+  "instruction": "Seek Lord Rama's pardon for any known or unknown mistakes made during the puja, chanting the accompanying mantra.",
+  "status": "draft-pending-review"
+ },
+ "step:rin-mukti:sankalpa": {
+  "instruction": "With the priest's guidance, take a formal oath stating your name and the purpose behind the puja.",
+  "status": "draft-pending-review"
+ },
+ "step:rin-mukti:ganesha-smarana": {
+  "instruction": "Offer prayers to Lord Ganesha to neutralize the negative influences that lead to borrowing.",
+  "status": "draft-pending-review"
+ },
+ "step:rin-mukti:katha": {
+  "instruction": "Chant the powerful stotra and mantras dedicated to dissolving long-term financial liabilities.",
+  "status": "draft-pending-review"
+ },
+ "step:rin-mukti:aarti": {
+  "instruction": "Offer a final aarti to Lord Shiva and Goddess Lakshmi, seeking their blessings to repay debts and live a prosperous life.",
+  "status": "draft-pending-review"
+ },
+ "step:rin-mukti:havan": {
+  "instruction": "Conduct a small fire ceremony, offering sacred herbs and ghee into the holy fire to purify the financial aura and past karmas.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:shuddhi": {
+  "instruction": "Take a bath and wear clean clothes, preferably white or yellow.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:achamana-self": {
+  "instruction": "Sip water three times while reciting the mantras, then purify your body by touching its various parts as you chant.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:sankalpa": {
+  "instruction": "Take a vow for the puja, stating your name, gotra, and the intention behind performing it.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:ganesha-smarana": {
+  "instruction": "Begin by seeking the blessings of Lord Ganesha so the ritual is completed without any obstacles.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:kalasha-sthapana": {
+  "instruction": "Set up a kalash (pot) filled with water, and place mango leaves and a coconut on top to symbolize the presence of divinity.",
+  "status": "draft-pending-review"
+ },
+ "group:rudrabhishek:invoke-seat": {
+  "instruction": "Sit facing the east and meditate upon Lord Shiva, then perform the Sankalpa as a vow to conduct the puja with devotion.",
+  "status": "draft-pending-review"
+ },
+ "group:rudrabhishek:bathe-adorn": {
+  "instruction": "Under the priest's supervision, give the Shiva Linga a ceremonial bath using milk, honey, water, ghee, curd, sugarcane juice, and chandan. Then apply sandalwood paste and decorate it with holy ash (Bhasma).",
+  "status": "draft-pending-review"
+ },
+ "group:rudrabhishek:main-offerings": {
+  "instruction": "Clean the Shiva Linga and adorn it with Bel Patra (bilva leaves), flowers, and Bhasma. Place fruits, sweets, betel leaves, and nuts in front of it.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:aarti": {
+  "instruction": "Light the lamps and perform the final aarti with devotional hymns, then distribute prasad among all participants.",
+  "status": "draft-pending-review"
+ },
+ "step:rudrabhishek:kshama-prarthana": {
+  "instruction": "Conclude with prayers for forgiveness (Kshama Prarthana) and seek the deity's blessings.",
+  "status": "draft-pending-review"
+ },
+ "step:santan-gopal-mantra:sankalpa": {
+  "instruction": "First seek Lord Ganesha so the ritual proceeds without any problem. Then take the vow with water in your hand, mentioning your lineage and your particular wish for a healthy child.",
+  "status": "draft-pending-review"
+ },
+ "group:santan-gopal-mantra:invoke-seat": {
+  "instruction": "Purify yourself and the puja area with Gangajal and keep the deity on a yellow cloth. Light a ghee lamp and present incense to create a sacred environment for deep meditation.",
+  "status": "draft-pending-review"
+ },
+ "group:santan-gopal-mantra:main-offerings": {
+  "instruction": "Chant the Santan Gopal mantra on a tulsi mala, completing at least 108 chants, ideally at the same time every morning. Light a ghee lamp, present incense, and offer Bal Bhog made of fresh butter, sugar candy, and milk.",
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:shuddhi": {
+  "instruction": "Clean the puja area thoroughly and sprinkle Gangajal to purify it. Place the idol or picture of Goddess Saraswati on a clean platform and arrange books, musical instruments, and study materials around her.",
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:ganesha-smarana": {
+  "instruction": "Begin by worshipping Lord Ganesha to remove all obstacles from the ceremony. Light a diya with desi ghee and offer flowers.",
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:kalasha-sthapana": {
+  "instruction": "Tie a moli around a copper or brass kalash and place mango leaves around its neck. Fill it with water, add betel nuts, durva grass, and akshat, and cover it with a coconut wrapped in red cloth.",
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:invoke-seat": {
+  "instruction": "Meditate on Mata Saraswati in front of her installed statue, then invoke her before the murti by showing the Avahana Mudra (both palms joined with the thumbs folded inward). Take flowers in anjali and leave them in front of the murti to offer her a seat while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:offer-water": {
+  "instruction": "Offer water to wash Mata Saraswati's feet, then offer water for her head abhishekam. Finally offer water for achamana while reciting the mantras shown.",
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:bathe-adorn": {
+  "instruction": "Offer water to bathe Mata Saraswati and offer Her a scent bath. Then offer Moli as new clothes while reciting the mantras shown.",
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:main-offerings": {
+  "instruction": "Offer flowers, incense (dhupa), and a lamp (deepa) to Mata Saraswati. Then offer naivedya (food) and tambula of paan with betel nuts while reciting the mantras shown.",
+  "status": "draft-pending-review"
+ },
+ "group:saraswati:pradakshina": {
+  "instruction": "Offer a symbolic pradakshina, circumambulating from left to right of Mata Saraswati, with flowers while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:aarti": {
+  "instruction": "Perform the Mata Saraswati aarti while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:mantra-pushpanjali": {
+  "instruction": "Offer flowers held in anjali (both palms joined) to Mata Saraswati while reciting the mantra shown.",
+  "status": "draft-pending-review"
+ },
+ "step:saraswati:prasad-vitarana": {
+  "instruction": "After concluding the puja, distribute prasad among family members, neighbours, and friends to share the blessings widely.",
+  "status": "draft-pending-review"
+ },
+ "group:shani:bathe-adorn": {
+  "instruction": "Place the Shani idol or yantra in a clean spot, then perform Chhaya Daan by looking at your reflection in a bowl of mustard oil. Offer that oil to the deity as a symbol of surrendering your shadow and negativity.",
+  "status": "draft-pending-review"
+ },
+ "group:shani:main-offerings": {
+  "instruction": "Light a lamp using mustard oil, then offer black sesame seeds, whole black gram, and blue flowers. These offerings are believed to absorb Saturn's intense energy and bring relief to the performer.",
+  "status": "draft-pending-review"
+ },
+ "step:shani:aarti": {
+  "instruction": "Wake up early, take a bath, and wear clean, dark-coloured clothes suited to the deity. Many devotees also keep a fast from Saturday sunrise to sunset.",
+  "status": "draft-pending-review"
+ },
+ "group:shiv-puran:invoke-seat": {
+  "instruction": "Begin with a prayer to Lord Ganesha to remove obstacles, then invoke Lord Shiva's blessings with his mantra.",
+  "status": "draft-pending-review"
+ },
+ "group:shiv-puran:bathe-adorn": {
+  "instruction": "Bathe the Shivlinga with water, milk, honey, curd, and ghee while Shiva mantras are recited. Keep your puja items ready, including flowers, incense sticks, a diya, fruits, sandalwood paste, and a copy of the Shiv Puran.",
+  "status": "draft-pending-review"
+ },
+ "group:shiv-puran:main-offerings": {
+  "instruction": "Present bel leaves, flowers, and fruits to Lord Shiva while lighting incense sticks with devotion and focus.",
+  "status": "draft-pending-review"
+ },
+ "step:shiv-puran:aarti": {
+  "instruction": "Conclude the worship by performing the aarti before Lord Shiva.",
+  "status": "draft-pending-review"
+ },
+ "step:shuddhikaran:sankalpa": {
+  "instruction": "State your intention for purification as the Sankalpa.",
+  "status": "draft-pending-review"
+ },
+ "step:shuddhikaran:kalasha-sthapana": {
+  "instruction": "Sprinkle the energized Kalash water (Teertha) throughout the entire area to fill the space with positive energy.",
+  "status": "draft-pending-review"
+ },
+ "step:shuddhikaran:havan": {
+  "instruction": "Offer herbs and ghee into the consecrated fire, letting the rising smoke cleanse the surrounding environment.",
+  "status": "draft-pending-review"
+ },
+ "step:sunderkand:sankalpa": {
+  "instruction": "Take the Sankalpa in your own name and gotra.",
+  "status": "draft-pending-review"
+ },
+ "step:sunderkand:aarti": {
+  "instruction": "Perform the Aarti and distribute prasad at the conclusion of the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "step:teharavi:shuddhi": {
+  "instruction": "Begin with a complete cleaning of the house, which may involve a havan and sprinkling holy water to remove the sutak (period of impurity) following the death.",
+  "status": "draft-pending-review"
+ },
+ "group:teharavi:bathe-adorn": {
+  "instruction": "Offer items for the deceased such as clothes, umbrellas, lamps, or grain (Sajja Daan) as gifts for comfort in the afterlife.",
+  "status": "draft-pending-review"
+ },
+ "step:teharavi:katha": {
+  "instruction": "Complete the ceremony with a group prayer of peace (Shanti Path) as family and friends offer their final goodbyes, ending the formal mourning period.",
+  "status": "draft-pending-review"
+ },
+ "step:tripindi-shradh:shuddhi": {
+  "instruction": "Begin with a holy dip in a sacred river to purify your body and mind. Then take a vow to perform the rite with devotion for the ancestors' peace.",
+  "status": "draft-pending-review"
+ },
+ "step:tripindi-shradh:kalasha-sthapana": {
+  "instruction": "Place a sacred pot (Kalash) to invoke the presiding deities Lord Brahma, Lord Vishnu, and Lord Shiva.",
+  "status": "draft-pending-review"
+ },
+ "group:tripindi-shradh:offer-water": {
+  "instruction": "Offer water mixed with black sesame while the pandit chants the mantra to quench the thirst of the forefathers.",
+  "status": "draft-pending-review"
+ },
+ "group:tripindi-shradh:main-offerings": {
+  "instruction": "Offer food, clothes, or dakshina to the Brahmins, an offering believed to reach the ancestors directly and complete the cycle of karmic healing.",
+  "status": "draft-pending-review"
+ },
+ "step:tripindi-shradh:havan": {
+  "instruction": "Light a fire in the havan kund and offer items such as ghee and holy herbs while chanting the mantra to seek peace for the departed soul.",
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:sankalpa": {
+  "instruction": "Start the puja by declaring your name, gotra, and the objective of the ritual in the presence of a qualified, trained pandit.",
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:ganesha-smarana": {
+  "instruction": "Honour Lord Ganesha by offering flowers, incense, and sweets to receive his blessings so the puja proceeds without any disturbance.",
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:kalasha-sthapana": {
+  "instruction": "Fill a copper or clay pot with sacred water and place mango leaves and a coconut on top. Invoke the holy rivers into this water with the mantras to make it the spiritual centre of the puja.",
+  "status": "draft-pending-review"
+ },
+ "step:udaka-shanti:aarti": {
+  "instruction": "Have the pandit sprinkle the cleansed water over all participants using a bundle of mango leaves or darbha grass to purify the space and bring peace.",
+  "status": "draft-pending-review"
+ },
+ "step:uma-maheshwari:sankalpa": {
+  "instruction": "Clean and purify the puja altar and place an image of Shiva and Parvati together on a yellow cloth. Begin the Sankalpa by holding water in your palm and stating your name and your goal to the lord.",
+  "status": "draft-pending-review"
+ },
+ "group:uma-maheshwari:invoke-seat": {
+  "instruction": "First please Lord Ganesha by offering flowers and dhoop batti so the puja remains obstacle-free. Offer fruits, sweets, and incense sticks to Shiva and Parvati, then chant the Uma Maheshwari stotram or meditate silently on the divine couple's unified form.",
+  "status": "draft-pending-review"
+ },
+ "group:uma-maheshwari:bathe-adorn": {
+  "instruction": "Gently bathe the idols with water, milk, and honey while reciting the Shiva and Uma mantras. Then adorn them with sandalwood paste, fresh bilva leaves, and vermilion.",
+  "status": "draft-pending-review"
+ },
+ "step:uma-maheshwari:aarti": {
+  "instruction": "Conclude the worship by performing the Aarti before the images of Shiva and Parvati.",
+  "status": "draft-pending-review"
+ },
+ "step:upanayan-sanskar:shuddhi": {
+  "instruction": "Begin the morning with the purification ceremony and Ganesh Puja, followed by a special bath for the child. This bath signifies the shedding of his previous uninitiated status.",
+  "status": "draft-pending-review"
+ },
+ "group:upanayan-sanskar:invoke-seat": {
+  "instruction": "Teach the child the daily prayers and meditation he must perform. These keep the sacred thread pure and help him concentrate his mind on his studies.",
+  "status": "draft-pending-review"
+ },
+ "step:varshika-shraddha:sankalpa": {
+  "instruction": "Begin the ritual by taking a holy vow (Sankalpa). State your name, your gotra, and the goal of the ceremony to seek the presence of your ancestors.",
+  "status": "draft-pending-review"
+ },
+ "step:vastu-shanti:sankalpa": {
+  "instruction": "Begin the puja with the Sankalpa by making a solemn promise. State your name and pray for the health of your loved ones.",
+  "status": "draft-pending-review"
+ },
+ "step:vastu-shanti:ganesha-smarana": {
+  "instruction": "Offer prayers to Lord Ganesha first to remove all problems. Then perform the Navagraha (nine planetary) puja to reduce any adverse planetary effects impacting the home and its occupants.",
+  "status": "draft-pending-review"
+ },
+ "step:vastu-shanti:kalasha-sthapana": {
+  "instruction": "Set up a kalash filled with water as the ritual's key anchor, and place mango leaves and a coconut on top of it. This makes it the living centre of the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "step:vastu-shanti:navagraha-invocation": {
+  "instruction": "Perform the Navagraha (nine planetary) puja to reduce any adverse planetary effects impacting the home and its occupants.",
+  "status": "draft-pending-review"
+ },
+ "group:vastu-shanti:main-offerings": {
+  "instruction": "Pray to the spirit of the house, offering flowers, rice, and a small copper idol. This invites the power of the gods into the walls of the home.",
+  "status": "draft-pending-review"
+ },
+ "step:vastu-shanti:havan": {
+  "instruction": "Have the pandit light the holy fire for the havan. The smoke from the fire cleanses the entire house from within.",
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:muhurat": {
+  "instruction": "Consult a Hindu calendar (panchang) or a priest to choose an appropriate muhurat; Wednesday and Thursday mornings are favourable, while Saturdays and Tuesdays are avoided.",
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:sankalpa": {
+  "instruction": "Have the head of the family or a priest make the Sankalpa and invoke Ganesha, then apply a kumkum and turmeric tilak to the front or bonnet of the vehicle. Smash a coconut in front of the vehicle to represent the removal of obstacles and negative energy.",
+  "status": "draft-pending-review"
+ },
+ "group:vehicle:main-offerings": {
+  "instruction": "Wash the vehicle well and adorn it with new marigold garlands, mango leaves, and colourful ribbons.",
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:aarti": {
+  "instruction": "Place a small idol or picture of Lord Ganesha by the vehicle and keep your puja materials ready, including kumkum, turmeric, akshat, flowers, coconut, incense sticks, camphor, a diya, and betel leaves.",
+  "status": "draft-pending-review"
+ },
+ "step:vehicle:prasad-vitarana": {
+  "instruction": "Complete the puja with a lamp aarti circled around the vehicle, then distribute prasad to everyone present.",
+  "status": "draft-pending-review"
+ },
+ "step:vishwakarma:aarti": {
+  "instruction": "Clean all your equipment and take a seat facing east, then recite the mantras. Begin the aarti and light an akhanda diya.",
+  "status": "draft-pending-review"
+ },
+ "step:vishwakarma:visarjana": {
+  "instruction": "On the morning after the puja, immerse the idol of Lord Vishwakarma in water to conclude the ceremony.",
+  "status": "draft-pending-review"
+ },
+ "step:vyapar-vriddhi:sankalpa": {
+  "instruction": "Light a ghee lamp and incense sticks, and hold water, rice, and flowers in your right hand. Make a Sankalpa stating your name, your business name, and your specific goal, such as clearing debt, increasing sales, or expanding to new locations.",
+  "status": "draft-pending-review"
+ },
+ "group:vyapar-vriddhi:bathe-adorn": {
+  "instruction": "Perform the Panchamrit Abhishek (holy bath) of the Yantra and idols, then apply sandalwood paste and vermilion. Offer fresh flowers, sweets (Bhoga), and seasonal fruits while reciting your Vyapar Vriddhi Mantra or the Sri Suktam with full concentration.",
+  "status": "draft-pending-review"
+ },
+ "step:vyapar-vriddhi:aarti": {
+  "instruction": "Clean your office or shop, and in the North-East corner place a wooden platform (Chowki) covered with a fresh red cloth. Set the idols of Lord Ganesha and Goddess Lakshmi and a consecrated Vyapar Vriddhi Yantra on it.",
+  "status": "draft-pending-review"
+ }
+}

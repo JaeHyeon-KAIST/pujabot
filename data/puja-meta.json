@@ -1,0 +1,1368 @@
+{
+ "akhand-ramayan": {
+  "aliases": [
+   "akhand ramayan path",
+   "akhand ramayan"
+  ],
+  "purpose_tags": [
+   "continuous ramayana recitation",
+   "peace",
+   "harmony",
+   "family wellbeing"
+  ],
+  "deity": [
+   "rama",
+   "hanuman"
+  ],
+  "occasions": []
+ },
+ "akshaya-tritiya": {
+  "aliases": [
+   "akha teej",
+   "akshaya tritiya"
+  ],
+  "purpose_tags": [
+   "wealth",
+   "buying gold",
+   "new venture",
+   "prosperity",
+   "auspicious start"
+  ],
+  "deity": [
+   "lakshmi",
+   "vishnu"
+  ],
+  "occasions": [
+   "akshaya tritiya"
+  ]
+ },
+ "angarak-dosh": {
+  "aliases": [
+   "angarak dosha nivaran",
+   "angarak dosh"
+  ],
+  "purpose_tags": [
+   "mars dosha remedy",
+   "anger",
+   "obstacles",
+   "astrology remedy"
+  ],
+  "deity": [
+   "mangal",
+   "mars",
+   "hanuman"
+  ],
+  "occasions": []
+ },
+ "annaprashan": {
+  "aliases": [
+   "first feeding ceremony",
+   "anna prashan",
+   "annaprashan"
+  ],
+  "purpose_tags": [
+   "baby first solid food",
+   "rice feeding ceremony",
+   "infant",
+   "child sanskar",
+   "six months baby",
+   "weaning"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "antim-sanskar": {
+  "aliases": [
+   "antyeshti",
+   "antim sanskar"
+  ],
+  "purpose_tags": [
+   "last rites",
+   "funeral",
+   "cremation",
+   "death ritual"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "asthi-visarjan": {
+  "aliases": [
+   "asthi visarjan",
+   "asthi visarjan"
+  ],
+  "purpose_tags": [
+   "immersion of ashes",
+   "last rites",
+   "ganga",
+   "death ritual",
+   "departed soul"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "bharani-shraddha": {
+  "aliases": [
+   "bharani shraddha"
+  ],
+  "purpose_tags": [
+   "ancestors",
+   "shraddha",
+   "departed souls",
+   "pitru"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "bhoomi": {
+  "aliases": [
+   "bhumi pujan",
+   "bhoomi puja",
+   "bhoomi"
+  ],
+  "purpose_tags": [
+   "groundbreaking",
+   "land",
+   "construction start",
+   "new plot",
+   "foundation laying",
+   "site"
+  ],
+  "deity": [
+   "bhoomi devi",
+   "vastu purush"
+  ],
+  "occasions": []
+ },
+ "birthday": {
+  "aliases": [
+   "janamdin puja",
+   "birthday"
+  ],
+  "purpose_tags": [
+   "birthday blessings",
+   "long life",
+   "janamdin",
+   "children"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "brahmin-bhoj": {
+  "aliases": [
+   "brahman bhoj",
+   "brahmin bhoj"
+  ],
+  "purpose_tags": [
+   "feeding ritual",
+   "shraddha meal",
+   "charity",
+   "dana"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "das-mahavidya": {
+  "aliases": [
+   "dasa mahavidya",
+   "das mahavidya"
+  ],
+  "purpose_tags": [
+   "ten mahavidyas",
+   "tantra",
+   "protection",
+   "spiritual power"
+  ],
+  "deity": [
+   "kali",
+   "tara",
+   "shodashi",
+   "bhuvaneshwari",
+   "chinnamasta",
+   "bagalamukhi",
+   "matangi",
+   "kamala",
+   "dhumavati",
+   "bhairavi"
+  ],
+  "occasions": []
+ },
+ "dhanteras": {
+  "aliases": [
+   "dhantrayodashi",
+   "dhanteras"
+  ],
+  "purpose_tags": [
+   "wealth",
+   "buying gold",
+   "buying utensils",
+   "health",
+   "prosperity"
+  ],
+  "deity": [
+   "lakshmi",
+   "kubera",
+   "dhanvantari"
+  ],
+  "occasions": [
+   "dhanteras",
+   "diwali"
+  ]
+ },
+ "diwali": {
+  "aliases": [
+   "deepavali",
+   "diwali lakshmi puja",
+   "diwali"
+  ],
+  "purpose_tags": [
+   "wealth",
+   "prosperity",
+   "festival of lights",
+   "new account books",
+   "lakshmi puja"
+  ],
+  "deity": [
+   "lakshmi",
+   "ganesha"
+  ],
+  "occasions": [
+   "diwali",
+   "deepavali",
+   "amavasya"
+  ]
+ },
+ "durga": {
+  "aliases": [
+   "durga saptashati",
+   "durga"
+  ],
+  "purpose_tags": [
+   "protection",
+   "strength",
+   "victory over evil",
+   "negative energy removal"
+  ],
+  "deity": [
+   "durga",
+   "devi",
+   "shakti"
+  ],
+  "occasions": [
+   "navratri",
+   "durga ashtami"
+  ]
+ },
+ "ekadashi-vrat-udyapan": {
+  "aliases": [
+   "ekadashi vrat udyapan"
+  ],
+  "purpose_tags": [
+   "fast completion",
+   "vrat udyapan",
+   "ekadashi fasting"
+  ],
+  "deity": [
+   "vishnu"
+  ],
+  "occasions": [
+   "ekadashi"
+  ]
+ },
+ "engagement": {
+  "aliases": [
+   "sagai",
+   "roka",
+   "engagement"
+  ],
+  "purpose_tags": [
+   "betrothal",
+   "ring ceremony",
+   "wedding preparation",
+   "couple"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "gand-mool-nakshatra": {
+  "aliases": [
+   "gandmool shanti",
+   "gand mool nakshatra"
+  ],
+  "purpose_tags": [
+   "inauspicious birth star",
+   "newborn",
+   "nakshatra dosha",
+   "astrology remedy"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "ganesh": {
+  "aliases": [
+   "ganpati puja",
+   "ganesh"
+  ],
+  "purpose_tags": [
+   "obstacle removal",
+   "new beginnings",
+   "success",
+   "wisdom",
+   "before starting work"
+  ],
+  "deity": [
+   "ganesha",
+   "ganapati",
+   "vinayaka"
+  ],
+  "occasions": []
+ },
+ "ganesh-chaturthi": {
+  "aliases": [
+   "vinayaka chavithi",
+   "ganeshotsav",
+   "ganesh chaturthi"
+  ],
+  "purpose_tags": [
+   "obstacle removal",
+   "festival",
+   "idol installation",
+   "visarjan"
+  ],
+  "deity": [
+   "ganesha",
+   "ganapati",
+   "vinayaka"
+  ],
+  "occasions": [
+   "ganesh chaturthi"
+  ]
+ },
+ "garud-puran": {
+  "aliases": [
+   "garuda purana path",
+   "garud puran"
+  ],
+  "purpose_tags": [
+   "death rites",
+   "mourning period recitation",
+   "departed soul",
+   "13 days"
+  ],
+  "deity": [
+   "vishnu",
+   "garuda"
+  ],
+  "occasions": []
+ },
+ "gauri-ganesh": {
+  "aliases": [
+   "gauri ganpati",
+   "gauri ganesh"
+  ],
+  "purpose_tags": [
+   "marriage blessings",
+   "family harmony",
+   "auspicious start"
+  ],
+  "deity": [
+   "gauri",
+   "parvati",
+   "ganesha"
+  ],
+  "occasions": []
+ },
+ "gayatri-mantra": {
+  "aliases": [
+   "gayatri jaap",
+   "gayatri mantra"
+  ],
+  "purpose_tags": [
+   "japa",
+   "wisdom",
+   "concentration",
+   "students",
+   "daily practice"
+  ],
+  "deity": [
+   "gayatri",
+   "savitr"
+  ],
+  "occasions": []
+ },
+ "godh-bharai-ceremony": {
+  "aliases": [
+   "godh bharai",
+   "seemantham",
+   "godh bharai ceremony"
+  ],
+  "purpose_tags": [
+   "baby shower",
+   "pregnancy blessings",
+   "expecting mother",
+   "seventh month"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "govardhan": {
+  "aliases": [
+   "govardhan puja",
+   "annakut puja",
+   "govardhan"
+  ],
+  "purpose_tags": [
+   "annakut",
+   "gratitude",
+   "cattle",
+   "nature"
+  ],
+  "deity": [
+   "krishna",
+   "govardhan"
+  ],
+  "occasions": [
+   "govardhan puja",
+   "day after diwali"
+  ]
+ },
+ "hanuman-chalisa": {
+  "aliases": [
+   "hanuman chalisa path",
+   "hanuman chalisa"
+  ],
+  "purpose_tags": [
+   "strength",
+   "courage",
+   "protection",
+   "fear removal",
+   "obstacle removal",
+   "chalisa recitation"
+  ],
+  "deity": [
+   "hanuman",
+   "bajrangbali"
+  ],
+  "occasions": [
+   "tuesday",
+   "saturday"
+  ]
+ },
+ "hanuman-janmotsav": {
+  "aliases": [
+   "hanuman jayanti",
+   "hanuman janmotsav"
+  ],
+  "purpose_tags": [
+   "strength",
+   "courage",
+   "protection"
+  ],
+  "deity": [
+   "hanuman",
+   "bajrangbali"
+  ],
+  "occasions": [
+   "hanuman jayanti"
+  ]
+ },
+ "holika": {
+  "aliases": [
+   "holika dahan",
+   "holika"
+  ],
+  "purpose_tags": [
+   "bonfire",
+   "evil burning",
+   "protection"
+  ],
+  "deity": [
+   "vishnu",
+   "prahlad"
+  ],
+  "occasions": [
+   "holi",
+   "holika dahan"
+  ]
+ },
+ "kaal-sarp-dosh": {
+  "aliases": [
+   "kalsarp dosh nivaran",
+   "kaal sarp dosh"
+  ],
+  "purpose_tags": [
+   "kaal sarp dosha remedy",
+   "obstacles",
+   "delays",
+   "astrology remedy",
+   "snake dosha"
+  ],
+  "deity": [
+   "rahu",
+   "ketu",
+   "shiva"
+  ],
+  "occasions": []
+ },
+ "kali": {
+  "aliases": [
+   "kali puja",
+   "shyama puja",
+   "kali"
+  ],
+  "purpose_tags": [
+   "protection",
+   "enemy removal",
+   "fierce goddess",
+   "negative energy"
+  ],
+  "deity": [
+   "kali",
+   "mahakali",
+   "devi"
+  ],
+  "occasions": [
+   "kali puja",
+   "diwali night"
+  ]
+ },
+ "karnavedha-sanskar": {
+  "aliases": [
+   "karnavedha",
+   "karnavedha sanskar"
+  ],
+  "purpose_tags": [
+   "ear piercing",
+   "baby",
+   "child sanskar"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "karwa-chauth": {
+  "aliases": [
+   "karva chauth",
+   "karwa chauth"
+  ],
+  "purpose_tags": [
+   "married women fast",
+   "husband long life",
+   "moon sighting"
+  ],
+  "deity": [
+   "parvati",
+   "shiva",
+   "karwa mata"
+  ],
+  "occasions": [
+   "karwa chauth"
+  ]
+ },
+ "krishna-janmashtami": {
+  "aliases": [
+   "janmashtami",
+   "gokulashtami",
+   "krishna janmashtami"
+  ],
+  "purpose_tags": [
+   "midnight birth celebration",
+   "fasting",
+   "jhula"
+  ],
+  "deity": [
+   "krishna",
+   "bal gopal"
+  ],
+  "occasions": [
+   "janmashtami"
+  ]
+ },
+ "kuber-upasana": {
+  "aliases": [
+   "kuber puja",
+   "kuber upasana"
+  ],
+  "purpose_tags": [
+   "wealth",
+   "treasure",
+   "business prosperity",
+   "money"
+  ],
+  "deity": [
+   "kubera",
+   "lakshmi"
+  ],
+  "occasions": [
+   "dhanteras",
+   "diwali"
+  ]
+ },
+ "lakshmi-ganesh": {
+  "aliases": [
+   "laxmi ganesh puja",
+   "lakshmi ganesh"
+  ],
+  "purpose_tags": [
+   "wealth",
+   "success",
+   "prosperity",
+   "business",
+   "diwali puja"
+  ],
+  "deity": [
+   "lakshmi",
+   "ganesha"
+  ],
+  "occasions": [
+   "diwali"
+  ]
+ },
+ "lakshmi-narasimha": {
+  "aliases": [
+   "lakshmi narasimha homam",
+   "lakshmi narasimha"
+  ],
+  "purpose_tags": [
+   "protection",
+   "prosperity",
+   "fear removal"
+  ],
+  "deity": [
+   "narasimha",
+   "lakshmi",
+   "vishnu"
+  ],
+  "occasions": []
+ },
+ "maha-mrityunjaya": {
+  "aliases": [
+   "mahamrityunjaya jaap",
+   "mrityunjaya japa",
+   "maha mrityunjaya"
+  ],
+  "purpose_tags": [
+   "health",
+   "illness recovery",
+   "longevity",
+   "life-threatening disease",
+   "fear of death",
+   "healing"
+  ],
+  "deity": [
+   "shiva",
+   "mrityunjaya"
+  ],
+  "occasions": []
+ },
+ "maha-shivaratri": {
+  "aliases": [
+   "mahashivratri",
+   "shivratri",
+   "maha shivaratri"
+  ],
+  "purpose_tags": [
+   "night vigil",
+   "fasting",
+   "four prahar puja",
+   "shiva worship"
+  ],
+  "deity": [
+   "shiva",
+   "mahadev",
+   "bholenath"
+  ],
+  "occasions": [
+   "maha shivaratri"
+  ]
+ },
+ "mahalakshmi": {
+  "aliases": [
+   "mahalaxmi puja",
+   "mahalakshmi"
+  ],
+  "purpose_tags": [
+   "wealth",
+   "prosperity",
+   "abundance"
+  ],
+  "deity": [
+   "lakshmi",
+   "mahalakshmi"
+  ],
+  "occasions": [
+   "varalakshmi",
+   "friday"
+  ]
+ },
+ "mangal-bhat": {
+  "aliases": [
+   "mangal bhat puja",
+   "mangal bhat"
+  ],
+  "purpose_tags": [
+   "manglik dosha",
+   "marriage delay remedy",
+   "astrology remedy"
+  ],
+  "deity": [
+   "mangal",
+   "mars"
+  ],
+  "occasions": []
+ },
+ "mangal-dosh-nivaran": {
+  "aliases": [
+   "manglik dosh nivaran",
+   "mangal dosh nivaran"
+  ],
+  "purpose_tags": [
+   "manglik dosha remedy",
+   "marriage obstacles",
+   "astrology remedy"
+  ],
+  "deity": [
+   "mangal",
+   "mars"
+  ],
+  "occasions": []
+ },
+ "marriage": {
+  "aliases": [
+   "vivah sanskar",
+   "hindu wedding",
+   "marriage"
+  ],
+  "purpose_tags": [
+   "wedding ceremony",
+   "vivah",
+   "couple",
+   "saat phere",
+   "kanyadaan"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "marriage-anniversary": {
+  "aliases": [
+   "wedding anniversary puja",
+   "marriage anniversary"
+  ],
+  "purpose_tags": [
+   "anniversary blessings",
+   "couple harmony",
+   "long married life"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "mundan-sanskar": {
+  "aliases": [
+   "mundan ceremony",
+   "chudakarana",
+   "mundan sanskar"
+  ],
+  "purpose_tags": [
+   "first haircut",
+   "tonsure",
+   "baby",
+   "child sanskar",
+   "first birthday",
+   "toddler"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "nakshatra-shanti": {
+  "aliases": [
+   "nakshatra shanti"
+  ],
+  "purpose_tags": [
+   "birth star pacification",
+   "astrology remedy",
+   "nakshatra dosha"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "namkaran": {
+  "aliases": [
+   "namkaran sanskar",
+   "naamkaran",
+   "namkaran"
+  ],
+  "purpose_tags": [
+   "naming ceremony",
+   "newborn baby",
+   "baby name",
+   "child sanskar",
+   "after birth",
+   "birth of baby",
+   "newborn",
+   "baby boy",
+   "baby girl"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "navagraha-shanti": {
+  "aliases": [
+   "navgraha shanti",
+   "navagraha shanti"
+  ],
+  "purpose_tags": [
+   "planet pacification",
+   "graha dosha",
+   "astrology remedy",
+   "horoscope"
+  ],
+  "deity": [
+   "navagraha",
+   "nine planets"
+  ],
+  "occasions": []
+ },
+ "navgraha": {
+  "aliases": [
+   "navagraha puja",
+   "navgraha"
+  ],
+  "purpose_tags": [
+   "planet worship",
+   "graha dosha",
+   "astrology remedy"
+  ],
+  "deity": [
+   "navagraha",
+   "nine planets"
+  ],
+  "occasions": []
+ },
+ "navratri": {
+  "aliases": [
+   "navaratri",
+   "durga puja",
+   "navratri"
+  ],
+  "purpose_tags": [
+   "nine nights",
+   "ghatasthapana",
+   "kanya pujan",
+   "fasting"
+  ],
+  "deity": [
+   "durga",
+   "devi",
+   "nine forms"
+  ],
+  "occasions": [
+   "navratri"
+  ]
+ },
+ "narayan-bali": {
+  "aliases": [
+   "narayan bali nagbali",
+   "narayan bali"
+  ],
+  "purpose_tags": [
+   "unnatural death rites",
+   "pitru dosha",
+   "ancestral peace",
+   "departed soul"
+  ],
+  "deity": [
+   "vishnu",
+   "yama"
+  ],
+  "occasions": []
+ },
+ "nishkraman-sanskar": {
+  "aliases": [
+   "nishkramana",
+   "nishkraman sanskar"
+  ],
+  "purpose_tags": [
+   "baby first outing",
+   "child sanskar",
+   "infant"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "office-opening": {
+  "aliases": [
+   "office opening puja",
+   "shop puja",
+   "office opening"
+  ],
+  "purpose_tags": [
+   "new office",
+   "business opening",
+   "shop opening",
+   "inauguration",
+   "new venture",
+   "success"
+  ],
+  "deity": [
+   "ganesha",
+   "lakshmi"
+  ],
+  "occasions": []
+ },
+ "pind-daan": {
+  "aliases": [
+   "pind daan",
+   "pind daan"
+  ],
+  "purpose_tags": [
+   "ancestors",
+   "gaya shraddha",
+   "departed souls",
+   "pitru"
+  ],
+  "deity": [],
+  "occasions": [
+   "pitru paksha"
+  ]
+ },
+ "pitru-dosh": {
+  "aliases": [
+   "pitra dosh nivaran",
+   "pitru dosh"
+  ],
+  "purpose_tags": [
+   "ancestral dosha remedy",
+   "pitru dosha",
+   "ancestors",
+   "astrology remedy"
+  ],
+  "deity": [],
+  "occasions": [
+   "pitru paksha",
+   "amavasya"
+  ]
+ },
+ "pitru-paksha-shradh": {
+  "aliases": [
+   "shradh",
+   "pitru paksha shraddha",
+   "pitru paksha shradh"
+  ],
+  "purpose_tags": [
+   "ancestors fortnight",
+   "shraddha",
+   "tarpan",
+   "departed souls"
+  ],
+  "deity": [],
+  "occasions": [
+   "pitru paksha"
+  ]
+ },
+ "purnima-vrat-udyapan": {
+  "aliases": [
+   "purnima vrat udyapan"
+  ],
+  "purpose_tags": [
+   "full moon fast completion",
+   "vrat udyapan"
+  ],
+  "deity": [
+   "vishnu",
+   "satyanarayan"
+  ],
+  "occasions": [
+   "purnima",
+   "full moon"
+  ]
+ },
+ "putrakameshti": {
+  "aliases": [
+   "putrakameshti yagya",
+   "putrakameshti"
+  ],
+  "purpose_tags": [
+   "progeny",
+   "childbirth desire",
+   "conceiving",
+   "yajna for child"
+  ],
+  "deity": [
+   "vishnu",
+   "agni"
+  ],
+  "occasions": []
+ },
+ "rahu-ketu-shanti": {
+  "aliases": [
+   "rahu ketu puja",
+   "rahu ketu shanti"
+  ],
+  "purpose_tags": [
+   "shadow planets pacification",
+   "astrology remedy",
+   "eclipse dosha"
+  ],
+  "deity": [
+   "rahu",
+   "ketu"
+  ],
+  "occasions": []
+ },
+ "ram-navami": {
+  "aliases": [
+   "rama navami",
+   "ram navami"
+  ],
+  "purpose_tags": [
+   "rama birth celebration",
+   "fasting"
+  ],
+  "deity": [
+   "rama",
+   "sita"
+  ],
+  "occasions": [
+   "ram navami"
+  ]
+ },
+ "rin-mukti": {
+  "aliases": [
+   "rin mukti puja",
+   "runa vimochana",
+   "rin mukti"
+  ],
+  "purpose_tags": [
+   "debt relief",
+   "loan freedom",
+   "financial troubles"
+  ],
+  "deity": [
+   "shiva",
+   "mangal"
+  ],
+  "occasions": []
+ },
+ "rudrabhishek": {
+  "aliases": [
+   "rudra abhishek",
+   "rudrabhishekam",
+   "rudrabhishek"
+  ],
+  "purpose_tags": [
+   "abhishek",
+   "health",
+   "prosperity",
+   "obstacle removal",
+   "shiva worship at home"
+  ],
+  "deity": [
+   "shiva",
+   "rudra",
+   "mahadev",
+   "bholenath"
+  ],
+  "occasions": [
+   "shravan",
+   "monday",
+   "maha shivaratri"
+  ]
+ },
+ "santan-gopal-mantra": {
+  "aliases": [
+   "santan gopal jaap",
+   "santan gopal mantra"
+  ],
+  "purpose_tags": [
+   "child conception",
+   "progeny blessing",
+   "childless couple",
+   "baby wish"
+  ],
+  "deity": [
+   "krishna",
+   "bal gopal"
+  ],
+  "occasions": []
+ },
+ "saraswati": {
+  "aliases": [
+   "saraswati vandana",
+   "saraswati"
+  ],
+  "purpose_tags": [
+   "education",
+   "exams",
+   "knowledge",
+   "students",
+   "music",
+   "arts",
+   "learning"
+  ],
+  "deity": [
+   "saraswati"
+  ],
+  "occasions": [
+   "vasant panchami"
+  ]
+ },
+ "shani": {
+  "aliases": [
+   "shani dev puja",
+   "shani shanti",
+   "shani"
+  ],
+  "purpose_tags": [
+   "sade sati",
+   "saturn remedy",
+   "astrology remedy",
+   "hardship relief"
+  ],
+  "deity": [
+   "shani",
+   "saturn"
+  ],
+  "occasions": [
+   "saturday",
+   "shani jayanti"
+  ]
+ },
+ "shiv-puran": {
+  "aliases": [
+   "shiv puran katha",
+   "shiv puran"
+  ],
+  "purpose_tags": [
+   "shiva purana recitation",
+   "katha",
+   "spiritual merit"
+  ],
+  "deity": [
+   "shiva",
+   "mahadev"
+  ],
+  "occasions": [
+   "shravan"
+  ]
+ },
+ "shuddhikaran": {
+  "aliases": [
+   "shuddhi karan",
+   "shuddhikaran"
+  ],
+  "purpose_tags": [
+   "purification",
+   "cleansing",
+   "impurity removal"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "sunderkand": {
+  "aliases": [
+   "sunderkand path",
+   "sundara kanda",
+   "sunderkand"
+  ],
+  "purpose_tags": [
+   "sunderkand recitation",
+   "obstacle removal",
+   "courage",
+   "crisis relief"
+  ],
+  "deity": [
+   "hanuman",
+   "rama"
+  ],
+  "occasions": [
+   "tuesday",
+   "saturday"
+  ]
+ },
+ "teharavi": {
+  "aliases": [
+   "terahvin",
+   "teharavi"
+  ],
+  "purpose_tags": [
+   "13th day death rite",
+   "mourning completion",
+   "departed soul"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "tripindi-shradh": {
+  "aliases": [
+   "tripindi shraddha",
+   "tripindi shradh"
+  ],
+  "purpose_tags": [
+   "ancestral unrest",
+   "three generations shraddha",
+   "pitru dosha"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "udaka-shanti": {
+  "aliases": [
+   "udaka shanti homam",
+   "udaka shanti"
+  ],
+  "purpose_tags": [
+   "water peace ritual",
+   "purification",
+   "new home",
+   "health"
+  ],
+  "deity": [
+   "varuna"
+  ],
+  "occasions": []
+ },
+ "uma-maheshwari": {
+  "aliases": [
+   "uma maheshwari vratam",
+   "uma maheshwari"
+  ],
+  "purpose_tags": [
+   "marital harmony",
+   "couple blessing",
+   "early marriage"
+  ],
+  "deity": [
+   "uma",
+   "parvati",
+   "shiva",
+   "maheshwara"
+  ],
+  "occasions": []
+ },
+ "upanayan-sanskar": {
+  "aliases": [
+   "upanayana",
+   "janeu sanskar",
+   "thread ceremony",
+   "upanayan sanskar"
+  ],
+  "purpose_tags": [
+   "sacred thread ceremony",
+   "janeu",
+   "child sanskar",
+   "education start"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "varshika-shraddha": {
+  "aliases": [
+   "barsi",
+   "varshika shraddha"
+  ],
+  "purpose_tags": [
+   "death anniversary",
+   "yearly shraddha",
+   "departed soul"
+  ],
+  "deity": [],
+  "occasions": []
+ },
+ "vastu-shanti": {
+  "aliases": [
+   "vastu dosh nivaran",
+   "vastu puja",
+   "vastu shanti"
+  ],
+  "purpose_tags": [
+   "vastu dosha correction",
+   "home energy",
+   "new home",
+   "peace at home"
+  ],
+  "deity": [
+   "vastu purush"
+  ],
+  "occasions": []
+ },
+ "vehicle": {
+  "aliases": [
+   "vahan puja",
+   "car puja",
+   "bike puja",
+   "new vehicle puja",
+   "vehicle"
+  ],
+  "purpose_tags": [
+   "new car",
+   "new bike",
+   "vahan",
+   "safe driving",
+   "accident protection"
+  ],
+  "deity": [
+   "ganesha"
+  ],
+  "occasions": []
+ },
+ "vishwakarma": {
+  "aliases": [
+   "vishwakarma puja",
+   "vishwakarma"
+  ],
+  "purpose_tags": [
+   "tools",
+   "machinery",
+   "factory",
+   "workshop",
+   "craftsmen",
+   "engineers"
+  ],
+  "deity": [
+   "vishwakarma"
+  ],
+  "occasions": [
+   "vishwakarma jayanti"
+  ]
+ },
+ "vyapar-vriddhi": {
+  "aliases": [
+   "vyapar vriddhi puja",
+   "business puja",
+   "vyapar vriddhi"
+  ],
+  "purpose_tags": [
+   "business growth",
+   "shop sales",
+   "trade prosperity",
+   "profit increase",
+   "success in business"
+  ],
+  "deity": [
+   "lakshmi",
+   "ganesha",
+   "kubera"
+  ],
+  "occasions": [
+   "diwali",
+   "akshaya tritiya"
+  ]
+ },
+ "satyanarayan": {
+  "aliases": [],
+  "purpose_tags": [],
+  "deity": [
+   "vishnu",
+   "satyanarayan",
+   "narayana"
+  ],
+  "occasions": []
+ },
+ "griha-pravesh": {
+  "aliases": [],
+  "purpose_tags": [],
+  "deity": [
+   "ganesha",
+   "vastu purush"
+  ],
+  "occasions": []
+ }
+}
