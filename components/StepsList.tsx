@@ -1,34 +1,34 @@
 /**
- * Follow-along ritual guide: every step's explanation stays visible —
- * this screen is read DURING the puja, so nothing opens, closes, or toggles.
+ * Compact numbered overview of the ritual — one line per step, read BEFORE
+ * the puja to see the shape of the day. The full, follow-along walk-through
+ * (pictures, mantras, audio) lives on the step-by-step guide.
  */
-import StepIcon from "./StepIcon";
+import { Fragment } from "react";
+import { Hairline } from "./ui";
 
 export default function StepsList({
   steps,
 }: {
-  steps: { sanskrit: string; en: string; detail: string }[];
+  steps: { n?: number; title: string; sub: string; dur: string }[];
 }) {
   return (
-    <div className="relative flex flex-col gap-5">
-      {/* timeline through the icon tiles: 16px number + 12px gap + half tile (28px) */}
-      <span
-        aria-hidden
-        className="absolute bottom-7 top-7 w-px bg-hairgold"
-        style={{ left: "55px" }}
-      />
+    <div className="flex flex-col">
       {steps.map((s, i) => (
-        <div key={s.sanskrit} className="relative flex items-start gap-3">
-          <span className="mt-4 w-4 flex-none font-disp text-[15px] font-bold text-goldink">
-            {i + 1}
-          </span>
-          <StepIcon name={s.sanskrit} />
-          <div className="min-w-0 flex-1">
-            <div className="font-semibold text-maroon">{s.sanskrit}</div>
-            <div className="text-[13px] text-inksoft">{s.en}</div>
-            <p className="mt-1 text-[13px] leading-[1.55]">{s.detail}</p>
+        <Fragment key={s.n ?? i}>
+          {i > 0 && <Hairline />}
+          <div className="flex items-start gap-3 py-2.5">
+            <span className="w-5 flex-none font-disp text-[15px] font-bold text-goldink">
+              {s.n ?? i + 1}
+            </span>
+            <div className="min-w-0 flex-1">
+              <div className="font-semibold text-maroon">{s.title}</div>
+              <div className="text-[13px] text-inksoft">{s.sub}</div>
+            </div>
+            <span className="flex-none pl-2 text-[12px] text-inksoft">
+              {s.dur}
+            </span>
           </div>
-        </div>
+        </Fragment>
       ))}
     </div>
   );

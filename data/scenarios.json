@@ -3,9 +3,24 @@
     "id": "new-business",
     "label": "New business",
     "sampleInput": "I'm starting a new business. I want to invoke peace and prosperity for my family.",
-    "keywords": ["new business", "business", "starting", "venture", "startup", "shop opening", "new office", "company"],
+    "keywords": [
+      "new business",
+      "business",
+      "starting",
+      "venture",
+      "startup",
+      "shop opening",
+      "new office",
+      "company"
+    ],
     "city": "bengaluru",
-    "chips": ["New business", "Smartism", "North", "₹3–7K", "Hindi"],
+    "chips": [
+      "New business",
+      "Smartism",
+      "North",
+      "₹3–7K",
+      "Hindi"
+    ],
     "traditionChip": "Smartism",
     "pujaId": "satyanarayan",
     "matchBadge": "Smartism · North matched",
@@ -22,18 +37,45 @@
       "pujaId": "lakshmi-ganesh",
       "reason": "Lakshmi-Ganesh Puja — if your focus is specifically wealth and removing business obstacles."
     },
-    "panditIds": ["ramakrishna-sastry", "ramanathan-iyer", "venkatesh-murthy", "suresh-tiwari", "mahesh-bhat", "krishnamurthy-shastri"],
+    "panditIds": [
+      "ramakrishna-sastry",
+      "ramanathan-iyer",
+      "venkatesh-murthy",
+      "suresh-tiwari",
+      "mahesh-bhat",
+      "krishnamurthy-shastri"
+    ],
     "bestPanditId": "ramakrishna-sastry",
-    "budgetRange": [3000, 7000],
-    "sankalpaPrefill": "For peace and prosperity as we begin our new business"
+    "budgetRange": [
+      3000,
+      7000
+    ],
+    "sankalpaPrefill": "For peace and prosperity as we begin our new business",
+    "deity": "Vishnu",
+    "state": "Karnataka"
   },
   {
     "id": "new-home",
     "label": "New home",
     "sampleInput": "We just moved into a new flat in HSR Layout.",
-    "keywords": ["new flat", "new house", "new home", "moved", "moving in", "housewarming", "griha pravesh", "apartment", "flat"],
+    "keywords": [
+      "new flat",
+      "new house",
+      "new home",
+      "moved",
+      "moving in",
+      "housewarming",
+      "griha pravesh",
+      "apartment",
+      "flat"
+    ],
     "city": "bengaluru",
-    "chips": ["New home", "South", "₹7–15K", "Kannada"],
+    "chips": [
+      "New home",
+      "South",
+      "₹7–15K",
+      "Kannada"
+    ],
     "traditionChip": "Smartism",
     "pujaId": "griha-pravesh",
     "matchBadge": "South · Bengaluru matched",
@@ -50,18 +92,45 @@
       "pujaId": "satyanarayan",
       "reason": "Satyanarayan Puja — many families add it the same day as a gratitude ritual."
     },
-    "panditIds": ["ramakrishna-sastry", "venkatesh-murthy", "ramanathan-iyer", "suresh-tiwari", "mahesh-bhat", "krishnamurthy-shastri"],
+    "panditIds": [
+      "ramakrishna-sastry",
+      "venkatesh-murthy",
+      "ramanathan-iyer",
+      "suresh-tiwari",
+      "mahesh-bhat",
+      "krishnamurthy-shastri"
+    ],
     "bestPanditId": "ramakrishna-sastry",
-    "budgetRange": [7000, 15000],
-    "sankalpaPrefill": "For lasting peace and happiness in our new home"
+    "budgetRange": [
+      7000,
+      15000
+    ],
+    "sankalpaPrefill": "For lasting peace and happiness in our new home",
+    "deity": "Ganesha",
+    "state": "Karnataka"
   },
   {
     "id": "health",
     "label": "Health & recovery",
     "sampleInput": "My father is having surgery next month. I want to pray for his health.",
-    "keywords": ["health", "surgery", "hospital", "illness", "recovery", "sick", "operation", "healing", "unwell"],
+    "keywords": [
+      "health",
+      "surgery",
+      "hospital",
+      "illness",
+      "recovery",
+      "sick",
+      "operation",
+      "healing",
+      "unwell"
+    ],
     "city": "delhi",
-    "chips": ["Health & recovery", "North", "Under ₹3K", "Hindi"],
+    "chips": [
+      "Health & recovery",
+      "North",
+      "Under ₹3K",
+      "Hindi"
+    ],
     "traditionChip": "North Indian",
     "pujaId": "maha-mrityunjaya",
     "matchBadge": "North · Delhi matched",
@@ -78,18 +147,44 @@
       "pujaId": "satyanarayan",
       "reason": "Satyanarayan Puja — a gratitude ceremony once recovery is underway."
     },
-    "panditIds": ["om-prakash-tripathi", "rajesh-shastri", "krishna-kumar-pandey", "girish-joshi", "vishnu-dutt-sharma", "devendra-mishra"],
+    "panditIds": [
+      "om-prakash-tripathi",
+      "rajesh-shastri",
+      "krishna-kumar-pandey",
+      "girish-joshi",
+      "vishnu-dutt-sharma",
+      "devendra-mishra"
+    ],
     "bestPanditId": "om-prakash-tripathi",
-    "budgetRange": [0, 3000],
-    "sankalpaPrefill": "For my father's healing, protection, and full recovery"
+    "budgetRange": [
+      0,
+      3000
+    ],
+    "sankalpaPrefill": "For my father's healing, protection, and full recovery",
+    "deity": "Shiva",
+    "state": "Delhi"
   },
   {
     "id": "new-job",
     "label": "New beginning",
     "sampleInput": "New job — I want to start it right.",
-    "keywords": ["new job", "job", "first day", "joining", "promotion", "career", "exam", "interview"],
+    "keywords": [
+      "new job",
+      "job",
+      "first day",
+      "joining",
+      "promotion",
+      "career",
+      "exam",
+      "interview"
+    ],
     "city": "delhi",
-    "chips": ["New beginning", "North", "Under ₹3K", "English"],
+    "chips": [
+      "New beginning",
+      "North",
+      "Under ₹3K",
+      "English"
+    ],
     "traditionChip": "North Indian",
     "pujaId": "ganesh",
     "matchBadge": "North · Delhi matched",
@@ -106,10 +201,22 @@
       "pujaId": "satyanarayan",
       "reason": "Satyanarayan Puja — if the family wants a fuller gratitude ceremony."
     },
-    "panditIds": ["girish-joshi", "rajesh-shastri", "om-prakash-tripathi", "krishna-kumar-pandey", "vishnu-dutt-sharma", "devendra-mishra"],
+    "panditIds": [
+      "girish-joshi",
+      "rajesh-shastri",
+      "om-prakash-tripathi",
+      "krishna-kumar-pandey",
+      "vishnu-dutt-sharma",
+      "devendra-mishra"
+    ],
     "bestPanditId": "girish-joshi",
-    "budgetRange": [0, 3000],
-    "sankalpaPrefill": "For a strong, obstacle-free start in my new role"
+    "budgetRange": [
+      0,
+      3000
+    ],
+    "sankalpaPrefill": "For a strong, obstacle-free start in my new role",
+    "deity": "Ganesha",
+    "state": "Delhi"
   },
   {
     "id": "general",
@@ -117,7 +224,11 @@
     "sampleInput": "I want blessings for my family.",
     "keywords": [],
     "city": "bengaluru",
-    "chips": ["Blessing & well-being", "₹3–7K", "Hindi"],
+    "chips": [
+      "Blessing & well-being",
+      "₹3–7K",
+      "Hindi"
+    ],
     "traditionChip": "Smartism",
     "pujaId": "satyanarayan",
     "matchBadge": "General blessing · closest reviewed match",
@@ -134,18 +245,46 @@
       "pujaId": "ganesh",
       "reason": "Ganesh Puja — a shorter blessing if this is about one specific new beginning."
     },
-    "panditIds": ["ramakrishna-sastry", "ramanathan-iyer", "venkatesh-murthy", "suresh-tiwari", "mahesh-bhat", "krishnamurthy-shastri"],
+    "panditIds": [
+      "ramakrishna-sastry",
+      "ramanathan-iyer",
+      "venkatesh-murthy",
+      "suresh-tiwari",
+      "mahesh-bhat",
+      "krishnamurthy-shastri"
+    ],
     "bestPanditId": "ramakrishna-sastry",
-    "budgetRange": [3000, 7000],
-    "sankalpaPrefill": "For the well-being and happiness of my family"
+    "budgetRange": [
+      3000,
+      7000
+    ],
+    "sankalpaPrefill": "For the well-being and happiness of my family",
+    "deity": "Vishnu",
+    "state": "Karnataka"
   },
   {
     "id": "prosperity",
     "label": "Prosperity",
     "sampleInput": "Business has been slow lately, money is stuck.",
-    "keywords": ["slow", "stuck", "money", "cash", "finance", "financial", "debt", "sales", "loss", "wealth"],
+    "keywords": [
+      "slow",
+      "stuck",
+      "money",
+      "cash",
+      "finance",
+      "financial",
+      "debt",
+      "sales",
+      "loss",
+      "wealth"
+    ],
     "city": "bengaluru",
-    "chips": ["Prosperity", "South", "₹3–7K", "Hindi"],
+    "chips": [
+      "Prosperity",
+      "South",
+      "₹3–7K",
+      "Hindi"
+    ],
     "traditionChip": "Smartism",
     "pujaId": "lakshmi-ganesh",
     "matchBadge": "South · Bengaluru matched",
@@ -162,9 +301,21 @@
       "pujaId": "satyanarayan",
       "reason": "Satyanarayan Puja — a broader gratitude-and-blessing ritual for the whole family."
     },
-    "panditIds": ["suresh-tiwari", "ramakrishna-sastry", "ramanathan-iyer", "venkatesh-murthy", "mahesh-bhat", "krishnamurthy-shastri"],
+    "panditIds": [
+      "suresh-tiwari",
+      "ramakrishna-sastry",
+      "ramanathan-iyer",
+      "venkatesh-murthy",
+      "mahesh-bhat",
+      "krishnamurthy-shastri"
+    ],
     "bestPanditId": "suresh-tiwari",
-    "budgetRange": [3000, 7000],
-    "sankalpaPrefill": "For the revival of our business and steady prosperity at home"
+    "budgetRange": [
+      3000,
+      7000
+    ],
+    "sankalpaPrefill": "For the revival of our business and steady prosperity at home",
+    "deity": "Lakshmi",
+    "state": "Karnataka"
   }
 ]

@@ -2,8 +2,15 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { ArrowRight, Check, Diya } from "@/components/icons";
-import { Chip, FooterNote } from "@/components/ui";
+import {
+  ArrowRight,
+  Check,
+  ChevronDown,
+  Diya,
+  Pin,
+  Search,
+} from "@/components/icons";
+import { Chip, FooterNote, Hairline } from "@/components/ui";
 import { matchScenario } from "@/lib/matchScenario";
 import { scenarios } from "@/lib/data";
 import { logEvent } from "@/lib/analytics";
@@ -14,24 +21,31 @@ const TRY_CHIPS: { label: string; scenarioId: string }[] = [
   { label: "Starting a new job", scenarioId: "new-job" },
 ];
 
-const BUDGETS = ["Under ₹3K", "₹3–7K", "₹7–15K", "₹15K+"];
-const LANGS = ["Hindi", "English", "Kannada", "Tamil"];
-const TRADITIONS = ["Smartism", "Vaishnav", "Shaiva", "Shakta"];
-const REGIONS = ["North", "South", "East", "West"];
+const BUDGETS = ["Any", "Under ₹3K", "₹3–7K", "₹7–15K", "₹15K+"];
+const LANGS = ["English", "Hindi"];
+const DEITIES = [
+  "Any",
+  "Ganesha",
+  "Vishnu",
+  "Shiva",
+  "Lakshmi",
+  "Durga",
+  "Hanuman",
+  "Krishna",
+];
 
 export default function Home() {
   const router = useRouter();
   const [input, setInput] = useState("");
-  const [budget, setBudget] = useState("₹3–7K");
-  const [lang, setLang] = useState("Hindi");
-  const [tradition, setTradition] = useState("Smartism");
-  const [region, setRegion] = useState("North");
+  const [budget, setBudget] = useState("Any");
+  const [lang, setLang] = useState("English");
+  const [deity, setDeity] = useState("Vishnu");
   const [langToast, setLangToast] = useState(false);
 
   function submit() {
     const text = input.trim();
     if (!text) return;
-    logEvent("input_submitted", { text, budget, lang, tradition, region });
+    logEvent("input_submitted", { text, budget, lang, deity });
     // Demo never dead-ends: unmatched input routes to the reviewed
     // general-blessing template (still retrieval-only — the result page
     // shows a "pandit will review your words" banner for it).
@@ -114,7 +128,14 @@ export default function Home() {
           ))}
         </div>
 
-        <div className="mt-6 flex flex-col gap-3 lg:flex-row lg:gap-8">
+        <div className="mt-6 flex items-baseline justify-between">
+          <span className="kicker">Refine your search</span>
+          <span className="text-[12px] text-inksoft">
+            all optional — skip freely
+          </span>
+        </div>
+
+        <div className="mt-3 flex flex-col gap-3 lg:flex-row lg:gap-8">
           <div className="flex items-start gap-2.5">
             <span className="w-[74px] flex-none pt-1.5 text-[13px] font-semibold text-maroon lg:w-auto lg:pr-1">
               Budget
@@ -153,67 +174,78 @@ export default function Home() {
           </div>
         </div>
 
-        <p className="mt-4 text-[13px] text-inksoft">
-          Tradition &amp; region — we&rsquo;ll read them from your details, or
-          set them here
-        </p>
+        <Hairline className="mt-5" />
 
-        <div className="mt-3 flex flex-col gap-3 lg:flex-row lg:gap-8">
-            <div className="flex items-start gap-2.5">
-              <span className="w-[74px] flex-none pt-1.5 text-[13px] font-semibold text-maroon lg:w-auto lg:pr-1">
-                Tradition
-              </span>
-              <div className="flex flex-1 flex-wrap gap-1.5">
-                {TRADITIONS.map((t) => (
-                  <button
-                    key={t}
-                    onClick={() => {
-                      setTradition(t);
-                      logEvent("tradition_chip_tap", { t });
-                    }}
-                  >
-                    <Chip on={tradition === t}>{t}</Chip>
-                  </button>
-                ))}
-              </div>
-            </div>
-            <div className="flex items-start gap-2.5">
-              <span className="w-[74px] flex-none pt-1.5 text-[13px] font-semibold text-maroon lg:w-auto lg:pr-1">
-                Region
-              </span>
-              <div className="flex flex-1 flex-wrap gap-1.5">
-                {REGIONS.map((r) => (
-                  <button
-                    key={r}
-                    onClick={() => {
-                      setRegion(r);
-                      logEvent("region_chip_tap", { r });
-                    }}
-                  >
-                    <Chip on={region === r}>{r}</Chip>
-                  </button>
-                ))}
-              </div>
-            </div>
+        <div className="mt-5 flex flex-col gap-1.5">
+          <div className="flex items-baseline gap-2">
+            <span className="text-[13px] font-semibold text-maroon">
+              Your deity
+            </span>
+            <span className="text-[12px] text-inksoft">
+              ishta devata · optional
+            </span>
           </div>
+          <p className="text-[13px] text-inksoft">
+            The deity your family feels closest to. We&rsquo;ll prefer pandits —
+            and temples — devoted to the same deity.
+          </p>
+          <div className="flex flex-wrap gap-1.5">
+            {DEITIES.map((d) => (
+              <button
+                key={d}
+                onClick={() => {
+                  setDeity(d);
+                  logEvent("deity_chip_tap", { d });
+                }}
+              >
+                <Chip on={deity === d}>{d}</Chip>
+              </button>
+            ))}
+            <button onClick={() => logEvent("more_deities_tap")}>
+              <Chip soft>
+                <Search size={13} />
+                More deities…
+              </Chip>
+            </button>
+          </div>
+        </div>
 
-        <div className="mt-auto flex flex-col gap-3 pt-7 lg:mt-8 lg:flex-row lg:items-center lg:justify-between lg:pt-0">
-          <div className="order-2 flex flex-col items-center gap-0.5 lg:order-1 lg:items-start">
-            <span className="flex items-center gap-1.5 text-[13px] font-semibold text-green">
-              <Check size={15} />8 ritual templates · reviewed by 2 practicing
-              pandits
-            </span>
-            <span className="hidden text-[12px] text-inksoft lg:inline">
-              Built with pandits in Bengaluru &amp; Delhi
-            </span>
+        <div className="mt-5 flex flex-col gap-1.5">
+          <div className="flex items-baseline gap-2">
+            <span className="text-[13px] font-semibold text-maroon">Region</span>
+            <span className="text-[12px] text-inksoft">state · optional</span>
           </div>
           <button
+            onClick={() => logEvent("region_dropdown_tap")}
+            className="flex min-h-[48px] w-full items-center justify-between rounded-md border-[1.5px] border-hairline bg-card px-4"
+          >
+            <span className="flex items-center gap-2 text-maroon">
+              <Pin size={16} />
+              <span className="font-semibold text-maroon">Karnataka</span>
+            </span>
+            <span className="flex items-center gap-2 text-inksoft">
+              <span className="text-[12px]">Clear</span>
+              <ChevronDown size={16} />
+            </span>
+          </button>
+          <p className="text-[12px] text-inksoft">
+            Any state by default · sets regional ritual style &amp; local
+            panchang timings
+          </p>
+        </div>
+
+        <div className="mt-auto flex flex-col gap-3 pt-7 lg:mt-8">
+          <button
             onClick={submit}
-            className="btn-key order-1 flex min-h-[48px] items-center justify-center gap-2 rounded-md bg-saffron px-5 text-[16px] font-bold text-maroondeep lg:order-2 lg:w-[250px]"
+            className="btn-key flex min-h-[48px] items-center justify-center gap-2 rounded-md bg-saffron px-5 text-[16px] font-bold text-maroondeep lg:mx-auto lg:w-[250px]"
           >
             Find My Puja
             <ArrowRight />
           </button>
+          <span className="flex items-center justify-center gap-1.5 text-[13px] font-semibold text-green">
+            <Check size={15} />8 ritual templates · reviewed by 2 practicing
+            pandits
+          </span>
         </div>
       </div>
 

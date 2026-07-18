@@ -1,0 +1,49 @@
+{
+  "satyanarayan": {
+    "pujaName": "Satyanarayan Puja",
+    "cityTimings": "Bengaluru timings",
+    "dates": [
+      {
+        "id": "jul29",
+        "day": "Wed, Jul 29",
+        "tag": "Most auspicious",
+        "tagKind": "match",
+        "time": "Purnima (Guru Purnima) · evening Pradosh 6:50 – 8:05 PM",
+        "note": "Satyanarayan Katha is traditionally heard on Purnima evening — this is the next full moon.",
+        "shortWhen": "Wed, Jul 29 · 6:50 PM",
+        "shortSub": "Purnima (Guru Purnima) · Pradosh",
+        "nearestLabel": "Nearest: Wed, Jul 29 · Purnima"
+      },
+      {
+        "id": "aug27",
+        "day": "Thu, Aug 27",
+        "tag": "Highly auspicious",
+        "tagKind": "budget",
+        "time": "Purnima · evening 6:30 – 7:45 PM",
+        "note": "The following full moon — if July feels too soon to prepare.",
+        "shortWhen": "Thu, Aug 27 · 6:30 PM",
+        "shortSub": "Purnima · evening"
+      },
+      {
+        "id": "aug23",
+        "day": "Sun, Aug 23",
+        "tag": "Auspicious",
+        "tagKind": "budget",
+        "time": "Shukla Ekadashi · morning 9:10 – 11:00 AM",
+        "note": "Ekadashi, Vishnu's fasting day, is also favored for this puja.",
+        "shortWhen": "Sun, Aug 23 · 9:10 AM",
+        "shortSub": "Shukla Ekadashi · morning"
+      },
+      {
+        "id": "jul16",
+        "day": "Thu, Jul 16",
+        "tag": "Good · soonest",
+        "tagKind": "maroon",
+        "time": "Thursday — Vishnu's day · morning 9:30 – 11:00 AM",
+        "note": "A fine weekday option when the full moon can't wait.",
+        "shortWhen": "Thu, Jul 16 · 9:30 AM",
+        "shortSub": "Thursday — Vishnu's day"
+      }
+    ]
+  }
+}

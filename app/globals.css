@@ -95,3 +95,28 @@
     box-shadow: 2px 2px 0 var(--color-maroon);
   }
 }
+
+/* Step-by-step reels (V2): mantra-audio equaliser bars + image cross-fade.
+ * Referenced via inline `animation:` in components/StepReels. */
+@keyframes eq {
+  0%,
+  100% {
+    transform: scaleY(0.3);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+@keyframes xfade {
+  0%,
+  42% {
+    opacity: 0;
+  }
+  52%,
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

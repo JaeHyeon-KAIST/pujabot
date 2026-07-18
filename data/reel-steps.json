@@ -1,0 +1,104 @@
+{
+  "satyanarayan": [
+    {
+      "n": 1,
+      "title": "Sankalpa",
+      "sub": "Your wish, declared aloud",
+      "dur": "~5 min",
+      "images": ["/steps/card1a_sankalpa-hold.jpeg", "/steps/card1b_sankalpa-pour.jpeg"],
+      "body": "Begin the puja at a shubh muhurat, an auspicious time. Have the pandit calculate it for you using the Hindu Panchang. Take a resolution to worship Lord Satyanarayana faithfully and to listen to the Katha.",
+      "detail": "Bathe beforehand, then sit on an asana (mat) at the place of worship and, guided by a pandit, take the resolution to perform the puja with honesty and pure intention.",
+      "src": "99pandit · drikpanchang"
+    },
+    {
+      "n": 2,
+      "title": "Ganesh Puja",
+      "sub": "Invoking Ganesha to clear obstacles",
+      "dur": "~10 min",
+      "images": ["/steps/card2_ganesh-supari.jpeg"],
+      "body": "Worship Lord Ganesha first, so that the puja proceeds free of any hurdles.",
+      "detail": "As the puja begins, light the ghee lamp and incense and ring the bell, then worship Lord Ganesha first (to remove obstacles) before invoking Lord Satyanarayan.",
+      "src": "99pandit · pujanpujari",
+      "mantra": {
+        "title": "Om Gam Ganapataye Namah",
+        "dev": "",
+        "rom": "Om Gam Ganapataye Namah!",
+        "cite": "99pandit.com (T3)",
+        "meaning": "The core seed-mantra of Ganesha: a brief invocation and salutation to Ganapati, lord of the ganas."
+      }
+    },
+    {
+      "n": 3,
+      "title": "Kalash Sthapana",
+      "sub": "Installing the sacred water pot",
+      "dur": "~10 min",
+      "images": ["/steps/card3_kalash.jpeg"],
+      "body": "Place a copper kalash filled with water near the puja area. Guided by the pandit, take a vow to perform the puja with honesty and pure intention. Worship the nine planets (Navgraha) to balance the cosmic energies.",
+      "detail": "Place a copper or brass kalash filled with water near the puja area, drop in a betel nut, a coin and some rice, arrange mango leaves around the rim and set a whole coconut on top — this kalash becomes the spiritual centre of the ritual.",
+      "src": "99pandit · panditjionway · pujanpujari · smartpuja",
+      "callouts": ["copper kalash", "5 mango leaves", "coconut", "bed of rice"]
+    },
+    {
+      "n": 4,
+      "title": "Abhishekam",
+      "sub": "Bathing the deity in panchamrit",
+      "dur": "~15 min",
+      "images": ["/steps/card4a_abhishek-panchamrit.jpeg", "/steps/card4b_abhishek-rinse.jpeg"],
+      "body": "Take your seat on an Asana at the place of worship and meditate on Lord Satyanarayana with flowers in your hand. Then invoke him before the murti, forming the Avahan Mudra by joining your palms and folding both thumbs inward, and recite the mantra shown below. Offer water to Shri Satyanarayana to wash the feet (Padya), then for the head (Arghya), and then for Achamana. Recite the mantra shown below as you make each offering. Offer Shri Satyanarayana new clothes, the holy thread, and sandalwood paste, reciting the mantra shown below with each offering.",
+      "detail": "Bathe the idol first with panchamrit (milk, curd, honey, ghee and sugar) and then with pure water, then dress it in new clothes, offer the sacred thread (yajnopavita) and apply sandalwood paste.",
+      "src": "drikpanchang",
+      "mantra": {
+        "title": "Shri Satyanarayana Panchamrita Snana Mantra",
+        "dev": "स्नानं पञ्चामृतैर्देव गृहाण सुरसत्तम।\nअनाथनाथसर्वज्ञ गीर्वाणप्रणतप्रिय॥\nॐ श्रीसत्यनारायणाय नमः पञ्चामृतस्नानं समर्पयामि।",
+        "rom": "Snanam Panchamritairdeva Grihana Surasattama।\nAnathanatha Sarvajna Girvana Pranatapriya॥\nOm Shri Satyanarayanaya Namah Panchamrita Snanam Samarpayami।",
+        "cite": "drikpanchang.com (T2)",
+        "meaning": "You are bathing the Lord with the five sacred foods — milk, curd, ghee, honey and sugar — as a way of thanking him for the nourishment and nature around you.",
+        "more": "+ 11 more mantras are recited in this step — your pandit leads each one."
+      }
+    },
+    {
+      "n": 5,
+      "title": "Katha Shravanam",
+      "sub": "Listening to the sacred story — the heart of the puja",
+      "dur": "~35 min",
+      "images": ["/steps/card5_katha-book.jpeg"],
+      "body": "Read or listen to the story of the Lord Satyanarayana Vrat Katha.",
+      "detail": "Sit quietly and read or listen to the Satyanarayan Vrat Katha; hearing all five chapters is considered essential to complete the puja.",
+      "src": "99pandit · panditjionway",
+      "mantra": {
+        "title": "Main Mantra",
+        "dev": "",
+        "rom": "Om Namo Bhagavate Vasudevaya",
+        "cite": "panditjionway.com (T3)",
+        "meaning": "The core salutation of the puja: 'Om, I bow to Lord Vasudeva (Vishnu).' It is a simple act of surrender, offering your reverence to the Lord who protects the universe."
+      }
+    },
+    {
+      "n": 6,
+      "title": "Aarti",
+      "sub": "Lamp offering with devotional song",
+      "dur": "~10 min",
+      "images": ["/steps/card6_aarti.jpeg"],
+      "body": "Offer the Aarti to Lord Satyanarayana with lit camphor in the puja thali, reciting the mantra shown below. Then sing the Shri Satyanarayana Aarti in his praise.",
+      "detail": "Light camphor in the puja thali and circle the flame before the deity while singing the Satyanarayan aarti, ringing the bell loudly.",
+      "src": "99pandit · drikpanchang",
+      "mantra": {
+        "title": "Shri Satyanarayana Arartikya Mantra",
+        "dev": "चतुर्वर्तिसमायुक्तं गोघृतेन च पूरितम्।\nआरार्तिक्यमहं कुर्वे पश्य मे वरदो भव॥\nॐ श्रीसत्यनारायणाय नमः मङ्गल-आरार्तिक्यं समर्पयामि।",
+        "rom": "Chaturvarti Samayuktam Goghritena Cha Puritam।\nArartikyamaham Kurve Pashya Me Varado Bhava॥\nOm Shri Satyanarayanaya Namah Mangala-Arartikyam Samarpayami।",
+        "cite": "drikpanchang.com (T2)",
+        "meaning": "You are waving a lit lamp before the Lord to honour him, asking him to always look on you with love and keep your life full of light."
+      }
+    },
+    {
+      "n": 7,
+      "title": "Prasad",
+      "sub": "Sharing the blessed sheera",
+      "dur": "~10 min",
+      "images": ["/steps/card7_prasad.jpeg"],
+      "body": "Light a diya and perform the final aarti of Lord Satyanarayana, seeking his blessings. Then distribute the prasad among all the participants.",
+      "detail": "First offer the prasad — the sweet sheera (sapaadbhaksh) made of semolina/wheat flour, sugar, ghee, milk and banana — to the deity, then distribute it to all participants.",
+      "src": "99pandit · pujanpujari"
+    }
+  ]
+}

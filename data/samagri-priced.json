@@ -1,0 +1,47 @@
+{
+  "satyanarayan": {
+    "pricedStore": "Sri Lakshmi Pooja Stores",
+    "pricesArea": "Koramangala",
+    "groups": [
+      {
+        "title": "Essential",
+        "items": [
+          { "label": "Satyanarayan & Ganesha photo or idol", "price": 150, "checked": true },
+          { "label": "Copper kalash · कलश", "price": 280, "checked": true },
+          { "label": "Mango leaves, 5–7 · आम के पत्ते", "price": 20, "checked": false },
+          { "label": "Coconuts ×2 · नारियल", "price": 80, "checked": true },
+          { "label": "Panchamrit set — milk, curd, ghee, honey, sugar", "price": 160, "checked": true },
+          { "label": "Ghee lamp · दीया", "price": 60, "checked": false }
+        ]
+      },
+      {
+        "title": "Offerings",
+        "items": [
+          { "label": "Marigold flowers & garland · गेंदा", "price": 120, "checked": true },
+          { "label": "Seasonal fruits ×5 — banana essential", "price": 200, "checked": true },
+          { "label": "Tulsi leaves · तुलसी", "price": 20, "checked": false },
+          { "label": "Paan & supari · पान-सुपारी", "price": 60, "checked": false },
+          { "label": "Sheera ingredients — semolina, ghee, sugar", "price": 140, "checked": false }
+        ]
+      },
+      {
+        "title": "Good to have",
+        "items": [
+          { "label": "Sandalwood paste · चंदन", "price": 90, "checked": false },
+          { "label": "Incense & camphor · अगरबत्ती-कपूर", "price": 110, "checked": false },
+          { "label": "New yellow or red cloth · वस्त्र", "price": 180, "checked": true }
+        ]
+      }
+    ],
+    "delivery": {
+      "store": "Sri Lakshmi Pooja Stores",
+      "address": "402, Sobha Daffodil, 27th Main, HSR Layout",
+      "arrival": "Arrives tomorrow by 10 AM — 2 days before your Jul 29 puja",
+      "payOnDelivery": true
+    },
+    "vendors": [
+      { "name": "Sri Lakshmi Pooja Stores", "area": "5th Block, Koramangala", "distanceKm": 0.8, "status": "open till 9 PM", "estimate": 1050 },
+      { "name": "Omkar Pooja Samagri", "area": "27th Main, HSR Layout", "distanceKm": 1.2, "status": "open now", "estimate": 1120 }
+    ]
+  }
+}

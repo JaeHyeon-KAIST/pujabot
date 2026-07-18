@@ -1,27 +1,28 @@
 import Link from "next/link";
-import type { Pandit } from "@/lib/data";
-import { formatINR } from "@/lib/data";
-import { Check, Star } from "./icons";
+import type { Pandit, Scenario } from "@/lib/data";
+import { formatINR, panditMatchesDeity } from "@/lib/data";
+import { Check, Star, Temple } from "./icons";
 import { Avatar, Tag } from "./ui";
 
 export default function PanditCard({
   pandit,
+  scenario,
   scenarioId,
   best = false,
-  inBudget,
 }: {
   pandit: Pandit;
+  scenario: Scenario;
   scenarioId: string;
   best?: boolean;
-  inBudget: boolean;
 }) {
   const href = `/book/${scenarioId}/${pandit.id}`;
+  const { temple } = pandit;
   const cardClass = `flex flex-col rounded-lg border bg-card px-4 py-3.5 ${
     best ? "gap-2.5 border-hairgold shadow-warm" : "gap-2 border-hairline"
   }`;
 
-  const content = (
-    <>
+  return (
+    <div className={cardClass}>
       <div className="flex items-start gap-3">
         <Avatar initials={pandit.initials} size={best ? 52 : 44} />
         <div className="min-w-0 flex-1">
@@ -47,56 +48,60 @@ export default function PanditCard({
         </div>
       </div>
 
-      <span className="text-[13px]">{pandit.langLine}</span>
-      {best && (
-        <span className="text-[13px] text-inksoft">
-          {pandit.credential} · {pandit.specializes.join(" · ")}
+      <div className="flex flex-wrap items-center gap-1.5">
+        {panditMatchesDeity(pandit, scenario) ? (
+          <Tag kind="match">Devoted to {pandit.deity} — your deity</Tag>
+        ) : (
+          <Tag kind="over">Devoted to {pandit.deity}</Tag>
+        )}
+        <span className="inline-flex items-center gap-1 text-[13px] font-semibold text-green">
+          <Check size={13} strokeWidth={2.4} />
+          {best ? "Verified in person" : "Verified"}
         </span>
-      )}
-
-      <div className="flex items-end justify-between">
-        <div>
-          <div
-            className={`font-disp font-bold text-maroon ${
-              best ? "text-[20px]" : "text-[17px]"
-            }`}
-          >
-            {formatINR(pandit.price)}
-          </div>
-          <div className="text-[12px] text-inksoft">
-            {best
-              ? "pandit dakshina · samagri separate"
-              : "dakshina · samagri separate"}
-          </div>
-        </div>
-        <div className="flex flex-col items-end gap-1">
-          <Tag kind={inBudget ? "budget" : "over"}>
-            {inBudget ? "In budget" : "Above budget"}
-          </Tag>
-          <span className="flex items-center gap-1 text-[13px] font-semibold text-green">
-            <Check size={13} strokeWidth={2.4} />
-            {best ? "Verified in person" : "Verified"}
-          </span>
-        </div>
       </div>
 
-      {best && (
-        <Link
-          href={href}
-          className="flex min-h-[44px] items-center justify-center rounded-md border-[1.5px] border-maroon text-[16px] font-semibold text-maroon"
-        >
-          View profile
-        </Link>
-      )}
-    </>
-  );
+      <div className="flex flex-col gap-1.5 rounded-md bg-cardwarm px-3 py-2.5">
+        <div className="flex items-center gap-1.5">
+          <Temple size={17} className="flex-none text-maroon" />
+          <span className="text-[13px] font-bold text-maroon">
+            {temple.name}
+          </span>
+          <span className="text-[12px] text-inksoft">
+            · {temple.purohitType} purohit · {temple.distanceKm} km
+          </span>
+        </div>
+        <p className="text-[13px]">
+          Main deity: <b className="text-maroon">{temple.mainDeity}</b> —
+          worshipped as {temple.worshippedAs}
+          {temple.lineage ? ` · ${temple.lineage} lineage` : ""}
+        </p>
+      </div>
 
-  if (best) {
-    return <div className={cardClass}>{content}</div>;
-  }
-  return (
-    <Link href={href} className={cardClass}>
-      {content}
-    </Link>
+      <span className="text-[13px]">{pandit.langLine}</span>
+
+      <div className="flex flex-col">
+        <span
+          className={`font-disp font-bold text-maroon ${
+            best ? "text-[20px]" : "text-[17px]"
+          }`}
+        >
+          from {formatINR(pandit.price)}
+        </span>
+        <span className="text-[12px] text-inksoft">
+          minimum dakshina — offer more if you wish
+        </span>
+      </div>
+
+      <Link
+        href={href}
+        className={
+          best
+            ? "btn-key flex min-h-[46px] items-center justify-center rounded-md bg-saffron text-[16px] font-bold text-maroondeep"
+            : "flex min-h-[46px] items-center justify-center rounded-md border-[1.5px] border-maroon text-[16px] font-semibold text-maroon"
+        }
+      >
+        Book
+      </Link>
+    </div>
   );
 }

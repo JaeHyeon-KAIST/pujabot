@@ -106,3 +106,86 @@ export function Chat({ size = 18, className }: IconProps) {
     </svg>
   );
 }
+
+/* ── V2 additions ─────────────────────────────────────────────────────── */
+
+/** Temple / gopuram mark — pandit's home temple (Screen 4 v2). */
+export function Temple({ size = 17, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <path d="M12 3.5l5.5 5H6.5l5.5-5z" />
+      <path d="M6.5 8.5v11.5M17.5 8.5v11.5M12 8.5V20M4 20h16" />
+    </svg>
+  );
+}
+
+/** Person with a saffron accent — "Book a pandit" plan card (Screen 2 v2). */
+export function Person({ size = 24, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <circle cx="12" cy="8" r="3.5" />
+      <path d="M5 20c.8-3.6 3.6-5.5 7-5.5s6.2 1.9 7 5.5" />
+      <path d="M12 2.8v1.6" stroke="#f0a030" strokeWidth="2.2" />
+    </svg>
+  );
+}
+
+/** Kalash / urn with a saffron lid — "Samagri checklist" plan card (Screen 2 v2). */
+export function Urn({ size = 24, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <path d="M4.5 9.5h15l-1.6 9a2 2 0 0 1-2 1.7H8.1a2 2 0 0 1-2-1.7l-1.6-9z" />
+      <path d="M8.5 9.5 12 4l3.5 5.5" stroke="#f0a030" />
+    </svg>
+  );
+}
+
+/** Numbered list glyph with one saffron bullet — "Puja process" plan card (Screen 2 v2). */
+export function ListDots({ size = 24, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <circle cx="6" cy="6" r="2" />
+      <circle cx="6" cy="12" r="2" fill="#f0a030" stroke="none" />
+      <circle cx="6" cy="18" r="2" />
+      <path d="M11 6h9M11 12h9M11 18h9" />
+    </svg>
+  );
+}
+
+/** Calendar — auspicious-date range fields (Screen 2b v2). */
+export function Calendar({ size = 16, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <rect x="4" y="5.5" width="16" height="15" rx="2" />
+      <path d="M4 10h16M8.5 3.5v3.5M15.5 3.5v3.5" />
+    </svg>
+  );
+}
+
+/** Magnifier — "More deities…" chip (Screen 1 v2). */
+export function Search({ size = 13, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <circle cx="11" cy="11" r="6.5" />
+      <path d="M16 16l4.5 4.5" />
+    </svg>
+  );
+}
+
+/** Close / dismiss — reels header (Screen 3b v2). */
+export function X({ size = 18, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+      <path d="M6 6l12 12M18 6 6 18" />
+    </svg>
+  );
+}
+
+/** Stop square — mantra audio "playing" state (Screen 3b v2). */
+export function Square({ size = 14, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" className={className} aria-hidden="true">
+      <rect x="6" y="6" width="12" height="12" rx="1.5" />
+    </svg>
+  );
+}

@@ -1,73 +1,63 @@
 "use client";
 
 import { useState } from "react";
-import type { Puja, Scenario, Vendor } from "@/lib/data";
+import type { Puja, SamagriPriced, Scenario, Vendor } from "@/lib/data";
 import { formatINR } from "@/lib/data";
 import { logEvent } from "@/lib/analytics";
-import { Chat, Check } from "./icons";
+import { Hairline } from "@/components/ui";
+import { Chat, Check, Pin } from "./icons";
 import VendorMap from "./VendorMap";
 
-function Item({
-  label,
-  checked,
-  onToggle,
-}: {
-  label: string;
-  checked: boolean;
-  onToggle: () => void;
-}) {
-  return (
-    <button className="flex items-center gap-2.5 py-[7px] text-left" onClick={onToggle}>
-      <span
-        className={`flex h-5 w-5 flex-none items-center justify-center rounded-sm border-[1.5px] ${
-          checked ? "border-green bg-green text-card" : "border-maroon/40 text-card/0"
-        }`}
-      >
-        {checked && <Check size={13} strokeWidth={3} />}
-      </span>
-      <span className="min-w-0 flex-1 text-[13px]">{label}</span>
-    </button>
-  );
-}
+/** Stable key so identical labels across groups never collide. */
+const itemKey = (groupTitle: string, label: string) => `${groupTitle}:${label}`;
 
 export default function ChecklistClient({
   scenario,
   puja,
-  vendors,
+  samagri,
 }: {
   scenario: Scenario;
   puja: Puja;
   vendors: Vendor[];
+  samagri: SamagriPriced;
 }) {
   const [mode, setMode] = useState<"self" | "kit">("self");
-  const groups: { title: string; items: string[] }[] = [
-    { title: "Essential", items: puja.samagri.essential },
-    { title: "Offerings", items: puja.samagri.offerings },
-    { title: "Good to have", items: puja.samagri.optional },
-  ];
-  const allItems = groups.flatMap((g) => g.items);
-  const [checked, setChecked] = useState<Set<string>>(
-    () =>
-      new Set([
-        ...puja.samagri.essential.slice(0, 3),
-        puja.samagri.essential[puja.samagri.essential.length - 1],
-        puja.samagri.offerings[0],
-      ]),
-  );
+  const [checked, setChecked] = useState<Set<string>>(() => {
+    const set = new Set<string>();
+    for (const g of samagri.groups)
+      for (const it of g.items)
+        if (it.checked) set.add(itemKey(g.title, it.label));
+    return set;
+  });
 
-  function toggle(item: string) {
+  // Derive count + total live from the checked Set, over items that exist.
+  let tickedCount = 0;
+  let total = 0;
+  for (const g of samagri.groups)
+    for (const it of g.items)
+      if (checked.has(itemKey(g.title, it.label))) {
+        tickedCount += 1;
+        total += it.price;
+      }
+
+  function toggle(groupTitle: string, label: string) {
+    const key = itemKey(groupTitle, label);
     setChecked((prev) => {
       const next = new Set(prev);
-      if (next.has(item)) next.delete(item);
-      else next.add(item);
-      logEvent("checklist_toggle", { item, checked: next.has(item) });
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
+      logEvent("checklist_toggle", { item: label, checked: next.has(key) });
       return next;
     });
   }
 
   function shareOnWhatsApp() {
     logEvent("wa_share_tap", { scenarioId: scenario.id });
-    const remaining = allItems.filter((i) => !checked.has(i));
+    const remaining = samagri.groups.flatMap((g) =>
+      g.items
+        .filter((it) => !checked.has(itemKey(g.title, it.label)))
+        .map((it) => it.label),
+    );
     const text = [
       `🙏 Samagri checklist — ${puja.name} (${scenario.date.day})`,
       "",
@@ -78,10 +68,9 @@ export default function ChecklistClient({
     window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank");
   }
 
-  const cityLabel = scenario.city === "bengaluru" ? "Koramangala" : "Lajpat Nagar";
-
   return (
     <div className="mx-auto w-full max-w-[560px] px-5 pb-8">
+      {/* Mode toggle */}
       <div className="flex rounded-md bg-cardwarm p-[3px]">
         {(
           [
@@ -91,6 +80,7 @@ export default function ChecklistClient({
         ).map(([value, label]) => (
           <button
             key={value}
+            type="button"
             onClick={() => {
               setMode(value);
               logEvent("checklist_mode", { value });
@@ -106,49 +96,118 @@ export default function ChecklistClient({
         ))}
       </div>
 
-      <div className="mt-2.5 flex items-center gap-1.5 text-[12px] font-semibold text-green">
+      {/* Subtitle + provenance */}
+      <p className="mt-3 text-[13px] text-inksoft">
+        Tick what you still need — prices from partner stores in{" "}
+        {samagri.pricesArea}. Unticked items most homes already have.
+      </p>
+      <div className="mt-2 flex items-center gap-1.5 text-[12px] font-semibold text-green">
         <Check size={14} strokeWidth={2.4} />
-        List reviewed for {puja.name} · Jun 2026
+        Sourced from 7 verified guides · pandit review in progress
       </div>
 
-      {mode === "kit" ? (
-        <div className="mt-4 rounded-lg bg-cardwarm px-4 py-4 text-[14px] leading-relaxed">
-          Your pandit brings the full samagri set for{" "}
-          <span className="font-semibold text-maroon">{puja.name}</span> —
-          everything below is included for{" "}
-          <span className="font-semibold">+{formatINR(puja.samagriKitPrice)}</span>.
-          Fresh flowers and fruits are bought the same morning.
-        </div>
-      ) : null}
-
-      <div className={mode === "kit" ? "opacity-60" : ""}>
-        {groups.map((g, gi) => (
-          <div key={g.title} className={gi === 0 ? "mt-[14px]" : "mt-3"}>
+      {/* Item groups */}
+      <div className={mode === "kit" ? "mt-4 opacity-60" : "mt-4"}>
+        {samagri.groups.map((g, gi) => (
+          <div key={g.title} className={gi === 0 ? "" : "mt-3"}>
             <span className="kicker">{g.title}</span>
             <div className="mt-1 flex flex-col">
-              {g.items.map((item) => (
-                <Item
-                  key={item}
-                  label={item}
-                  checked={mode === "kit" ? true : checked.has(item)}
-                  onToggle={() => mode === "self" && toggle(item)}
-                />
-              ))}
+              {g.items.map((it) => {
+                const isChecked =
+                  mode === "kit" || checked.has(itemKey(g.title, it.label));
+                return (
+                  <button
+                    key={it.label}
+                    type="button"
+                    disabled={mode === "kit"}
+                    onClick={() => toggle(g.title, it.label)}
+                    className="flex w-full items-center gap-2.5 py-[7px] text-left"
+                  >
+                    <span
+                      className={`flex h-5 w-5 flex-none items-center justify-center rounded-sm border-[1.5px] ${
+                        isChecked
+                          ? "border-green bg-green text-card"
+                          : "border-maroon/40"
+                      }`}
+                    >
+                      {isChecked && <Check size={13} strokeWidth={3} />}
+                    </span>
+                    <span className="min-w-0 grow text-[13px]">{it.label}</span>
+                    <span className="min-w-[44px] flex-none text-right text-[13px] font-semibold text-maroon">
+                      {formatINR(it.price)}
+                    </span>
+                  </button>
+                );
+              })}
             </div>
           </div>
         ))}
       </div>
 
-      {mode === "self" && (
-        <p className="mt-1.5 text-[12px] text-inksoft">
-          {checked.size} of {allItems.length} arranged · {puja.samagriNote}
-        </p>
-      )}
+      {/* Get it delivered */}
+      <div className="mt-6">
+        <span className="kicker">Get it delivered</span>
+        <div className="mt-2 flex flex-col gap-2.5 rounded-lg border border-hairline bg-card p-[14px_16px] shadow-warm">
+          <div className="flex items-center justify-between gap-3">
+            <div className="min-w-0">
+              <div className="text-[14px] font-bold text-maroon">
+                {tickedCount} items ticked
+              </div>
+              <div className="text-[12px] text-inksoft">
+                priced at {samagri.pricedStore}
+              </div>
+            </div>
+            <span className="flex-none font-disp text-[20px] font-bold text-maroon">
+              {formatINR(total)}
+            </span>
+          </div>
 
-      <div className="mt-[18px]">
-        <span className="kicker">Nearby in {cityLabel}</span>
+          <Hairline />
+
+          <div className="flex flex-col gap-1.5">
+            <span className="text-[13px] font-semibold text-maroon">
+              Deliver to
+            </span>
+            <div className="flex items-center gap-2 rounded-md border-[1.5px] border-hairline bg-card px-3 py-2.5">
+              <Pin size={16} className="flex-none text-maroon" />
+              <span className="min-w-0 grow text-[13px]">
+                {samagri.delivery.address}
+              </span>
+              <span className="flex-none text-[12px] font-semibold text-maroon">
+                Change
+              </span>
+            </div>
+            <span className="text-[12px] font-semibold text-green">
+              {samagri.delivery.arrival}
+            </span>
+          </div>
+
+          <button
+            type="button"
+            onClick={() =>
+              logEvent("checklist_buy", { scenarioId: scenario.id, tickedCount, total })
+            }
+            className="btn-key flex min-h-[48px] w-full items-center justify-center gap-2 rounded-md bg-saffron px-5 text-[16px] font-bold text-maroondeep"
+          >
+            Buy {tickedCount} items · {formatINR(total)}
+          </button>
+
+          {samagri.delivery.payOnDelivery && (
+            <p className="text-center text-[12px] text-inksoft">
+              Pay on delivery available
+            </p>
+          )}
+        </div>
+      </div>
+
+      {/* Prefer buying in person */}
+      <div className="mt-6">
+        <div className="flex items-baseline gap-2">
+          <span className="kicker">Prefer buying in person?</span>
+          <span className="text-[12px] text-inksoft">optional</span>
+        </div>
         <div className="mt-2 flex flex-col gap-2">
-          {vendors.slice(0, 2).map((v, i) => (
+          {samagri.vendors.map((v, i) => (
             <div
               key={v.name}
               className="flex items-center gap-2.5 rounded-lg border border-hairline bg-card px-3.5 py-3"
@@ -159,12 +218,17 @@ export default function ChecklistClient({
               <div className="min-w-0 flex-1">
                 <div className="text-[13px] font-semibold">{v.name}</div>
                 <div className="text-[12px] text-inksoft">
-                  {v.area} · {v.distanceKm} km
+                  {v.area} · {v.distanceKm} km · {v.status}
                 </div>
               </div>
-              <span className="flex-none text-[12px] font-semibold text-green">
-                {v.status}
-              </span>
+              <div className="flex-none text-right">
+                <div className="text-[13px] font-semibold text-maroon">
+                  ≈ {formatINR(v.estimate)}
+                </div>
+                <div className="text-[12px] text-inksoft">
+                  your {tickedCount} items
+                </div>
+              </div>
             </div>
           ))}
           <VendorMap city={scenario.city} />
@@ -173,7 +237,7 @@ export default function ChecklistClient({
 
       <button
         onClick={shareOnWhatsApp}
-        className="mt-[18px] flex min-h-[48px] w-full items-center justify-center gap-2 rounded-md bg-wafill text-[16px] font-bold text-waink"
+        className="mt-6 flex min-h-[48px] w-full items-center justify-center gap-2 rounded-md bg-wafill text-[16px] font-bold text-waink"
       >
         <Chat />
         Share checklist on WhatsApp

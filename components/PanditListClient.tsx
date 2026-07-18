@@ -26,48 +26,36 @@ export default function PanditListClient({
   cityLabel: string;
 }) {
   const [sort, setSort] = useState<SortKey>("best");
-  const [budgetOn, setBudgetOn] = useState(true);
   const [distanceOn, setDistanceOn] = useState(true);
 
-  const [, hi] = scenario.budgetRange;
-  const budgetChip =
-    scenario.budgetRange[0] === 0
-      ? `Under ₹${hi / 1000}K`
-      : `₹${scenario.budgetRange[0] / 1000}–${hi / 1000}K`;
-
   const visible = useMemo(() => {
-    let list = pandits.filter(
-      (p) =>
-        (!budgetOn || p.price <= hi) && (!distanceOn || p.distanceKm <= 6),
-    );
+    let list = pandits.filter((p) => !distanceOn || p.distanceKm <= 6);
     if (sort === "price") list = [...list].sort((a, b) => a.price - b.price);
     if (sort === "rating")
       list = [...list].sort(
         (a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount,
       );
     return list;
-  }, [pandits, sort, budgetOn, distanceOn, hi]);
+  }, [pandits, sort, distanceOn]);
 
-  function toggle(which: "budget" | "distance") {
-    if (which === "budget") setBudgetOn((v) => !v);
-    else setDistanceOn((v) => !v);
-    logEvent("pandit_filter_toggled", { which });
+  function toggleDistance() {
+    setDistanceOn((v) => !v);
+    logEvent("pandit_filter_toggled", { which: "distance" });
   }
 
   return (
     <>
       <p className="text-[13px] text-inksoft">
-        {visible.length} home-ritual specialists (purohit) near {cityLabel} —
-        browse and choose; we never auto-assign.
+        {visible.length} home-ritual specialists near {cityLabel} — pandits
+        devoted to{" "}
+        <b className="text-maroon">{scenario.deity}, your deity,</b> shown first.
+        We never auto-assign.
       </p>
 
       <div className="mt-2.5 flex flex-wrap items-center gap-1.5">
-        <Chip on>{scenario.traditionChip}</Chip>
+        <Chip on>{scenario.deity} devotees</Chip>
         <Chip>Sanskrit rituals</Chip>
-        <button onClick={() => toggle("budget")}>
-          <Chip on={budgetOn}>{budgetChip}</Chip>
-        </button>
-        <button onClick={() => toggle("distance")}>
+        <button onClick={toggleDistance}>
           <Chip on={distanceOn}>Within 6 km</Chip>
         </button>
         <Link href="/" className="ml-0.5 text-[13px] font-semibold text-maroon">
@@ -102,11 +90,9 @@ export default function PanditListClient({
           <PanditCard
             key={p.id}
             pandit={p}
+            scenario={scenario}
             scenarioId={scenario.id}
             best={sort === "best" && p.id === scenario.bestPanditId}
-            inBudget={
-              scenario.budgetRange[0] > 0 ? p.price + 1000 <= hi : p.price <= hi
-            }
           />
         ))}
       </div>

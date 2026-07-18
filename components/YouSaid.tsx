@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 
 function midShorten(text: string, max = 70): string {
@@ -22,7 +23,9 @@ export default function YouSaid({ fallback }: { fallback: string }) {
       <span className="min-w-0 flex-1 text-[13px]">
         You said: &ldquo;{midShorten(text)}&rdquo;
       </span>
-      <span className="flex-none text-[13px] font-semibold text-maroon">Edit</span>
+      <Link href="/" className="flex-none text-[13px] font-semibold text-maroon">
+        Edit
+      </Link>
     </div>
   );
 }

@@ -1,5 +1,11 @@
 import { notFound } from "next/navigation";
-import { getPuja, getScenario, scenarios, vendors } from "@/lib/data";
+import {
+  getPuja,
+  getSamagriPriced,
+  getScenario,
+  scenarios,
+  vendors,
+} from "@/lib/data";
 import { TopBar } from "@/components/ui";
 import BackChevron from "@/components/BackChevron";
 import ChecklistClient from "@/components/ChecklistClient";
@@ -18,6 +24,7 @@ export default async function ChecklistPage({
   if (!scenario) notFound();
   const puja = getPuja(scenario.pujaId);
   if (!puja) notFound();
+  const samagri = getSamagriPriced(puja.id);
 
   return (
     <main className="flex min-h-dvh flex-col">
@@ -26,6 +33,7 @@ export default async function ChecklistPage({
         scenario={scenario}
         puja={puja}
         vendors={vendors[scenario.city]}
+        samagri={samagri}
       />
     </main>
   );

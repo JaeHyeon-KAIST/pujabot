@@ -11,13 +11,35 @@
     "tradition": "Smartism",
     "langLine": "Rituals in Sanskrit · explains in Kannada & Hindi",
     "credential": "Vedic Pathashala graduate, Sringeri",
-    "specializes": ["Satyanarayan", "Griha Pravesh"],
+    "specializes": [
+      "Satyanarayan",
+      "Griha Pravesh"
+    ],
     "price": 3500,
     "verified": true,
     "reviews": [
-      { "quote": "We had our first Satyanarayan Katha away from home. It felt like family was with us.", "author": "Ankit & Shreya", "area": "Koramangala", "date": "Jun 2026" },
-      { "quote": "Panditji explained every step in simple Hindi so my wife and I could follow along. Very patient.", "author": "Rohit S.", "area": "HSR Layout", "date": "May 2026" }
-    ]
+      {
+        "quote": "We had our first Satyanarayan Katha away from home. It felt like family was with us.",
+        "author": "Ankit & Shreya",
+        "area": "Koramangala",
+        "date": "Jun 2026"
+      },
+      {
+        "quote": "Panditji explained every step in simple Hindi so my wife and I could follow along. Very patient.",
+        "author": "Rohit S.",
+        "area": "HSR Layout",
+        "date": "May 2026"
+      }
+    ],
+    "deity": "Vishnu",
+    "temple": {
+      "name": "Lakshmi Narayan Temple (Birla Mandir)",
+      "purohitType": "resident",
+      "distanceKm": 2.1,
+      "mainDeity": "Vishnu",
+      "worshippedAs": "Lakshmi Narayan",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "ramanathan-iyer",
@@ -31,12 +53,29 @@
     "tradition": "Vaishnava",
     "langLine": "Rituals in Sanskrit · explains in Tamil & English",
     "credential": "M.A. Sanskrit Literature",
-    "specializes": ["Satyanarayan", "Varalakshmi Vratam"],
+    "specializes": [
+      "Satyanarayan",
+      "Varalakshmi Vratam"
+    ],
     "price": 4100,
     "verified": true,
     "reviews": [
-      { "quote": "Arrived exactly on time with everything arranged. The muhurat guidance was spot on.", "author": "Priya M.", "area": "Indiranagar", "date": "Apr 2026" }
-    ]
+      {
+        "quote": "Arrived exactly on time with everything arranged. The muhurat guidance was spot on.",
+        "author": "Priya M.",
+        "area": "Indiranagar",
+        "date": "Apr 2026"
+      }
+    ],
+    "deity": "Vishnu",
+    "temple": {
+      "name": "Sri Venkateswara Balaji Temple, R.K. Puram",
+      "purohitType": "resident",
+      "distanceKm": 3.8,
+      "mainDeity": "Vishnu",
+      "worshippedAs": "Venkateshwara",
+      "lineage": "Sri Vaishnava"
+    }
   },
   {
     "id": "venkatesh-murthy",
@@ -50,12 +89,29 @@
     "tradition": "Smarta & Madhwa",
     "langLine": "Smarta & Madhwa · explains in Kannada, Tamil, Telugu, Hindi, English",
     "credential": "Cross-tradition specialist",
-    "specializes": ["Weddings", "Major homams"],
+    "specializes": [
+      "Weddings",
+      "Major homams"
+    ],
     "price": 6500,
     "verified": true,
     "reviews": [
-      { "quote": "The muhurat guidance was spot on, and he coordinated our whole extended family calmly.", "author": "Priya M.", "area": "Indiranagar", "date": "Apr 2026" }
-    ]
+      {
+        "quote": "The muhurat guidance was spot on, and he coordinated our whole extended family calmly.",
+        "author": "Priya M.",
+        "area": "Indiranagar",
+        "date": "Apr 2026"
+      }
+    ],
+    "deity": "Krishna",
+    "temple": {
+      "name": "ISKCON — Sri Radha Parthasarathi Temple",
+      "purohitType": "resident",
+      "distanceKm": 5.2,
+      "mainDeity": "Krishna",
+      "worshippedAs": "Radha Parthasarathi",
+      "lineage": "Gaudiya Vaishnava"
+    }
   },
   {
     "id": "suresh-tiwari",
@@ -65,16 +121,33 @@
     "rating": 4.7,
     "ratingCount": 61,
     "years": 8,
-    "distanceKm": 3.0,
+    "distanceKm": 3,
     "tradition": "North Indian / Smarta",
     "langLine": "Rituals in Sanskrit · explains in Hindi · serves HSR–Sarjapur",
     "credential": "North Indian / Smarta",
-    "specializes": ["Ganesh", "Lakshmi-Ganesh"],
+    "specializes": [
+      "Ganesh",
+      "Lakshmi-Ganesh"
+    ],
     "price": 2800,
     "verified": true,
     "reviews": [
-      { "quote": "Booked for my parents' anniversary. He guided us on video call when we set up the altar.", "author": "Deepika R.", "area": "Bellandur", "date": "Mar 2026" }
-    ]
+      {
+        "quote": "Booked for my parents' anniversary. He guided us on video call when we set up the altar.",
+        "author": "Deepika R.",
+        "area": "Bellandur",
+        "date": "Mar 2026"
+      }
+    ],
+    "deity": "Ganesha",
+    "temple": {
+      "name": "Chhatarpur Temple (Adya Katyayani Shakti Peeth)",
+      "purohitType": "visiting",
+      "distanceKm": 2.9,
+      "mainDeity": "Durga",
+      "worshippedAs": "Katyayani",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "mahesh-bhat",
@@ -88,12 +161,29 @@
     "tradition": "Smarta",
     "langLine": "Rituals in Sanskrit · explains in Kannada & English",
     "credential": "Udupi pathashala trained",
-    "specializes": ["Satyanarayan", "Navagraha"],
+    "specializes": [
+      "Satyanarayan",
+      "Navagraha"
+    ],
     "price": 3900,
     "verified": true,
     "reviews": [
-      { "quote": "Came all the way to Yelahanka without fuss and explained everything in English for my flatmates.", "author": "Karthik V.", "area": "Yelahanka", "date": "May 2026" }
-    ]
+      {
+        "quote": "Came all the way to Yelahanka without fuss and explained everything in English for my flatmates.",
+        "author": "Karthik V.",
+        "area": "Yelahanka",
+        "date": "May 2026"
+      }
+    ],
+    "deity": "Vishnu",
+    "temple": {
+      "name": "Swaminarayan Akshardham",
+      "purohitType": "resident",
+      "distanceKm": 7.2,
+      "mainDeity": "Vishnu",
+      "worshippedAs": "Swaminarayan Narayan",
+      "lineage": "Vaishnava"
+    }
   },
   {
     "id": "krishnamurthy-shastri",
@@ -107,12 +197,30 @@
     "tradition": "Smarta",
     "langLine": "Rituals in Sanskrit · explains in Kannada & Tamil",
     "credential": "Senior acharya · 30 years of grihastha ceremonies",
-    "specializes": ["Satyanarayan", "Griha Pravesh", "Upanayana"],
+    "specializes": [
+      "Satyanarayan",
+      "Griha Pravesh",
+      "Upanayana"
+    ],
     "price": 8500,
     "verified": true,
     "reviews": [
-      { "quote": "A senior presence that put the whole family at ease. Worth every rupee.", "author": "Lakshmi & Raghav", "area": "Jayanagar", "date": "Feb 2026" }
-    ]
+      {
+        "quote": "A senior presence that put the whole family at ease. Worth every rupee.",
+        "author": "Lakshmi & Raghav",
+        "area": "Jayanagar",
+        "date": "Feb 2026"
+      }
+    ],
+    "deity": "Vishnu",
+    "temple": {
+      "name": "Gauri Shankar Mandir, Chandni Chowk",
+      "purohitType": "resident",
+      "distanceKm": 4.6,
+      "mainDeity": "Shiva",
+      "worshippedAs": "Gauri Shankar",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "rajesh-shastri",
@@ -126,12 +234,30 @@
     "tradition": "North Indian / Smarta",
     "langLine": "Rituals in Sanskrit · explains in Hindi & English",
     "credential": "Sanskrit Pathshala, Varanasi",
-    "specializes": ["Griha Pravesh", "Satyanarayan", "Navagraha"],
+    "specializes": [
+      "Griha Pravesh",
+      "Satyanarayan",
+      "Navagraha"
+    ],
     "price": 5500,
     "verified": true,
     "reviews": [
-      { "quote": "Booked for my parents' anniversary. He guided us on video call when we set up the altar.", "author": "Deepika R.", "area": "Dwarka", "date": "Mar 2026" }
-    ]
+      {
+        "quote": "Booked for my parents' anniversary. He guided us on video call when we set up the altar.",
+        "author": "Deepika R.",
+        "area": "Dwarka",
+        "date": "Mar 2026"
+      }
+    ],
+    "deity": "Vishnu",
+    "temple": {
+      "name": "Hanuman Mandir, Connaught Place",
+      "purohitType": "resident",
+      "distanceKm": 2,
+      "mainDeity": "Hanuman",
+      "worshippedAs": "Hanuman",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "om-prakash-tripathi",
@@ -145,12 +271,29 @@
     "tradition": "Vaishnava",
     "langLine": "Rituals in Sanskrit · explains in Hindi & Bhojpuri",
     "credential": "20 years of Rudrabhishek practice",
-    "specializes": ["Maha Mrityunjaya", "Rudrabhishek"],
+    "specializes": [
+      "Maha Mrityunjaya",
+      "Rudrabhishek"
+    ],
     "price": 4000,
     "verified": true,
     "reviews": [
-      { "quote": "He performed the jaap for my mother before her operation. His calm presence meant everything.", "author": "Sunita K.", "area": "Lajpat Nagar", "date": "May 2026" }
-    ]
+      {
+        "quote": "He performed the jaap for my mother before her operation. His calm presence meant everything.",
+        "author": "Sunita K.",
+        "area": "Lajpat Nagar",
+        "date": "May 2026"
+      }
+    ],
+    "deity": "Shiva",
+    "temple": {
+      "name": "Prachin Bhairav Mandir (Kilkari Bhairav)",
+      "purohitType": "resident",
+      "distanceKm": 3.1,
+      "mainDeity": "Shiva",
+      "worshippedAs": "Kilkari Bhairav",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "girish-joshi",
@@ -164,12 +307,29 @@
     "tradition": "Smarta (Maharashtrian)",
     "langLine": "Rituals in Sanskrit · explains in Hindi, Marathi, English",
     "credential": "Family purohit lineage, Pune",
-    "specializes": ["Ganesh Puja", "Satyanarayan"],
+    "specializes": [
+      "Ganesh Puja",
+      "Satyanarayan"
+    ],
     "price": 2500,
     "verified": true,
     "reviews": [
-      { "quote": "Quick, clear, and kind — perfect for our small flat and first-ever home puja.", "author": "Neha & Arjun", "area": "Saket", "date": "Jun 2026" }
-    ]
+      {
+        "quote": "Quick, clear, and kind — perfect for our small flat and first-ever home puja.",
+        "author": "Neha & Arjun",
+        "area": "Saket",
+        "date": "Jun 2026"
+      }
+    ],
+    "deity": "Ganesha",
+    "temple": {
+      "name": "Kalkaji Mandir",
+      "purohitType": "visiting",
+      "distanceKm": 2.7,
+      "mainDeity": "Durga",
+      "worshippedAs": "Kalika",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "devendra-mishra",
@@ -183,12 +343,29 @@
     "tradition": "North Indian / Smarta",
     "langLine": "Rituals in Sanskrit · explains in Hindi",
     "credential": "Serves Noida–Mayur Vihar",
-    "specializes": ["Ganesh", "Satyanarayan"],
+    "specializes": [
+      "Ganesh",
+      "Satyanarayan"
+    ],
     "price": 2200,
     "verified": true,
     "reviews": [
-      { "quote": "Simple, sincere, and affordable — ideal for our first puja in the new city.", "author": "Vivek P.", "area": "Mayur Vihar", "date": "Apr 2026" }
-    ]
+      {
+        "quote": "Simple, sincere, and affordable — ideal for our first puja in the new city.",
+        "author": "Vivek P.",
+        "area": "Mayur Vihar",
+        "date": "Apr 2026"
+      }
+    ],
+    "deity": "Ganesha",
+    "temple": {
+      "name": "Jhandewalan Devi Mandir",
+      "purohitType": "visiting",
+      "distanceKm": 8,
+      "mainDeity": "Durga",
+      "worshippedAs": "Aadi Shakti",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "vishnu-dutt-sharma",
@@ -202,12 +379,30 @@
     "tradition": "North Indian / Smarta",
     "langLine": "Rituals in Sanskrit · explains in Hindi & English",
     "credential": "Kashi-trained · senior acharya",
-    "specializes": ["Maha Mrityunjaya", "Navagraha", "Satyanarayan"],
+    "specializes": [
+      "Maha Mrityunjaya",
+      "Navagraha",
+      "Satyanarayan"
+    ],
     "price": 7800,
     "verified": true,
     "reviews": [
-      { "quote": "His Sanskrit is beautiful, and he took time to explain each mantra's meaning.", "author": "Aditi R.", "area": "Greater Kailash", "date": "Jan 2026" }
-    ]
+      {
+        "quote": "His Sanskrit is beautiful, and he took time to explain each mantra's meaning.",
+        "author": "Aditi R.",
+        "area": "Greater Kailash",
+        "date": "Jan 2026"
+      }
+    ],
+    "deity": "Shiva",
+    "temple": {
+      "name": "Neeli Chhatri Mandir, Nigambodh Ghat",
+      "purohitType": "resident",
+      "distanceKm": 3.9,
+      "mainDeity": "Shiva",
+      "worshippedAs": "Neelkanth Mahadev",
+      "lineage": "Smarta"
+    }
   },
   {
     "id": "krishna-kumar-pandey",
@@ -221,11 +416,28 @@
     "tradition": "North Indian / Smarta",
     "langLine": "Rituals in Sanskrit · explains in Hindi",
     "credential": "16 years serving South Delhi households",
-    "specializes": ["Lakshmi-Ganesh", "Diwali ceremonies"],
+    "specializes": [
+      "Lakshmi-Ganesh",
+      "Diwali ceremonies"
+    ],
     "price": 3200,
     "verified": true,
     "reviews": [
-      { "quote": "Our Diwali puja felt properly done for the first time since leaving home.", "author": "Manish T.", "area": "Malviya Nagar", "date": "Nov 2025" }
-    ]
+      {
+        "quote": "Our Diwali puja felt properly done for the first time since leaving home.",
+        "author": "Manish T.",
+        "area": "Malviya Nagar",
+        "date": "Nov 2025"
+      }
+    ],
+    "deity": "Lakshmi",
+    "temple": {
+      "name": "Yogmaya Temple, Mehrauli",
+      "purohitType": "resident",
+      "distanceKm": 4.5,
+      "mainDeity": "Devi",
+      "worshippedAs": "Yogmaya",
+      "lineage": "Smarta"
+    }
   }
 ]
