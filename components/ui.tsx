@@ -45,7 +45,7 @@ export function Chip({
       : "bg-card border-hairline text-ink";
   return (
     <span
-      className={`inline-flex items-center gap-1.5 whitespace-nowrap rounded-[999px] border px-3 py-[5px] text-[13px] font-medium ${look} ${className}`}
+      className={`inline-flex items-center gap-[5px] whitespace-nowrap rounded-[999px] border px-3 py-[5px] text-[13px] font-medium ${look} ${className}`}
     >
       {children}
     </span>
@@ -74,7 +74,7 @@ export function Tag({
 
 export function BadgeGreen({ children }: { children: React.ReactNode }) {
   return (
-    <span className="inline-flex items-center gap-1.5 text-[13px] font-semibold text-green">
+    <span className="inline-flex items-center gap-[5px] text-[13px] font-semibold text-green">
       {children}
     </span>
   );
@@ -99,7 +99,7 @@ export function Avatar({
 
 export function FooterNote({ children }: { children: React.ReactNode }) {
   return (
-    <p className="px-6 pb-5 pt-3.5 text-center text-[12px] leading-relaxed text-inksoft">
+    <p className="px-6 pb-5 pt-3.5 text-center text-[12px] leading-[1.45] text-inksoft">
       {children}
     </p>
   );

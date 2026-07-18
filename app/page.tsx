@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { ArrowRight, Check, Diya } from "@/components/icons";
-import { Chip, FooterNote, DISCLAIMER } from "@/components/ui";
+import { Chip, FooterNote } from "@/components/ui";
 import { matchScenario } from "@/lib/matchScenario";
 import { scenarios } from "@/lib/data";
 import { logEvent } from "@/lib/analytics";
@@ -55,7 +55,8 @@ export default function Home() {
       <header className="sticky top-0 z-40 mx-auto flex w-full max-w-[1080px] items-center justify-between bg-ground px-5 py-3.5 lg:py-5">
         <div className="flex items-center gap-2">
           <span className="text-maroon">
-            <Diya size={26} />
+            <Diya size={24} className="lg:hidden" />
+            <Diya size={26} className="hidden lg:block" />
           </span>
           <span className="font-disp text-[20px] font-extrabold text-maroon lg:text-[22px]">
             PujaBot
@@ -86,7 +87,7 @@ export default function Home() {
         </div>
       </header>
 
-      <div className="mx-auto flex w-full max-w-[660px] flex-1 flex-col px-5 pt-8 lg:pt-16">
+      <div className="mx-auto flex w-full max-w-[660px] flex-1 flex-col px-5 pt-6 lg:pt-[72px]">
         <span className="kicker">नमस्ते · Namaste</span>
         <h1 className="mt-2 font-disp text-[31px] font-bold leading-tight text-maroon lg:text-[39px]">
           What&rsquo;s the occasion?
@@ -101,7 +102,7 @@ export default function Home() {
           onChange={(e) => setInput(e.target.value)}
           placeholder="e.g., I'm starting a new business. I want to invoke peace and prosperity for my family."
           rows={4}
-          className="mt-5 w-full resize-none rounded-md border-[1.5px] border-hairline bg-card p-4 text-[16px] text-ink shadow-warm outline-none placeholder:text-inksoft/70 focus:border-maroon lg:text-[17px]"
+          className="mt-5 w-full resize-none rounded-lg border border-hairline bg-card p-4 text-[16px] text-ink shadow-warm outline-none placeholder:text-inksoft/70 focus:border-maroon lg:p-5 lg:text-[17px]"
         />
 
         <div className="mt-2.5 flex flex-wrap items-center gap-2">
@@ -202,7 +203,7 @@ export default function Home() {
               <Check size={15} />8 ritual templates · reviewed by 2 practicing
               pandits
             </span>
-            <span className="text-[12px] text-inksoft">
+            <span className="hidden text-[12px] text-inksoft lg:inline">
               Built with pandits in Bengaluru &amp; Delhi
             </span>
           </div>
@@ -216,7 +217,15 @@ export default function Home() {
         </div>
       </div>
 
-      <FooterNote>{DISCLAIMER}</FooterNote>
+      <FooterNote>
+        PujaBot helps you prepare — it does not replace the guidance of a
+        qualified pandit.
+        <span className="hidden lg:inline">
+          {" "}
+          All ritual content is reviewed by practicing pandits, never
+          AI-generated.
+        </span>
+      </FooterNote>
     </main>
   );
 }

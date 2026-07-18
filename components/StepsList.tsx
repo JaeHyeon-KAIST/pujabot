@@ -26,7 +26,7 @@ export default function StepsList({
           <div className="min-w-0 flex-1">
             <div className="font-semibold text-maroon">{s.sanskrit}</div>
             <div className="text-[13px] text-inksoft">{s.en}</div>
-            <p className="mt-1 text-[13px] leading-relaxed">{s.detail}</p>
+            <p className="mt-1 text-[13px] leading-[1.55]">{s.detail}</p>
           </div>
         </div>
       ))}

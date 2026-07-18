@@ -10,7 +10,7 @@ export default function VendorMap({ city }: { city: City }) {
   const m = maps[city];
   return (
     <div
-      className="relative overflow-hidden rounded-md border border-hairline"
+      className="relative overflow-hidden rounded-md border border-[#E3D5B8]"
       style={{ aspectRatio: `${m.width} / ${m.height}` }}
     >
       {m.tiles.map((t) => (
@@ -54,7 +54,7 @@ export default function VendorMap({ city }: { city: City }) {
             {i + 1}
           </span>
           <span
-            className={`absolute top-1/2 -translate-y-1/2 whitespace-nowrap rounded-sm border border-hairline bg-card px-1.5 py-px text-[10px] font-semibold text-maroon shadow-warm ${
+            className={`absolute top-1/2 -translate-y-1/2 whitespace-nowrap rounded-sm border border-[#E3D5B8] bg-card px-1.5 py-px text-[10px] font-semibold text-maroon shadow-warm ${
               p.xPct > 55 ? "right-full mr-1.5" : "left-full ml-1.5"
             }`}
           >

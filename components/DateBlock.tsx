@@ -57,12 +57,15 @@ export default function DateBlock({ date }: { date: Scenario["date"] }) {
       )}
 
       <div className="mt-2.5 flex flex-wrap gap-1.5">
-        <button onClick={() => pick("main")}>
-          <Chip on={choice === "main"}>{date.day.split("·")[0].trim()}</Chip>
-        </button>
-        <button onClick={() => pick("alt")}>
-          <Chip on={choice === "alt"}>{alt}</Chip>
-        </button>
+        {choice === "main" ? (
+          <button onClick={() => pick("alt")}>
+            <Chip>{date.alt}</Chip>
+          </button>
+        ) : (
+          <button onClick={() => pick("main")}>
+            <Chip>{date.day.split("·")[0].trim()}</Chip>
+          </button>
+        )}
       </div>
     </div>
   );

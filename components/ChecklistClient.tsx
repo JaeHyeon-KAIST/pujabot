@@ -23,7 +23,7 @@ function Item({
           checked ? "border-green bg-green text-card" : "border-maroon/40 text-card/0"
         }`}
       >
-        {checked && <Check size={13} />}
+        {checked && <Check size={13} strokeWidth={3} />}
       </span>
       <span className="min-w-0 flex-1 text-[13px]">{label}</span>
     </button>
@@ -47,7 +47,12 @@ export default function ChecklistClient({
   ];
   const allItems = groups.flatMap((g) => g.items);
   const [checked, setChecked] = useState<Set<string>>(
-    () => new Set(allItems.slice(0, 3)),
+    () =>
+      new Set([
+        ...puja.samagri.essential.slice(0, 3),
+        puja.samagri.essential[puja.samagri.essential.length - 1],
+        puja.samagri.offerings[0],
+      ]),
   );
 
   function toggle(item: string) {
@@ -90,10 +95,10 @@ export default function ChecklistClient({
               setMode(value);
               logEvent("checklist_mode", { value });
             }}
-            className={`flex-1 rounded-[6px] px-1.5 py-2 text-[13px] ${
+            className={`flex-1 rounded-[6px] px-1.5 py-[9px] text-[13px] ${
               mode === value
                 ? "bg-card font-bold text-maroon shadow-warm"
-                : "text-inksoft"
+                : "font-medium text-inksoft"
             }`}
           >
             {label}
@@ -102,7 +107,7 @@ export default function ChecklistClient({
       </div>
 
       <div className="mt-2.5 flex items-center gap-1.5 text-[12px] font-semibold text-green">
-        <Check size={14} />
+        <Check size={14} strokeWidth={2.4} />
         List reviewed for {puja.name} · Jun 2026
       </div>
 
@@ -117,8 +122,8 @@ export default function ChecklistClient({
       ) : null}
 
       <div className={mode === "kit" ? "opacity-60" : ""}>
-        {groups.map((g) => (
-          <div key={g.title} className="mt-4">
+        {groups.map((g, gi) => (
+          <div key={g.title} className={gi === 0 ? "mt-[14px]" : "mt-3"}>
             <span className="kicker">{g.title}</span>
             <div className="mt-1 flex flex-col">
               {g.items.map((item) => (
@@ -140,9 +145,9 @@ export default function ChecklistClient({
         </p>
       )}
 
-      <div className="mt-6">
+      <div className="mt-[18px]">
         <span className="kicker">Nearby in {cityLabel}</span>
-        <div className="mt-2.5 flex flex-col gap-2">
+        <div className="mt-2 flex flex-col gap-2">
           {vendors.slice(0, 2).map((v, i) => (
             <div
               key={v.name}
@@ -168,7 +173,7 @@ export default function ChecklistClient({
 
       <button
         onClick={shareOnWhatsApp}
-        className="mt-5 flex min-h-[48px] w-full items-center justify-center gap-2 rounded-md bg-wafill text-[16px] font-bold text-waink"
+        className="mt-[18px] flex min-h-[48px] w-full items-center justify-center gap-2 rounded-md bg-wafill text-[16px] font-bold text-waink"
       >
         <Chat />
         Share checklist on WhatsApp

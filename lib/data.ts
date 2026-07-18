@@ -12,6 +12,7 @@ export interface Scenario {
   keywords: string[];
   city: City;
   chips: string[];
+  traditionChip: string;
   pujaId: string;
   matchBadge: string;
   whyPuja: string;

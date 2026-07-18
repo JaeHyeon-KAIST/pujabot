@@ -27,7 +27,7 @@ export default async function ResultPage({
     <main className="flex min-h-dvh flex-col">
       <TopBar title="Your Puja" backHref="/" />
 
-      <div className="mx-auto w-full max-w-[1080px] flex-1 px-5 lg:mt-2 lg:grid lg:grid-cols-[minmax(0,1.6fr)_400px] lg:items-start lg:gap-6">
+      <div className="mx-auto mt-1.5 w-full max-w-[1080px] flex-1 px-5 lg:mt-2 lg:grid lg:grid-cols-[minmax(0,1.6fr)_400px] lg:items-start lg:gap-6">
         {/* Left column: what we understood + the recommendation */}
         <div className="flex flex-col gap-3">
           <Suspense
@@ -48,10 +48,10 @@ export default async function ResultPage({
             {scenario.chips.map((c, i) => (
               <span
                 key={c}
-                className={`inline-flex items-center rounded-sm px-2 py-[3px] text-[12px] ${
+                className={`inline-flex items-center rounded-sm px-2 py-[2px] text-[12px] ${
                   i === 0
                     ? "bg-maroon/8 font-semibold text-maroon"
-                    : "bg-cardwarm text-ink/80"
+                    : "bg-cardwarm font-medium text-ink/80"
                 }`}
               >
                 {c}
@@ -76,22 +76,22 @@ export default async function ResultPage({
             </div>
           )}
 
-          <div className="torana rounded-lg border border-hairline bg-card px-[18px] pb-[18px] pt-[26px] shadow-warm lg:px-6 lg:pb-[22px] lg:pt-[30px]">
+          <div className="torana mt-1 rounded-lg border border-hairline bg-card px-[18px] pb-[18px] pt-[26px] shadow-warm lg:px-6 lg:pb-[22px] lg:pt-[30px]">
             <span className="kicker">Suggested puja</span>
-            <h2 className="mt-1 font-disp text-[25px] font-bold leading-tight text-maroon lg:text-[31px]">
+            <h2 className="mt-2 font-disp text-[25px] font-bold leading-tight text-maroon lg:text-[31px]">
               {puja.name}
             </h2>
-            <div className="mt-0.5 font-scrip text-[18px] text-goldink lg:text-[20px]">
+            <div className="mt-1.5 font-scrip text-[18px] text-goldink lg:text-[20px]">
               {puja.dev}
             </div>
-            <div className="mt-2">
+            <div className="mt-2.5">
               <Tag kind="match">{scenario.matchBadge}</Tag>
             </div>
-            <p className="mt-2.5 lg:text-[17px]">{puja.benefit}</p>
-            <p className="mt-1 text-[12px] text-inksoft">{scenario.basisTag}</p>
+            <p className="mt-3.5 lg:text-[17px]">{puja.benefit}</p>
+            <p className="mt-2 text-[12px] text-inksoft">{scenario.basisTag}</p>
             <Link
               href={`/puja/${scenario.id}`}
-              className="mt-3.5 flex min-h-[42px] items-center justify-center gap-1.5 rounded-md border-[1.5px] border-maroon text-[14px] font-semibold text-maroon"
+              className="mt-[18px] flex min-h-[48px] items-center justify-center gap-2 rounded-md border-[1.5px] border-maroon text-[14px] font-semibold text-maroon"
             >
               Ritual steps · mantra · samagri
               <ChevronRight size={14} />

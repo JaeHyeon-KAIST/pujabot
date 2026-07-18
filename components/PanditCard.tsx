@@ -15,12 +15,13 @@ export default function PanditCard({
   best?: boolean;
   inBudget: boolean;
 }) {
-  return (
-    <div
-      className={`flex flex-col gap-2.5 rounded-lg border bg-card px-4 py-3.5 ${
-        best ? "border-hairgold shadow-warm" : "border-hairline"
-      }`}
-    >
+  const href = `/book/${scenarioId}/${pandit.id}`;
+  const cardClass = `flex flex-col rounded-lg border bg-card px-4 py-3.5 ${
+    best ? "gap-2.5 border-hairgold shadow-warm" : "gap-2 border-hairline"
+  }`;
+
+  const content = (
+    <>
       <div className="flex items-start gap-3">
         <Avatar initials={pandit.initials} size={best ? 52 : 44} />
         <div className="min-w-0 flex-1">
@@ -40,24 +41,32 @@ export default function PanditCard({
               {pandit.rating} ({pandit.ratingCount})
             </span>
             <span className="text-inksoft">
-              · {pandit.years} yrs · {pandit.distanceKm} km
+              · {pandit.years} yrs · {pandit.distanceKm.toFixed(1)} km
             </span>
           </div>
         </div>
       </div>
 
       <span className="text-[13px]">{pandit.langLine}</span>
-      <span className="text-[13px] text-inksoft">
-        {pandit.credential} · {pandit.specializes.join(" · ")}
-      </span>
+      {best && (
+        <span className="text-[13px] text-inksoft">
+          {pandit.credential} · {pandit.specializes.join(" · ")}
+        </span>
+      )}
 
       <div className="flex items-end justify-between">
         <div>
-          <div className="font-disp text-[20px] font-bold text-maroon">
+          <div
+            className={`font-disp font-bold text-maroon ${
+              best ? "text-[20px]" : "text-[17px]"
+            }`}
+          >
             {formatINR(pandit.price)}
           </div>
           <div className="text-[12px] text-inksoft">
-            pandit dakshina · samagri separate
+            {best
+              ? "pandit dakshina · samagri separate"
+              : "dakshina · samagri separate"}
           </div>
         </div>
         <div className="flex flex-col items-end gap-1">
@@ -65,18 +74,29 @@ export default function PanditCard({
             {inBudget ? "In budget" : "Above budget"}
           </Tag>
           <span className="flex items-center gap-1 text-[13px] font-semibold text-green">
-            <Check size={13} />
-            Verified
+            <Check size={13} strokeWidth={2.4} />
+            {best ? "Verified in person" : "Verified"}
           </span>
         </div>
       </div>
 
-      <Link
-        href={`/book/${scenarioId}/${pandit.id}`}
-        className="flex min-h-[44px] items-center justify-center rounded-md border-[1.5px] border-maroon text-[15px] font-semibold text-maroon"
-      >
-        View profile
-      </Link>
-    </div>
+      {best && (
+        <Link
+          href={href}
+          className="flex min-h-[44px] items-center justify-center rounded-md border-[1.5px] border-maroon text-[16px] font-semibold text-maroon"
+        >
+          View profile
+        </Link>
+      )}
+    </>
+  );
+
+  if (best) {
+    return <div className={cardClass}>{content}</div>;
+  }
+  return (
+    <Link href={href} className={cardClass}>
+      {content}
+    </Link>
   );
 }

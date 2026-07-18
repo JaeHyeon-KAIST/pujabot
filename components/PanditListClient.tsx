@@ -62,7 +62,7 @@ export default function PanditListClient({
       </p>
 
       <div className="mt-2.5 flex flex-wrap items-center gap-1.5">
-        <Chip on>{scenario.chips[0] ?? scenario.label}</Chip>
+        <Chip on>{scenario.traditionChip}</Chip>
         <Chip>Sanskrit rituals</Chip>
         <button onClick={() => toggle("budget")}>
           <Chip on={budgetOn}>{budgetChip}</Chip>
@@ -88,7 +88,7 @@ export default function PanditListClient({
               className={
                 sort === t.key
                   ? "border-b-2 border-maroon pb-1.5 text-[13px] font-bold text-maroon"
-                  : "pb-1.5 text-[13px] text-inksoft"
+                  : "pb-1.5 text-[13px] font-medium text-inksoft"
               }
             >
               {t.label}
@@ -104,7 +104,9 @@ export default function PanditListClient({
             pandit={p}
             scenarioId={scenario.id}
             best={sort === "best" && p.id === scenario.bestPanditId}
-            inBudget={p.price <= hi}
+            inBudget={
+              scenario.budgetRange[0] > 0 ? p.price + 1000 <= hi : p.price <= hi
+            }
           />
         ))}
       </div>

@@ -26,12 +26,12 @@ export default async function PujaDetailPage({
 
       <div className="mx-auto w-full max-w-[640px] px-5">
         {/* Deity artwork — full, uncropped, top placement (never footer/thumb zones), no overlays */}
-        <figure className="overflow-hidden rounded-md border border-hairgold bg-cardwarm">
+        <figure className="mt-1.5 overflow-hidden rounded-md border border-hairgold bg-cardwarm">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={puja.art.src}
             alt={puja.art.alt}
-            className="mx-auto h-auto max-h-[340px] w-auto max-w-full py-3"
+            className="mx-auto h-auto max-h-[300px] w-auto max-w-full py-3"
           />
           <figcaption className="border-t border-hairgold px-3 py-1.5 text-center text-[11px] text-goldink">
             <span className="font-semibold">{puja.art.caption}</span> ·{" "}
@@ -39,7 +39,17 @@ export default async function PujaDetailPage({
           </figcaption>
         </figure>
 
-        <p className="mt-4">{puja.what}</p>
+        <p className="mt-4">
+          {puja.what.split("**").map((part, i) =>
+            i % 2 === 1 ? (
+              <span key={i} className="font-semibold">
+                {part}
+              </span>
+            ) : (
+              part
+            )
+          )}
+        </p>
         <div className="mt-2 flex items-center gap-2 text-inksoft">
           <Clock />
           <span className="text-[13px]">{puja.when}</span>
@@ -47,7 +57,7 @@ export default async function PujaDetailPage({
 
         <div className="mt-6">
           <span className="kicker">
-            The ritual · {puja.steps.length} steps
+            The ritual · {puja.steps.length} steps · follow along
           </span>
           <div className="mt-3">
             <StepsList steps={puja.steps} />
@@ -71,7 +81,7 @@ export default async function PujaDetailPage({
           <span className="kicker" style={{ color: "#d4af37" }}>
             Mantra · retrieved template
           </span>
-          <div className="font-scrip text-[23px] leading-relaxed">
+          <div className="font-scrip text-[23px] leading-[1.4]">
             {puja.mantra.dev}
           </div>
           <div className="font-scrip text-[15px] opacity-90">
@@ -90,7 +100,7 @@ export default async function PujaDetailPage({
 
         <Link
           href={`/checklist/${scenario.id}`}
-          className="mt-6 flex min-h-[46px] items-center justify-center gap-1.5 rounded-md border-[1.5px] border-maroon text-[15px] font-semibold text-maroon"
+          className="mt-6 flex min-h-[48px] items-center justify-center gap-1.5 rounded-md border-[1.5px] border-maroon text-[16px] font-semibold text-maroon"
         >
           Samagri checklist &amp; nearby vendors
         </Link>

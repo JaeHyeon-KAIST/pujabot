@@ -16,9 +16,9 @@ export function Diya({ size = 20, className, flame = "#f0a030", body = "currentC
   );
 }
 
-export function Check({ size = 15, className }: IconProps) {
+export function Check({ size = 15, className, strokeWidth = 2.2 }: IconProps & { strokeWidth?: number }) {
   return (
-    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden="true">
       <path d="M4.5 12.5l5 5L19.5 7" />
     </svg>
   );
