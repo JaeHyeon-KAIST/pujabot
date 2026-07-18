@@ -54,7 +54,7 @@ export default function RootLayout({
           disable={process.env.NODE_ENV === "development"}
         >
           <DemoTools />
-          {children}
+          <div id="app-scroll">{children}</div>
         </SerwistProvider>
       </body>
     </html>

@@ -120,3 +120,29 @@
     opacity: 0;
   }
 }
+
+/* Overscroll / rubber-band control.
+ * Global: stop pull-to-refresh + scroll-chaining glow (app-like feel). */
+html,
+body {
+  overscroll-behavior: none;
+}
+
+/* Installed PWA (standalone): lock the document and scroll an inner container
+ * (#app-scroll) instead, so the top/bottom edge never rubber-band-bounces on
+ * iOS and the sticky header can't be dragged past the top. Browser tabs are
+ * unaffected — this block only matches when launched from the home screen. */
+@media (display-mode: standalone) {
+  html,
+  body {
+    height: 100%;
+    overflow: hidden;
+  }
+  #app-scroll {
+    position: fixed;
+    inset: 0;
+    overflow-y: auto;
+    overscroll-behavior: none;
+    -webkit-overflow-scrolling: touch;
+  }
+}
