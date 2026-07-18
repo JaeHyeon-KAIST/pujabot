@@ -39,23 +39,24 @@ export default function Home() {
   const [input, setInput] = useState("");
   const [budget, setBudget] = useState("Any");
   const [lang, setLang] = useState("English");
-  const [deity, setDeity] = useState("Vishnu");
+  const [deity, setDeity] = useState("Any");
   const [langToast, setLangToast] = useState(false);
 
   function submit() {
     const text = input.trim();
-    if (!text) return;
     logEvent("input_submitted", { text, budget, lang, deity });
-    // Demo never dead-ends: unmatched input routes to the reviewed
-    // general-blessing template (still retrieval-only — the result page
-    // shows a "pandit will review your words" banner for it).
+    // Search text is optional — an empty submit still proceeds. Demo never
+    // dead-ends: unmatched input routes to the reviewed general-blessing
+    // template (still retrieval-only — the result page shows a "pandit will
+    // review your words" banner for it).
     const id = matchScenario(text);
     if (id) {
       logEvent("scenario_matched", { id });
     } else {
       logEvent("unmatched_input", { text });
     }
-    router.push(`/result/${id ?? "general"}?q=${encodeURIComponent(text)}`);
+    const q = text ? `?q=${encodeURIComponent(text)}` : "";
+    router.push(`/result/${id ?? "general"}${q}`);
   }
 
   function tapTry(label: string, scenarioId: string) {
